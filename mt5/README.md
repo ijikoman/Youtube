@@ -4,7 +4,7 @@
 このファイルは実行手順であり、実行結果ではない。架空の利益や取引を検証結果として使わない。
 
 1. WindowsのMT5とMetaEditorを用意する。ブローカーのデモ口座から銘柄仕様・履歴を取得する。口座情報はリポジトリに保存しない。
-2. `ResearchPullback.mq5` をMT5データフォルダーの `MQL5/Experts/Research/` にコピーする。
+2. `ResearchPullback.mq5` と `ResearchExport.mqh`(v0.11以降は必須。取引CSVの出力処理)を、MT5データフォルダーの `MQL5/Experts/Research/` にコピーする。`diagnostics/` には照合用のツールを置いている(BarDump、ExportTest、verify_entries.py)。いずれも発注しない、またはテスター専用。
 3. MetaEditorでコンパイルし、エラー・警告を確認する。ログを保存する。修正が必要なら検証前に直す。
 4. ストラテジーテスターでEA、XAUUSD相当の銘柄、M5、「リアルティックに基づいた全ティック」を選択。最適化は無効にする。
 5. 入金額・口座通貨・レバレッジ・約定遅延を固定。まず短期間をビジュアルモードで実行し、EMA・ATR・エントリー・SL/TPがルールに一致するか照合する。

@@ -1,0 +1,13 @@
+﻿
+
+MQL5\Experts\Research\ResearchPullback.mq5 : information: compiling MQL5\Experts\Research\ResearchPullback.mq5
+MQL5\Experts\Research\ResearchPullback.mq5 : information: including <USER_HOME>\MT5_EMTester\MQL5\Include\Trade\Trade.mqh
+<USER_HOME>\MT5_EMTester\MQL5\Include\Trade\Trade.mqh : information: including <USER_HOME>\MT5_EMTester\MQL5\Include\Object.mqh
+<USER_HOME>\MT5_EMTester\MQL5\Include\Object.mqh : information: including <USER_HOME>\MT5_EMTester\MQL5\Include\StdLibErr.mqh
+<USER_HOME>\MT5_EMTester\MQL5\Include\Trade\Trade.mqh : information: including <USER_HOME>\MT5_EMTester\MQL5\Include\Trade\OrderInfo.mqh
+<USER_HOME>\MT5_EMTester\MQL5\Include\Trade\Trade.mqh : information: including <USER_HOME>\MT5_EMTester\MQL5\Include\Trade\HistoryOrderInfo.mqh
+<USER_HOME>\MT5_EMTester\MQL5\Include\Trade\Trade.mqh : information: including <USER_HOME>\MT5_EMTester\MQL5\Include\Trade\PositionInfo.mqh
+<USER_HOME>\MT5_EMTester\MQL5\Include\Trade\Trade.mqh : information: including <USER_HOME>\MT5_EMTester\MQL5\Include\Trade\DealInfo.mqh
+MQL5\Experts\Research\ResearchPullback.mq5(2,11) : warning 68: version '0.10' is incompatible with MQL5 Market, must be xxx.yyy
+ : information: code generated
+Result: 0 errors, 1 warnings, 399 ms elapsed, cpu='X64 Regular'

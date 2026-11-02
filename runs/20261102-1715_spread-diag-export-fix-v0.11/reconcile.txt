@@ -1,0 +1,8 @@
+== ExportTest: csv_rows=5 unique=5 report_deals=9 report_net=-57.94 csv_net=-31.66 per-deal mismatches=[] end_of_test_rows=['9']
+   report deals not in CSV: [('3', 'F foreign', '0.00'), ('4', 'G foreign', '0.00'), ('7', '', '4.90'), ('10', 'end of test', '-31.18')]
+== A spread100: csv_rows=0 unique=0 report_deals=0 report_net=0.0 csv_net=0 per-deal mismatches=[] end_of_test_rows=[]
+   report deals not in CSV: []
+== B spread1000: csv_rows=106 unique=106 report_deals=106 report_net=-43.09 csv_net=-43.09 per-deal mismatches=[] end_of_test_rows=['107']
+   report deals not in CSV: []
+   v0.10 B CSV rows=105; identical to first 105 v0.11 rows: True; extra v0.11 rows: ['107 end of test']
+== offline (BarDump) signal bars: total=130 buy=80 sell=50

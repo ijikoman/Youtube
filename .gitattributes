@@ -1,0 +1,3 @@
+# Keep MQL sources byte-stable so recorded SHA256 values match on every OS
+*.mq5 text eol=lf
+*.mqh text eol=lf

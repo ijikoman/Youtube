@@ -1,0 +1,21 @@
+[indicators] live bars=1356  max|EMA recalcs-MT5|=0.000000  max|ATR(SMA TR) recalc-MT5|=0.000000
+[orders] OrderSend lines=54  'Order failure' lines=1
+[deals] positions=53  open-at-end=1  CSV net(profit+comm+swap+fee)=-52.02  of which costs=-0.94
+[rejected] 2026-10-06 22:30:00 sell: market closed (signal valid; no same-bar retry expected)
+[entries] spec-consistent 53/54
+[signals not traded] blocked by open position=76  by spread=0  same-second close (ambiguous)=0  UNEXPLAINED=0
+[exits, exact price match] at TP=0  at SL=0  other price=52 (real-tick fills cross the level)
+[exits, report comment] {'tp': 16, 'sl': 36, 'end': 1}  max|fill-level| SL=0.295 TP=0.223
+[deal match] CSV=105 report=106 profit mismatches=[] report-only=[('107', 'end of test', '8.93')]
+[report] 総損益: -43.09
+[report] 証拠金最大ドローダウン: 105.10 (1.05%)
+[report] 残高最大ドローダウン: 96.73 (0.97%)
+[report] 取引数: 53
+[report] プロフィットファクター: 0.81
+[report] ヒストリー品質: 100% リアルティック
+[report] 初期証拠金: 10 000.00
+[reconcile] report net=-43.09  CSV net=-52.02  diff=8.93
+[reconcile] diff explained by report-only deals: 8.93
+
+ISSUES:
+ - CSV export misses report-only deals ['107'] (e.g. 'end of test' close, magic=0) - export issue, not trading logic

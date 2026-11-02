@@ -2,3 +2,4 @@ __pycache__/
 .venv/
 .env
 projects/*/output/
+runs/*/local_raw/

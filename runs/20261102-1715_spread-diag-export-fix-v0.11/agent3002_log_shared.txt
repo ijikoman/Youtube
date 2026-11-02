@@ -1,0 +1,272 @@
+﻿CS	0	17:03:11.194	Startup	MetaTester 5 build 6230, 25 Sep 2026
+CS	0	17:03:11.194	Startup	Windows 11 build 26200, 32 x Intel Core i9-14900K, AVX2, 32 / 63 Gb memory, 698 / 1861 Gb disk, UAC, GMT+9
+CS	0	17:03:11.195	Server	MetaTester 5 started on 127.0.0.1:3002
+CS	0	17:03:11.195	Startup	cloud network mode is off
+CS	0	17:03:11.196	Startup	initialization finished
+CS	0	17:03:11.473	127.0.0.1	login (build 6230)
+CS	0	17:03:11.487	Network	15288 bytes of account info loaded
+CS	0	17:03:11.487	Network	1478 bytes of tester parameters loaded
+CS	0	17:03:11.487	Network	1732 bytes of input parameters loaded
+CS	0	17:03:11.488	Network	9199 bytes of symbols list loaded (988 symbols)
+CS	0	17:03:11.488	Tester	expert file added: Experts\Research\ExportTest.ex5. 33277 bytes loaded
+CS	0	17:03:11.490	Tester	33110 Mb available, 413 blocks set for ticks generating
+CS	0	17:03:11.490	Tester	initial deposit 10000.00 USD, leverage 1:100
+CS	0	17:03:11.490	Tester	successfully initialized
+CS	0	17:03:11.490	Network	38 Kb of total initialization data received
+CS	0	17:03:11.490	Tester	Intel Core i9-14900K, 65276 MB
+CS	0	17:03:11.493	Symbols	XAUUSDm: symbol to be synchronized
+CS	0	17:03:11.494	Symbols	XAUUSDm: symbol synchronized, 4120 bytes of symbol info received
+CS	0	17:03:11.495	History	XAUUSDm: load 29 bytes of history data to synchronize in 0:00:00.000
+CS	0	17:03:11.495	History	XAUUSDm: history synchronized from 2019.01.02 to 2026.10.09
+CS	0	17:03:11.495	Ticks	XAUUSDm: ticks synchronization started
+CS	0	17:03:29.619	Ticks	XAUUSDm: load 36 bytes of tick data to synchronize in 0:00:18.125
+CS	0	17:03:29.619	Ticks	XAUUSDm: history ticks synchronized from 2026.01.01 to 2026.10.09
+CS	0	17:03:29.648	History	XAUUSDm,M5: history cache allocated for 124858 bars and contains 124652 bars from 2025.01.01 23:05 to 2026.10.05 23:55
+CS	0	17:03:29.648	History	XAUUSDm,M5: history begins from 2025.01.01 23:05
+CS	0	17:03:29.667	Tester	XAUUSDm,M5 (Exness-MT5Trial5): generating based on real ticks
+CS	0	17:03:29.667	Tester	XAUUSDm,M5: testing of Experts\Research\ExportTest.ex5 from 2026.10.06 00:00 to 2026.10.07 00:00 started with inputs:
+CS	0	17:03:29.667	Tester	  OwnMagic=2601102
+CS	0	17:03:29.667	Tester	  ForeignMagic=999
+CS	0	17:03:29.667	Tester	  CloserMagic=555
+CS	0	17:03:29.688	Ticks	XAUUSDm : real ticks begin from 2026.01.01 00:00:00
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   market buy 0.01 XAUUSDm (4134.889 / 4135.129)
+CS	0	17:03:29.699	Trades	2026.10.06 00:05:00   deal #2 buy 0.01 XAUUSDm at 4135.129 done (based on order #2)
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   deal performed [#2 buy 0.01 XAUUSDm at 4135.129]
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   order performed buy 0.01 at 4135.129 [#2 buy 0.01 XAUUSDm at 4135.129]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:05:00   CTrade::OrderSend: market buy 0.01 XAUUSDm [done at 4135.129]
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   market buy 0.01 XAUUSDm (4134.889 / 4135.129)
+CS	0	17:03:29.699	Trades	2026.10.06 00:05:00   deal #3 buy 0.01 XAUUSDm at 4135.129 done (based on order #3)
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   deal performed [#3 buy 0.01 XAUUSDm at 4135.129]
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   order performed buy 0.01 at 4135.129 [#3 buy 0.01 XAUUSDm at 4135.129]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:05:00   CTrade::OrderSend: market buy 0.01 XAUUSDm [done at 4135.129]
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   market sell 0.01 XAUUSDm (4134.889 / 4135.129)
+CS	0	17:03:29.699	Trades	2026.10.06 00:05:00   deal #4 sell 0.01 XAUUSDm at 4134.889 done (based on order #4)
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   deal performed [#4 sell 0.01 XAUUSDm at 4134.889]
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   order performed sell 0.01 at 4134.889 [#4 sell 0.01 XAUUSDm at 4134.889]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:05:00   CTrade::OrderSend: market sell 0.01 XAUUSDm [done at 4134.889]
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   market sell 0.02 XAUUSDm (4134.889 / 4135.129)
+CS	0	17:03:29.699	Trades	2026.10.06 00:05:00   deal #5 sell 0.02 XAUUSDm at 4134.889 done (based on order #5)
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   deal performed [#5 sell 0.02 XAUUSDm at 4134.889]
+CS	0	17:03:29.699	Trade	2026.10.06 00:05:00   order performed sell 0.02 at 4134.889 [#5 sell 0.02 XAUUSDm at 4134.889]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:05:00   CTrade::OrderSend: market sell 0.02 XAUUSDm [done at 4134.889]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:05:00   ExportTest opened: A=2 F=3 C=5
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   market sell 0.01 XAUUSDm, close #2 (4140.025 / 4140.265)
+CS	0	17:03:29.699	Trades	2026.10.06 00:20:00   deal #6 sell 0.01 XAUUSDm at 4140.025 done (based on order #6)
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   deal performed [#6 sell 0.01 XAUUSDm at 4140.025]
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   order performed sell 0.01 at 4140.025 [#6 sell 0.01 XAUUSDm at 4140.025]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:20:00   CTrade::OrderSend: market sell 0.01 position #2 XAUUSDm [done at 4140.025]
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   market sell 0.01 XAUUSDm, close #3 (4140.025 / 4140.265)
+CS	0	17:03:29.699	Trades	2026.10.06 00:20:00   deal #7 sell 0.01 XAUUSDm at 4140.025 done (based on order #7)
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   deal performed [#7 sell 0.01 XAUUSDm at 4140.025]
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   order performed sell 0.01 at 4140.025 [#7 sell 0.01 XAUUSDm at 4140.025]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:20:00   CTrade::OrderSend: market sell 0.01 position #3 XAUUSDm [done at 4140.025]
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   market buy 0.01 XAUUSDm, close #5 (4140.025 / 4140.265)
+CS	0	17:03:29.699	Trades	2026.10.06 00:20:00   deal #8 buy 0.01 XAUUSDm at 4140.265 done (based on order #8)
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   deal performed [#8 buy 0.01 XAUUSDm at 4140.265]
+CS	0	17:03:29.699	Trade	2026.10.06 00:20:00   order performed buy 0.01 at 4140.265 [#8 buy 0.01 XAUUSDm at 4140.265]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:20:00   CTrade::OrderSend: market buy 0.01 position #5 XAUUSDm [done at 4140.265]
+CS	0	17:03:29.699	ExportTest (XAUUSDm,M5)	2026.10.06 00:20:00   ExportTest closes: A_by_closer=ok F=ok C_partial=ok
+CS	0	17:03:29.736	Trade	2026.10.06 23:59:58   position closed due end of test at 4166.070 [#5 sell 0.01 XAUUSDm 4134.889]
+CS	0	17:03:29.736	Trades	2026.10.06 23:59:58   deal #9 buy 0.01 XAUUSDm at 4166.070 done (based on order #9)
+CS	0	17:03:29.736	Trade	2026.10.06 23:59:58   deal performed [#9 buy 0.01 XAUUSDm at 4166.070]
+CS	0	17:03:29.736	Trade	2026.10.06 23:59:58   order performed buy 0.01 at 4166.070 [#9 buy 0.01 XAUUSDm at 4166.070]
+CS	0	17:03:29.736	Trade	2026.10.06 23:59:58   position closed due end of test at 4166.070 [#4 sell 0.01 XAUUSDm 4134.889]
+CS	0	17:03:29.736	Trades	2026.10.06 23:59:58   deal #10 buy 0.01 XAUUSDm at 4166.070 done (based on order #10)
+CS	0	17:03:29.736	Trade	2026.10.06 23:59:58   deal performed [#10 buy 0.01 XAUUSDm at 4166.070]
+CS	0	17:03:29.736	Trade	2026.10.06 23:59:58   order performed buy 0.01 at 4166.070 [#10 buy 0.01 XAUUSDm at 4166.070]
+CS	0	17:03:29.736	Tester	final balance 9942.06 USD
+CS	0	17:03:29.738	ExportTest (XAUUSDm,M5)	2026.10.06 23:59:58   Export: exporttest_deals_66093.csv rows=5 positions=2 history_deals_total=10 duplicates_skipped=0 own_positions_open_at_export=0
+CS	0	17:03:29.738	ExportTest (XAUUSDm,M5)	2026.10.06 23:59:58   ExportTest expected rows=5 got=5
+CS	0	17:03:29.741	Tester	XAUUSDm,M5: 219301 ticks, 276 bars generated. Environment synchronized in 0:00:18.142. Test passed in 0:00:00.125 (including ticks preprocessing 0:00:00.016).
+CS	0	17:03:29.741	Tester	XAUUSDm,M5: total time from login to stop testing 0:00:18.267 (including 0:00:18.142 for history data synchronization)
+CS	0	17:03:29.741	Tester	93 Mb memory used including 7 Mb of history data, 64 Mb of tick data
+CS	0	17:03:29.741	Tester	log file "<USER_HOME>\MT5_EMTester\Tester\Agent-127.0.0.1-3002\logs\20261102.log" written
+CS	0	17:03:29.741	Tester	test Experts\Research\ExportTest.ex5 on XAUUSDm,M5 thread finished
+CS	0	17:03:29.807	127.0.0.1	tester forced to close
+CS	0	17:03:29.807	127.0.0.1	prepare for shutdown
+CS	0	17:03:29.807	127.0.0.1	stop immediately
+CS	0	17:03:29.807	127.0.0.1	shutdown finished
+CS	0	17:03:30.090	Server	MetaTester 5 stopped
+CS	0	17:03:38.707	Startup	MetaTester 5 build 6230, 25 Sep 2026
+CS	0	17:03:38.707	Startup	Windows 11 build 26200, 32 x Intel Core i9-14900K, AVX2, 32 / 63 Gb memory, 698 / 1861 Gb disk, UAC, GMT+9
+CS	0	17:03:38.708	Server	MetaTester 5 started on 127.0.0.1:3002
+CS	0	17:03:38.708	Startup	cloud network mode is off
+CS	0	17:03:38.708	Startup	initialization finished
+CS	0	17:03:39.029	127.0.0.1	login (build 6230)
+CS	0	17:03:39.041	Network	15288 bytes of account info loaded
+CS	0	17:03:39.041	Network	1478 bytes of tester parameters loaded
+CS	0	17:03:39.041	Network	4804 bytes of input parameters loaded
+CS	0	17:03:39.043	Network	9199 bytes of symbols list loaded (988 symbols)
+CS	0	17:03:39.043	Tester	expert file added: Experts\Research\ResearchPullback.ex5. 40281 bytes loaded
+CS	0	17:03:39.045	Tester	33104 Mb available, 413 blocks set for ticks generating
+CS	0	17:03:39.045	Tester	initial deposit 10000.00 USD, leverage 1:100
+CS	0	17:03:39.045	Tester	successfully initialized
+CS	0	17:03:39.045	Network	45 Kb of total initialization data received
+CS	0	17:03:39.045	Tester	Intel Core i9-14900K, 65276 MB
+CS	0	17:03:39.047	Symbols	XAUUSDm: symbol to be synchronized
+CS	0	17:03:39.048	Symbols	XAUUSDm: symbol synchronized, 4120 bytes of symbol info received
+CS	0	17:03:39.049	History	XAUUSDm: load 29 bytes of history data to synchronize in 0:00:00.000
+CS	0	17:03:39.049	History	XAUUSDm: history synchronized from 2019.01.02 to 2026.10.09
+CS	0	17:03:39.050	Ticks	XAUUSDm: ticks synchronization started
+CS	0	17:03:57.158	Ticks	XAUUSDm: load 36 bytes of tick data to synchronize in 0:00:18.109
+CS	0	17:03:57.158	Ticks	XAUUSDm: history ticks synchronized from 2026.01.01 to 2026.10.09
+CS	0	17:03:57.189	History	XAUUSDm,M5: history cache allocated for 125405 bars and contains 124376 bars from 2025.01.01 23:05 to 2026.10.04 23:55
+CS	0	17:03:57.189	History	XAUUSDm,M5: history begins from 2025.01.01 23:05
+CS	0	17:03:57.202	Tester	XAUUSDm,M5 (Exness-MT5Trial5): generating based on real ticks
+CS	0	17:03:57.202	Tester	XAUUSDm,M5: testing of Experts\Research\ResearchPullback.ex5 from 2026.10.05 00:00 to 2026.10.10 00:00 started with inputs:
+CS	0	17:03:57.202	Tester	  FastEMA=20
+CS	0	17:03:57.202	Tester	  SlowEMA=50
+CS	0	17:03:57.202	Tester	  ATRPeriod=14
+CS	0	17:03:57.202	Tester	  StopATR=1.5
+CS	0	17:03:57.202	Tester	  RewardRisk=2.0
+CS	0	17:03:57.202	Tester	  Lots=0.01
+CS	0	17:03:57.202	Tester	  Magic=2601102
+CS	0	17:03:57.202	Tester	  DeviationPoints=20
+CS	0	17:03:57.202	Tester	  MaxSpreadPoints=100
+CS	0	17:03:57.250	Ticks	XAUUSDm : real ticks begin from 2026.01.01 00:00:00
+CS	0	17:03:57.260	ResearchPullback (XAUUSDm,M5)	2026.10.05 00:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.262	ResearchPullback (XAUUSDm,M5)	2026.10.05 01:40:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.262	ResearchPullback (XAUUSDm,M5)	2026.10.05 01:50:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.262	ResearchPullback (XAUUSDm,M5)	2026.10.05 02:25:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.263	ResearchPullback (XAUUSDm,M5)	2026.10.05 05:35:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.264	ResearchPullback (XAUUSDm,M5)	2026.10.05 05:55:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.266	ResearchPullback (XAUUSDm,M5)	2026.10.05 08:50:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.266	ResearchPullback (XAUUSDm,M5)	2026.10.05 10:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.267	ResearchPullback (XAUUSDm,M5)	2026.10.05 11:15:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.267	ResearchPullback (XAUUSDm,M5)	2026.10.05 11:20:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.267	ResearchPullback (XAUUSDm,M5)	2026.10.05 11:25:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.267	ResearchPullback (XAUUSDm,M5)	2026.10.05 11:30:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.267	ResearchPullback (XAUUSDm,M5)	2026.10.05 12:10:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.267	ResearchPullback (XAUUSDm,M5)	2026.10.05 12:20:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.269	ResearchPullback (XAUUSDm,M5)	2026.10.05 15:10:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.269	ResearchPullback (XAUUSDm,M5)	2026.10.05 16:00:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.270	ResearchPullback (XAUUSDm,M5)	2026.10.05 17:30:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.270	ResearchPullback (XAUUSDm,M5)	2026.10.05 18:25:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.270	ResearchPullback (XAUUSDm,M5)	2026.10.05 20:00:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.270	ResearchPullback (XAUUSDm,M5)	2026.10.05 20:25:01   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.270	ResearchPullback (XAUUSDm,M5)	2026.10.05 20:45:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.270	ResearchPullback (XAUUSDm,M5)	2026.10.05 20:50:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.274	ResearchPullback (XAUUSDm,M5)	2026.10.06 00:40:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.275	ResearchPullback (XAUUSDm,M5)	2026.10.06 03:00:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.275	ResearchPullback (XAUUSDm,M5)	2026.10.06 03:10:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.275	ResearchPullback (XAUUSDm,M5)	2026.10.06 03:55:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.275	ResearchPullback (XAUUSDm,M5)	2026.10.06 04:15:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.276	ResearchPullback (XAUUSDm,M5)	2026.10.06 05:40:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.276	ResearchPullback (XAUUSDm,M5)	2026.10.06 07:15:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.277	ResearchPullback (XAUUSDm,M5)	2026.10.06 10:00:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.277	ResearchPullback (XAUUSDm,M5)	2026.10.06 10:15:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.277	ResearchPullback (XAUUSDm,M5)	2026.10.06 10:25:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.278	ResearchPullback (XAUUSDm,M5)	2026.10.06 12:40:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.279	ResearchPullback (XAUUSDm,M5)	2026.10.06 13:10:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.280	ResearchPullback (XAUUSDm,M5)	2026.10.06 16:15:01   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.280	ResearchPullback (XAUUSDm,M5)	2026.10.06 16:25:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.280	ResearchPullback (XAUUSDm,M5)	2026.10.06 17:10:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.281	ResearchPullback (XAUUSDm,M5)	2026.10.06 17:35:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.281	ResearchPullback (XAUUSDm,M5)	2026.10.06 22:30:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.282	ResearchPullback (XAUUSDm,M5)	2026.10.06 23:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.283	ResearchPullback (XAUUSDm,M5)	2026.10.07 00:05:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.283	ResearchPullback (XAUUSDm,M5)	2026.10.07 00:15:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.283	ResearchPullback (XAUUSDm,M5)	2026.10.07 00:25:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.285	ResearchPullback (XAUUSDm,M5)	2026.10.07 02:50:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.285	ResearchPullback (XAUUSDm,M5)	2026.10.07 03:55:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.285	ResearchPullback (XAUUSDm,M5)	2026.10.07 04:00:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.285	ResearchPullback (XAUUSDm,M5)	2026.10.07 04:05:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 05:50:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 05:55:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 06:20:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 06:40:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 06:55:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 07:00:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 07:15:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 07:30:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 07:50:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.286	ResearchPullback (XAUUSDm,M5)	2026.10.07 08:10:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.287	ResearchPullback (XAUUSDm,M5)	2026.10.07 11:00:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.288	ResearchPullback (XAUUSDm,M5)	2026.10.07 11:40:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.288	ResearchPullback (XAUUSDm,M5)	2026.10.07 12:20:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.288	ResearchPullback (XAUUSDm,M5)	2026.10.07 12:25:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.289	ResearchPullback (XAUUSDm,M5)	2026.10.07 13:25:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.291	ResearchPullback (XAUUSDm,M5)	2026.10.07 16:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.292	ResearchPullback (XAUUSDm,M5)	2026.10.07 16:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.292	ResearchPullback (XAUUSDm,M5)	2026.10.07 17:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.292	ResearchPullback (XAUUSDm,M5)	2026.10.07 18:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.294	ResearchPullback (XAUUSDm,M5)	2026.10.07 20:55:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.294	ResearchPullback (XAUUSDm,M5)	2026.10.07 23:35:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.301	ResearchPullback (XAUUSDm,M5)	2026.10.08 00:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.301	ResearchPullback (XAUUSDm,M5)	2026.10.08 00:15:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.301	ResearchPullback (XAUUSDm,M5)	2026.10.08 00:50:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.302	ResearchPullback (XAUUSDm,M5)	2026.10.08 03:25:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.302	ResearchPullback (XAUUSDm,M5)	2026.10.08 03:30:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.304	ResearchPullback (XAUUSDm,M5)	2026.10.08 07:00:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.304	ResearchPullback (XAUUSDm,M5)	2026.10.08 07:35:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.304	ResearchPullback (XAUUSDm,M5)	2026.10.08 08:40:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.304	ResearchPullback (XAUUSDm,M5)	2026.10.08 09:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.304	ResearchPullback (XAUUSDm,M5)	2026.10.08 09:35:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.304	ResearchPullback (XAUUSDm,M5)	2026.10.08 10:05:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.304	ResearchPullback (XAUUSDm,M5)	2026.10.08 10:15:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.304	ResearchPullback (XAUUSDm,M5)	2026.10.08 10:20:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.306	ResearchPullback (XAUUSDm,M5)	2026.10.08 11:05:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.306	ResearchPullback (XAUUSDm,M5)	2026.10.08 12:20:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.307	ResearchPullback (XAUUSDm,M5)	2026.10.08 13:35:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.307	ResearchPullback (XAUUSDm,M5)	2026.10.08 13:40:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.307	ResearchPullback (XAUUSDm,M5)	2026.10.08 13:50:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.307	ResearchPullback (XAUUSDm,M5)	2026.10.08 14:20:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.310	ResearchPullback (XAUUSDm,M5)	2026.10.08 17:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.310	ResearchPullback (XAUUSDm,M5)	2026.10.08 18:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.310	ResearchPullback (XAUUSDm,M5)	2026.10.08 19:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.311	ResearchPullback (XAUUSDm,M5)	2026.10.08 19:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.311	ResearchPullback (XAUUSDm,M5)	2026.10.08 20:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.311	ResearchPullback (XAUUSDm,M5)	2026.10.08 22:00:35   Diag spread-skip buy signal: ask-bid=0.580 (580pt) > MaxSpreadPoints=100
+CS	0	17:03:57.311	ResearchPullback (XAUUSDm,M5)	2026.10.08 22:10:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.311	ResearchPullback (XAUUSDm,M5)	2026.10.08 23:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.311	ResearchPullback (XAUUSDm,M5)	2026.10.08 23:50:01   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.313	ResearchPullback (XAUUSDm,M5)	2026.10.09 00:30:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.313	ResearchPullback (XAUUSDm,M5)	2026.10.09 00:35:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.313	ResearchPullback (XAUUSDm,M5)	2026.10.09 00:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.313	ResearchPullback (XAUUSDm,M5)	2026.10.09 01:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.315	ResearchPullback (XAUUSDm,M5)	2026.10.09 05:00:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.315	ResearchPullback (XAUUSDm,M5)	2026.10.09 06:40:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.315	ResearchPullback (XAUUSDm,M5)	2026.10.09 07:20:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.315	ResearchPullback (XAUUSDm,M5)	2026.10.09 07:30:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.316	ResearchPullback (XAUUSDm,M5)	2026.10.09 07:55:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.316	ResearchPullback (XAUUSDm,M5)	2026.10.09 08:00:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.316	ResearchPullback (XAUUSDm,M5)	2026.10.09 08:30:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.317	ResearchPullback (XAUUSDm,M5)	2026.10.09 11:45:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.317	ResearchPullback (XAUUSDm,M5)	2026.10.09 12:00:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.317	ResearchPullback (XAUUSDm,M5)	2026.10.09 12:20:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.317	ResearchPullback (XAUUSDm,M5)	2026.10.09 12:40:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.317	ResearchPullback (XAUUSDm,M5)	2026.10.09 12:45:00   Diag spread-skip sell signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.318	ResearchPullback (XAUUSDm,M5)	2026.10.09 14:10:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.318	ResearchPullback (XAUUSDm,M5)	2026.10.09 14:15:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.318	ResearchPullback (XAUUSDm,M5)	2026.10.09 14:35:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.318	ResearchPullback (XAUUSDm,M5)	2026.10.09 15:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.319	ResearchPullback (XAUUSDm,M5)	2026.10.09 15:15:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.319	ResearchPullback (XAUUSDm,M5)	2026.10.09 15:20:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.319	ResearchPullback (XAUUSDm,M5)	2026.10.09 15:50:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.319	ResearchPullback (XAUUSDm,M5)	2026.10.09 16:05:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.319	ResearchPullback (XAUUSDm,M5)	2026.10.09 16:45:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.319	ResearchPullback (XAUUSDm,M5)	2026.10.09 17:15:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 18:40:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 18:45:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 18:50:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 19:00:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 19:40:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 19:50:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 20:20:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 20:30:00   Diag spread-skip buy signal: ask-bid=0.240 (240pt) > MaxSpreadPoints=100
+CS	0	17:03:57.320	Tester	final balance 10000.00 USD
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 20:57:59   Diag symbol: name=XAUUSDm description="Gold vs US Dollar" path="Standard\Forex\XAUUSDm" digits=3 point=0.0010000000 ticksize=0.0010000000 contract=100.00 spread_float=true stopslevel=0
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 20:57:59   Diag spread all ticks (ask-bid): n=1188201 min=240pt(0.240) median=240pt(0.240) max=580pt(0.580) share<=100pt=0.00%  [price min=0.240 max=0.580]
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 20:57:59   Diag spread at checked new-bar ticks: n=1356 min=240pt(0.240) median=240pt(0.240) max=580pt(0.580) share<=100pt=0.00%
+CS	0	17:03:57.320	ResearchPullback (XAUUSDm,M5)	2026.10.09 20:57:59   Diag counts: new_bars=1356 skip_position=0 skip_tick_or_atr=0 signals=130 (buy=80 sell=50) spread_blocked_bars=1356 spread_blocked_signals=130 stops_level_skip=0 orders_sent=0 order_failures=0
+CS	0	17:03:57.321	ResearchPullback (XAUUSDm,M5)	2026.10.09 20:57:59   Export: research_deals_113966.csv rows=0 positions=0 history_deals_total=1 duplicates_skipped=0 own_positions_open_at_export=0
+CS	0	17:03:57.324	Tester	XAUUSDm,M5: 1188201 ticks, 1356 bars generated. Environment synchronized in 0:00:18.125. Test passed in 0:00:00.169 (including ticks preprocessing 0:00:00.032).
+CS	0	17:03:57.324	Tester	XAUUSDm,M5: total time from login to stop testing 0:00:18.294 (including 0:00:18.125 for history data synchronization)
+CS	0	17:03:57.324	Tester	123 Mb memory used including 7 Mb of history data, 64 Mb of tick data
+CS	0	17:03:57.324	Tester	log file "<USER_HOME>\MT5_EMTester\Tester\Agent-127.0.0.1-3002\logs\20261102.log" written
+CS	0	17:03:57.324	Tester	test Experts\Research\ResearchPullback.ex5 on XAUUSDm,M5 thread finished
+CS	0	17:03:57.347	127.0.0.1	tester forced to close
+CS	0	17:03:57.347	127.0.0.1	prepare for shutdown
+CS	0	17:03:57.347	127.0.0.1	stop immediately
+CS	0	17:03:57.347	127.0.0.1	shutdown finished
+CS	0	17:03:57.608	Server	MetaTester 5 stopped

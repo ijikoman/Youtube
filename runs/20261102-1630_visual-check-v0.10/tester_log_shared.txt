@@ -1,0 +1,101 @@
+﻿RL	0	16:26:15.968	Tester	Cloud servers switched off
+ES	0	16:26:25.877	Tester	"Research\BarDump.ex5" X64
+OE	0	16:26:26.147	Tester	XAUUSDm: preliminary downloading of M1 history started
+CM	0	16:26:26.258	Tester	XAUUSDm: preliminary downloading of M1 history completed in 0:00:00.219
+PM	0	16:26:26.385	Tester	XAUUSDm: preliminary downloading of history ticks started, it may take quite a long time
+ES	0	16:26:26.385	Tester	XAUUSDm: preliminary downloading of history ticks completed
+CF	0	16:26:26.385	Tester	XAUUSDm: ticks data begins from 2026.01.01 00:00
+QL	0	16:26:26.385	Tester	XAUUSDm: history data begins from 2017.01.03 00:00
+OI	0	16:26:26.386	Tester	XAUUSDm: preliminary downloading of history ticks started, it may take quite a long time
+JG	0	16:26:26.386	Tester	XAUUSDm: preliminary downloading of history ticks completed
+PK	0	16:26:26.386	Tester	XAUUSDm: ticks data begins from 2026.01.01 00:00
+NL	0	16:26:26.412	Core 01	agent process started on 127.0.0.1:3000
+IK	0	16:26:26.412	Core 01	connecting to 127.0.0.1:3000
+MN	0	16:26:26.928	Core 01	connected
+ML	0	16:26:26.932	Core 01	authorized (agent build 6230)
+HD	0	16:26:26.944	Tester	XAUUSDm,M5 (Exness-MT5Trial5): testing of Experts\Research\BarDump.ex5 from 2026.10.05 00:00 to 2026.10.10 00:00
+FG	0	16:26:26.948	Core 01	common synchronization completed
+OP	0	16:26:27.071	Core 01	XAUUSDm: history for 2026 year synchronized
+GF	0	16:26:27.071	Core 01	XAUUSDm: history synchronization completed [237 Kb]
+QG	0	16:26:27.071	Core 01	XAUUSDm: 237.60 Kb of history processed in 0:00:00.016
+FS	0	16:26:29.084	Core 01	XAUUSDm: ticks synchronization started
+NK	0	16:26:46.182	Core 01	XAUUSDm: ticks downloading completed
+MQ	0	16:26:46.193	Core 01	XAUUSDm: ticks synchronization completed [8167 Kb]
+EH	0	16:26:46.223	Core 01	MetaTester 5 started on 127.0.0.1:3000
+OR	0	16:26:46.223	Core 01	cloud network mode is off
+LF	0	16:26:46.223	Core 01	initialization finished
+IS	0	16:26:46.223	Core 01	login (build 6230)
+JH	0	16:26:46.223	Core 01	15288 bytes of account info loaded
+NL	0	16:26:46.223	Core 01	1478 bytes of tester parameters loaded
+EK	0	16:26:46.223	Core 01	2244 bytes of input parameters loaded
+EN	0	16:26:46.223	Core 01	9199 bytes of symbols list loaded (988 symbols)
+JK	0	16:26:46.223	Core 01	expert file added: Experts\Research\BarDump.ex5. 13678 bytes loaded
+KL	0	16:26:46.223	Core 01	33292 Mb available, 416 blocks set for ticks generating
+FN	0	16:26:46.223	Core 01	initial deposit 10000.00 USD, leverage 1:100
+KE	0	16:26:46.223	Core 01	successfully initialized
+CK	0	16:26:46.223	Core 01	19 Kb of total initialization data received
+RG	0	16:26:46.223	Core 01	Intel Core i9-14900K, 65276 MB
+QK	0	16:26:46.223	Core 01	XAUUSDm: symbol to be synchronized
+MO	0	16:26:46.223	Core 01	XAUUSDm: symbol synchronized, 4120 bytes of symbol info received
+MM	0	16:26:46.223	Core 01	XAUUSDm: load 237 Kb of history data to synchronize in 0:00:00.017
+OE	0	16:26:46.223	Core 01	XAUUSDm: history synchronized from 2019.01.02 to 2026.10.09
+LI	0	16:26:46.223	Core 01	XAUUSDm: ticks synchronization started
+MR	0	16:26:46.727	Core 01	XAUUSDm: load 7.97 Mb of tick data to synchronize in 0:00:19.188
+QJ	0	16:26:46.727	Core 01	XAUUSDm: history ticks synchronized from 2026.01.01 to 2026.10.09
+NG	0	16:26:46.727	Core 01	XAUUSDm,M5: history cache allocated for 125405 bars and contains 124376 bars from 2025.01.01 23:05 to 2026.10.04 23:55
+OD	0	16:26:46.727	Core 01	XAUUSDm,M5: history begins from 2025.01.01 23:05
+OP	0	16:26:46.727	Core 01	XAUUSDm,M5 (Exness-MT5Trial5): generating based on real ticks
+KD	0	16:26:46.727	Core 01	XAUUSDm,M5: testing of Experts\Research\BarDump.ex5 from 2026.10.05 00:00 to 2026.10.10 00:00 started with inputs:
+EL	0	16:26:46.727	Core 01	  FastEMA=20
+ES	0	16:26:46.727	Core 01	  SlowEMA=50
+QF	0	16:26:46.727	Core 01	  ATRPeriod=14
+JS	0	16:26:46.727	Core 01	  WarmupBars=1500
+GQ	0	16:26:46.727	Core 01	XAUUSDm : real ticks begin from 2026.01.01 00:00:00
+RO	0	16:26:46.727	Core 01	final balance 10000.00 USD
+EL	0	16:26:46.727	Core 01	2026.10.09 20:57:59   BarDump: digits=3 point=0.0010000000 ticksize=0.0010000000 contract=100.00 stopslevel=0 volmin=0.01 step=0.01
+PH	0	16:26:46.727	Core 01	XAUUSDm,M5: 1188201 ticks, 1356 bars generated. Environment synchronized in 0:00:19.228. Test passed in 0:00:00.568 (including ticks preprocessing 0:00:00.078).
+RM	0	16:26:46.727	Core 01	XAUUSDm,M5: total time from login to stop testing 0:00:19.796 (including 0:00:19.228 for history data synchronization)
+PL	0	16:26:46.727	Core 01	133 Mb memory used including 7 Mb of history data, 64 Mb of tick data
+CO	0	16:26:46.727	Core 01	log file "<USER_HOME>\MT5_EMTester\Tester\Agent-127.0.0.1-3000\logs\20261102.log" written
+HE	0	16:26:46.764	Tester	automatic testing finished
+HL	0	16:26:46.764	Core 01	connection closed
+MH	0	16:27:27.103	Tester	Cloud servers switched off
+RQ	0	16:27:32.558	Tester	"Research\ResearchPullback.ex5" X64
+CH	0	16:27:32.796	Tester	XAUUSDm: history data begins from 2017.01.03 00:00
+QR	0	16:27:32.799	Tester	XAUUSDm: preliminary downloading of history ticks started, it may take quite a long time
+HS	0	16:27:32.799	Tester	XAUUSDm: preliminary downloading of history ticks completed
+JG	0	16:27:32.799	Tester	XAUUSDm: ticks data begins from 2026.01.01 00:00
+PL	0	16:27:32.799	Tester	XAUUSDm: history data begins from 2017.01.03 00:00
+JN	0	16:27:32.800	Tester	XAUUSDm: preliminary downloading of history ticks started, it may take quite a long time
+KG	0	16:27:32.800	Tester	XAUUSDm: preliminary downloading of history ticks completed
+MK	0	16:27:32.800	Tester	XAUUSDm: ticks data begins from 2026.01.01 00:00
+LL	0	16:27:32.803	Core 01	agent process started on 127.0.0.1:3000
+CJ	0	16:27:32.803	Core 01	connecting to 127.0.0.1:3000
+HM	0	16:27:33.326	Core 01	connected
+HL	0	16:27:33.329	Core 01	authorized (agent build 6230)
+JI	0	16:27:33.341	Tester	XAUUSDm,M5 (Exness-MT5Trial5): visual testing of Experts\Research\ResearchPullback.ex5 from 2026.10.05 00:00 to 2026.10.10 00:00
+QP	0	16:27:34.312	Core 01	common synchronization completed
+HH	0	16:27:35.339	Core 01	XAUUSDm: ticks synchronized already [45 bytes]
+OP	0	16:32:25.200	Tester	automatic testing finished
+OJ	0	16:32:28.175	Core 01	connection closed
+CJ	0	16:32:57.580	Tester	Cloud servers switched off
+NO	0	16:32:59.979	Tester	"Research\ResearchPullback.ex5" X64
+OF	0	16:33:00.222	Tester	XAUUSDm: history data begins from 2017.01.03 00:00
+KP	0	16:33:00.223	Tester	XAUUSDm: preliminary downloading of history ticks started, it may take quite a long time
+JM	0	16:33:00.223	Tester	XAUUSDm: preliminary downloading of history ticks completed
+HE	0	16:33:00.223	Tester	XAUUSDm: ticks data begins from 2026.01.01 00:00
+OJ	0	16:33:00.224	Tester	XAUUSDm: history data begins from 2017.01.03 00:00
+OL	0	16:33:00.225	Tester	XAUUSDm: preliminary downloading of history ticks started, it may take quite a long time
+JQ	0	16:33:00.225	Tester	XAUUSDm: preliminary downloading of history ticks completed
+PI	0	16:33:00.225	Tester	XAUUSDm: ticks data begins from 2026.01.01 00:00
+HR	0	16:33:00.230	Core 01	agent process started on 127.0.0.1:3000
+KD	0	16:33:00.230	Core 01	connecting to 127.0.0.1:3000
+GS	0	16:33:00.757	Core 01	connected
+MJ	0	16:33:00.761	Core 01	authorized (agent build 6230)
+LL	0	16:33:00.773	Tester	XAUUSDm,M5 (Exness-MT5Trial5): visual testing of Experts\Research\ResearchPullback.ex5 from 2026.10.05 00:00 to 2026.10.10 00:00
+LR	0	16:33:01.530	Core 01	common synchronization completed
+OJ	0	16:33:03.575	Core 01	XAUUSDm: ticks synchronization started
+IS	0	16:33:24.680	Core 01	XAUUSDm: ticks downloading completed
+LK	0	16:33:24.680	Core 01	XAUUSDm: ticks synchronized already [45 bytes]
+HN	0	16:37:37.658	Tester	automatic testing finished
+GI	0	16:37:40.280	Core 01	connection closed
