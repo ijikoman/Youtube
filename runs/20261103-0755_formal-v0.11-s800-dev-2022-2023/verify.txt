@@ -1,0 +1,437 @@
+[indicators] live bars=141544  max|EMA recalcs-MT5|=0.000000  max|ATR(SMA TR) recalc-MT5|=0.000000
+[orders] OrderSend lines=5734  'Order failure' lines=178
+[deals] positions=5556  open-at-end=0  CSV net(profit+comm+swap+fee)=-2497.65  of which costs=-106.59
+[rejected] 2022-03-15 22:20:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-15 22:25:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-15 22:50:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-17 22:35:07 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-17 22:45:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-20 22:15:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-20 23:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-23 22:05:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-23 22:10:03 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-23 22:20:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-23 22:40:01 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-23 22:50:01 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-27 22:15:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-03-30 22:25:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-03 22:10:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-03 22:15:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-03 22:55:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-05 22:20:09 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-05 22:45:03 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-10 23:00:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-11 22:35:02 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-19 22:20:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-19 22:25:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-19 22:35:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-26 22:45:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-26 22:50:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-04-28 22:05:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-01 22:10:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-01 22:20:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-01 22:55:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-04 22:10:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-04 22:15:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-04 22:20:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-04 22:55:02 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-08 22:35:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-22 22:05:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-22 22:20:01 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-23 22:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-23 22:15:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-23 22:50:05 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-25 22:25:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-26 22:45:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-26 22:50:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-05-30 22:35:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-06-05 22:20:18 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-06-08 22:10:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-06-21 22:10:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-06-21 22:40:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-06-21 22:50:03 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-04 22:10:11 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-10 22:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-10 22:05:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-11 22:10:05 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-11 22:50:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-18 22:35:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-20 22:15:05 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-24 22:35:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-24 22:45:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-24 22:55:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-24 23:00:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-25 22:40:02 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-28 22:55:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-07-31 22:05:01 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-01 22:05:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-01 22:15:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-01 22:20:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-01 22:40:03 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-01 22:50:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-10 22:30:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-10 22:35:05 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-11 22:20:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-11 22:35:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-11 22:40:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-11 22:55:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-16 22:10:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-16 22:20:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-16 22:35:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-17 22:45:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-22 22:15:42 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-22 22:20:05 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-22 22:40:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-22 22:50:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-23 22:10:01 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-23 22:20:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-25 22:20:02 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-28 22:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-28 22:20:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-28 22:30:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-28 22:35:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-29 22:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-29 22:15:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-29 22:20:04 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-29 22:25:12 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-31 22:10:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-08-31 22:50:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-01 22:15:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-01 22:35:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-04 22:10:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-04 22:20:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-04 22:40:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-07 22:35:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-07 22:55:02 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-14 22:35:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-15 22:20:04 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-18 22:10:07 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-25 22:05:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-25 22:45:04 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-09-25 23:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-10-17 22:40:14 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-10-20 22:10:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-10-20 22:25:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-10-25 22:05:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-10-25 22:40:03 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-10-31 22:50:22 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-11-01 22:05:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2022-12-11 23:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-03-12 22:55:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-03-14 22:45:07 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-03-14 22:50:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-03-19 22:15:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-03-27 22:05:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-03-27 22:20:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-03-27 22:45:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-03-29 22:15:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-04-09 22:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-04-16 22:15:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-04-18 22:10:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-04-18 22:25:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-04-18 22:30:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-09 22:10:01 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-09 22:15:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-10 22:20:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-10 22:25:01 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-10 22:45:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-10 22:55:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-14 22:50:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-14 23:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-15 22:40:05 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-15 22:45:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-29 22:05:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-29 22:20:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-05-29 22:45:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-06-04 22:50:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-06-04 23:00:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-06-21 22:10:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-06-29 22:45:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-07-02 22:15:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-07-02 22:40:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-07-17 22:35:04 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-07-17 22:45:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-07-17 22:50:02 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-07-31 22:10:04 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-07-31 22:20:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-07-31 22:50:10 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-08-14 22:20:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-08-14 22:35:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-08-14 22:40:10 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-08-15 22:15:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-08-15 22:30:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-08-15 22:35:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-08-22 22:05:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-03 22:10:26 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-03 22:15:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-03 22:45:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-10 22:20:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-17 22:50:08 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-17 23:00:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-18 22:05:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-18 22:55:10 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-28 22:20:45 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-28 22:30:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-09-28 22:35:01 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-10-01 22:30:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-10-04 22:05:00 buy: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-10-15 22:55:07 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-10-18 22:50:02 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-10-23 22:35:00 sell: market closed (signal valid; no same-bar retry expected)
+[rejected] 2023-10-23 22:40:07 sell: market closed (signal valid; no same-bar retry expected)
+[entries] spec-consistent 5323/5734
+[signals not traded] blocked by open position=10080  by spread=37  same-second close (ambiguous)=5  UNEXPLAINED=7
+[exits, exact price match] at TP=27  at SL=126  other price=5403 (real-tick fills cross the level)
+[exits, report comment] {'sl': 4217, 'tp': 1339}  max|fill-level| SL=27.652 TP=14.482
+[deal match] CSV=11112 report=11112 profit mismatches=[] report-only=[]
+[report] 総損益: -2 497.65
+[report] 証拠金最大ドローダウン: 2 509.76 (25.07%)
+[report] 残高最大ドローダウン: 2 507.37 (25.05%)
+[report] 取引数: 5556
+[report] プロフィットファクター: 0.70
+[report] ヒストリー品質: 100% リアルティック
+[report] 初期証拠金: 10 000.00
+[reconcile] report net=-2497.65  CSV net=-2497.65  diff=0.00
+[reconcile] diff explained by report-only deals: 0.00
+
+ISSUES:
+ - 2022-01-05 23:45:01 sell: TP 1808.501 != expected 1808.5
+ - 2022-01-06 16:25:00 sell: SL 1792.899 != expected 1792.898
+ - 2022-01-06 20:45:00 sell: TP 1786.523 != expected 1786.522
+ - 2022-01-10 02:35:00 buy: TP 1798.751 != expected 1798.75
+ - 2022-01-10 06:10:02 sell: TP 1790.333 != expected 1790.334
+ - 2022-01-10 08:30:00 buy: TP 1798.015 != expected 1798.014
+ - 2022-01-12 06:40:00 buy: TP 1822.335 != expected 1822.334
+ - 2022-01-13 18:55:00 buy: TP 1823.043 != expected 1823.042
+ - 2022-01-19 12:20:00 buy: TP 1821.999 != expected 1821.998
+ - 2022-01-24 01:35:00 buy: TP 1838.083 != expected 1838.082
+ - 2022-01-24 11:45:00 sell: SL 1840.305 != expected 1840.304
+ - 2022-01-24 23:50:01 buy: SL 1842.543 != expected 1842.542
+ - 2022-01-25 05:05:01 buy: SL 1841.637 != expected 1841.636
+ - 2022-01-31 00:05:00 buy: SL 1788.473 != expected 1788.474
+ - 2022-02-02 06:35:00 sell: SL 1797.799 != expected 1797.8
+ - 2022-02-07 07:00:00 sell: TP 1807.427 != expected 1807.426
+ - 2022-02-11 14:20:00 buy: TP 1834.859 != expected 1834.858
+ - 2022-02-16 12:40:00 sell: TP 1850.371 != expected 1850.37
+ - 2022-02-17 08:30:00 buy: TP 1890.873 != expected 1890.872
+ - 2022-02-18 07:05:00 sell: SL 1892.141 != expected 1892.14
+ - 2022-02-18 08:45:00 buy: TP 1896.827 != expected 1896.826
+ - 2022-02-21 15:10:00 sell: SL 1896.384 != expected 1896.383
+ - 2022-02-22 05:40:00 buy: TP 1910.735 != expected 1910.736
+ - 2022-02-23 10:15:00 sell: SL 1895.173 != expected 1895.172
+ - 2022-02-28 12:05:01 buy: SL 1903.963 != expected 1903.964
+ - 2022-03-04 03:40:00 buy: TP 1945.191 != expected 1945.19
+ - 2022-03-07 19:40:00 buy: TP 2002.413 != expected 2002.412
+ - 2022-03-11 09:30:00 buy: TP 1998.483 != expected 1998.482
+ - 2022-03-21 10:35:00 buy: TP 1931.071 != expected 1931.07
+ - 2022-03-24 01:05:00 buy: SL 1946.495 != expected 1946.494
+ - 2022-03-24 23:25:00 sell: TP 1956.843 != expected 1956.842
+ - 2022-04-06 02:10:01 sell: TP 1916.311 != expected 1916.31
+ - 2022-04-08 13:05:00 buy: TP 1942.963 != expected 1942.964
+ - 2022-04-11 23:10:00 buy: SL 1951.845 != expected 1951.844
+ - 2022-04-12 01:05:01 sell: TP 1947.947 != expected 1947.948
+ - 2022-04-19 00:45:00 sell: SL 1977.775 != expected 1977.774
+ - 2022-04-19 23:25:01 sell: TP 1947.651 != expected 1947.65
+ - 2022-04-26 05:20:00 buy: TP 1907.475 != expected 1907.474
+ - 2022-04-26 08:20:00 sell: TP 1893.005 != expected 1893.006
+ - 2022-04-27 01:40:00 sell: TP 1899.331 != expected 1899.33
+ - 2022-04-27 18:25:00 sell: TP 1884.111 != expected 1884.11
+ - 2022-04-28 06:20:00 sell: TP 1869.646 != expected 1869.645
+ - 2022-04-29 01:05:01 buy: SL 1900.009 != expected 1900.01
+ - 2022-05-04 01:40:00 sell: SL 1865.771 != expected 1865.77
+ - 2022-05-06 08:00:00 sell: SL 1876.487 != expected 1876.486
+ - 2022-05-10 05:00:00 buy: SL 1861.575 != expected 1861.574
+ - 2022-05-10 09:45:00 buy: TP 1866.985 != expected 1866.984
+ - 2022-05-10 13:30:00 buy: TP 1869.185 != expected 1869.184
+ - 2022-05-12 19:30:00 sell: TP 1819.845 != expected 1819.846
+ - 2022-05-16 03:15:00 sell: TP 1808.517 != expected 1808.516
+ - 2022-05-17 04:55:00 sell: TP 1820.681 != expected 1820.68
+ - 2022-05-18 13:50:00 sell: SL 1815.655 != expected 1815.654
+ - 2022-05-25 08:50:00 sell: TP 1851.093 != expected 1851.092
+ - 2022-06-06 11:45:00 buy: SL 1852.263 != expected 1852.262
+ - 2022-06-09 07:30:00 sell: SL 1852.229 != expected 1852.228
+ - 2022-06-10 00:30:00 sell: TP 1844.113 != expected 1844.112
+ - 2022-06-10 06:50:00 sell: TP 1842.005 != expected 1842.004
+ - 2022-06-10 13:00:00 sell: TP 1826.893 != expected 1826.892
+ - 2022-06-12 23:55:01 buy: TP 1878.877 != expected 1878.876
+ - 2022-06-13 03:30:00 sell: TP 1861.289 != expected 1861.288
+ - 2022-06-13 20:00:00 sell: TP 1815.763 != expected 1815.762
+ - 2022-06-14 08:10:00 buy: TP 1834.403 != expected 1834.402
+ - 2022-06-14 10:20:00 sell: SL 1825.225 != expected 1825.224
+ - 2022-06-16 17:40:00 buy: SL 1845.59 != expected 1845.589
+ - 2022-06-17 13:15:00 buy: SL 1845.967 != expected 1845.966
+ - 2022-06-20 04:55:00 buy: TP 1846.475 != expected 1846.474
+ - 2022-06-21 07:10:00 sell: TP 1830.571 != expected 1830.572
+ - 2022-06-23 03:40:00 sell: SL 1835.065 != expected 1835.064
+ - 2022-06-28 07:05:00 buy: TP 1831.155 != expected 1831.154
+ - 2022-06-28 12:45:00 sell: TP 1818.059 != expected 1818.058
+ - 2022-06-30 06:00:00 sell: SL 1816.441 != expected 1816.44
+ - 2022-07-05 02:25:00 buy: SL 1809.863 != expected 1809.862
+ - 2022-07-06 13:25:00 buy: SL 1760.105 != expected 1760.104
+ - 2022-07-12 09:05:00 buy: SL 1733.159 != expected 1733.158
+ - 2022-07-12 11:00:00 buy: TP 1738.683 != expected 1738.682
+ - 2022-07-18 00:25:07 buy: TP 1712.791 != expected 1712.79
+ - 2022-07-19 04:50:00 buy: TP 1710.946 != expected 1710.945
+ - 2022-07-21 09:45:00 sell: SL 1687.853 != expected 1687.852
+ - 2022-07-26 00:10:00 buy: TP 1720.939 != expected 1720.938
+ - 2022-08-05 15:30:00 sell: TP 1768.367 != expected 1768.366
+ - 2022-08-08 09:20:00 sell: SL 1776.099 != expected 1776.098
+ - 2022-08-16 12:35:00 sell: TP 1769.313 != expected 1769.312
+ - 2022-08-16 19:00:00 buy: TP 1779.575 != expected 1779.574
+ - 2022-08-16 23:30:00 sell: SL 1775.889 != expected 1775.89
+ - 2022-08-18 12:30:00 buy: SL 1769.379 != expected 1769.378
+ - 2022-08-22 23:05:31 sell: TP 1733.263 != expected 1733.262
+ - 2022-08-23 18:25:00 buy: TP 1750.975 != expected 1750.974
+ - 2022-08-24 00:00:00 sell: TP 1744.479 != expected 1744.478
+ - 2022-08-24 12:40:00 sell: TP 1740.167 != expected 1740.166
+ - 2022-08-25 00:20:00 buy: TP 1753.747 != expected 1753.746
+ - 2022-08-26 18:20:01 sell: SL 1738.103 != expected 1738.102
+ - 2022-09-01 11:20:00 sell: SL 1703.823 != expected 1703.822
+ - 2022-09-02 15:50:00 buy: SL 1712.917 != expected 1712.916
+ - 2022-09-08 09:00:00 buy: TP 1721.802 != expected 1721.801
+ - 2022-09-09 09:20:00 buy: SL 1725.989 != expected 1725.988
+ - 2022-09-12 05:40:03 sell: TP 1711.075 != expected 1711.074
+ - 2022-09-13 12:25:00 buy: SL 1729.669 != expected 1729.668
+ - 2022-09-14 13:45:00 buy: SL 1702.995 != expected 1702.994
+ - 2022-09-16 05:25:00 buy: TP 1666.173 != expected 1666.172
+ - 2022-09-21 05:10:00 sell: TP 1660.621 != expected 1660.62
+ - 2022-09-21 13:25:00 buy: SL 1672.541 != expected 1672.54
+ - 2022-10-05 20:05:00 buy: TP 1720.023 != expected 1720.022
+ - 2022-10-06 10:25:00 sell: SL 1716.797 != expected 1716.796
+ - 2022-10-07 12:35:00 sell: TP 1702.201 != expected 1702.202
+ - 2022-10-12 05:15:01 buy: TP 1671.273 != expected 1671.272
+ - 2022-10-12 07:25:00 buy: TP 1676.509 != expected 1676.508
+ - 2022-10-14 14:40:00 sell: TP 1641.025 != expected 1641.024
+ - 2022-10-17 00:25:00 buy: TP 1649.691 != expected 1649.69
+ - 2022-11-10 16:25:00 buy: TP 1755.156 != expected 1755.155
+ - 2022-11-11 15:50:00 buy: TP 1770.078 != expected 1770.077
+ - 2022-11-15 15:30:01 sell: TP 1763.609 != expected 1763.61
+ - 2022-11-18 20:20:00 sell: TP 1746.445 != expected 1746.444
+ - 2022-11-21 05:35:00 sell: TP 1743.459 != expected 1743.458
+ - 2022-11-22 11:50:00 buy: TP 1750.487 != expected 1750.486
+ - 2022-11-23 14:50:00 buy: TP 1751.013 != expected 1751.012
+ - 2022-11-24 07:50:00 buy: TP 1759.058 != expected 1759.057
+ - 2022-12-02 15:05:00 sell: SL 1788.409 != expected 1788.408
+ - 2022-12-05 05:15:00 buy: TP 1810.775 != expected 1810.774
+ - 2022-12-05 10:55:00 sell: TP 1791.709 != expected 1791.708
+ - 2022-12-06 03:10:00 buy: SL 1771.941 != expected 1771.94
+ - 2022-12-06 04:40:01 buy: TP 1776.843 != expected 1776.842
+ - 2022-12-06 13:25:00 buy: SL 1777.743 != expected 1777.742
+ - 2022-12-06 14:00:00 buy: TP 1783.175 != expected 1783.174
+ - 2022-12-07 15:30:00 buy: TP 1792.277 != expected 1792.276
+ - 2022-12-12 06:20:02 sell: TP 1784.409 != expected 1784.408
+ - 2022-12-15 09:40:00 sell: SL 1781.987 != expected 1781.986
+ - 2022-12-16 05:50:00 sell: SL 1779.067 != expected 1779.066
+ - 2022-12-27 18:45:00 buy: TP 1822.725 != expected 1822.724
+ - 2023-01-03 12:55:00 sell: TP 1829.973 != expected 1829.972
+ - 2023-01-09 13:45:00 buy: TP 1880.548 != expected 1880.547
+ - 2023-01-11 20:45:00 buy: TP 1879.813 != expected 1879.812
+ - 2023-01-12 03:40:00 buy: TP 1885.803 != expected 1885.802
+ - 2023-01-13 02:30:00 buy: TP 1901.917 != expected 1901.916
+ - 2023-01-18 00:45:00 sell: TP 1905.877 != expected 1905.876
+ - 2023-01-19 05:15:00 buy: SL 1908.577 != expected 1908.578
+ - 2023-01-24 06:05:00 buy: TP 1938.133 != expected 1938.132
+ - 2023-02-01 12:40:00 buy: SL 1927.955 != expected 1927.954
+ - 2023-02-03 08:40:00 sell: TP 1907.815 != expected 1907.814
+ - 2023-02-06 05:45:00 buy: TP 1879.887 != expected 1879.886
+ - 2023-02-10 15:35:00 sell: TP 1853.539 != expected 1853.538
+ - 2023-02-16 00:25:01 buy: TP 1839.139 != expected 1839.138
+ - 2023-02-17 13:05:01 buy: TP 1830.715 != expected 1830.714
+ - 2023-02-22 15:35:00 sell: SL 1838.379 != expected 1838.378
+ - 2023-02-23 15:05:00 sell: TP 1815.941 != expected 1815.942
+ - 2023-02-27 21:05:00 sell: SL 1817.648 != expected 1817.647
+ - 2023-02-28 00:40:00 buy: SL 1817.285 != expected 1817.284
+ - 2023-03-01 10:35:00 sell: TP 1828.049 != expected 1828.048
+ - 2023-03-02 14:35:00 buy: TP 1842.253 != expected 1842.252
+ - 2023-03-03 02:20:02 buy: SL 1839.205 != expected 1839.204
+ - 2023-03-17 19:40:00 buy: SL 1974.123 != expected 1974.124
+ - 2023-03-23 19:40:00 buy: TP 2008.811 != expected 2008.81
+ - 2023-03-24 01:10:00 buy: TP 1998.646 != expected 1998.645
+ - 2023-04-03 06:05:00 sell: TP 1948.707 != expected 1948.706
+ - 2023-04-12 20:30:00 buy: TP 2017.541 != expected 2017.54
+ - 2023-04-14 03:20:01 buy: TP 2048.253 != expected 2048.252
+ - 2023-04-14 13:40:00 sell: SL 2034.009 != expected 2034.008
+ - 2023-04-14 20:45:00 sell: TP 2001.845 != expected 2001.844
+ - 2023-04-17 12:25:00 sell: TP 2004.681 != expected 2004.68
+ - 2023-04-26 07:55:01 buy: TP 2001.798 != expected 2001.797
+ - 2023-04-27 05:30:00 buy: TP 2003.528 != expected 2003.527
+ - 2023-05-02 14:05:00 buy: TP 2001.659 != expected 2001.658
+ - 2023-05-05 14:40:00 sell: TP 1997.959 != expected 1997.958
+ - 2023-05-11 06:05:00 sell: SL 2032.601 != expected 2032.6
+ - 2023-05-19 01:05:01 buy: SL 1957.643 != expected 1957.642
+ - 2023-05-24 09:50:00 buy: TP 1979.743 != expected 1979.742
+ - 2023-05-25 10:25:00 buy: TP 1965.789 != expected 1965.788
+ - 2023-05-26 14:30:00 sell: TP 1941.563 != expected 1941.562
+ - 2023-05-31 06:35:00 buy: TP 1966.933 != expected 1966.932
+ - 2023-05-31 10:10:02 sell: TP 1954.161 != expected 1954.16
+ - 2023-06-07 23:20:01 sell: TP 1939.889 != expected 1939.888
+ - 2023-06-08 18:50:01 buy: SL 1963.905 != expected 1963.904
+ - 2023-06-08 23:15:00 buy: SL 1965.553 != expected 1965.552
+ - 2023-06-09 07:30:00 buy: TP 1967.599 != expected 1967.598
+ - 2023-06-12 13:05:00 sell: SL 1964.207 != expected 1964.206
+ - 2023-06-13 20:35:01 sell: TP 1940.341 != expected 1940.342
+ - 2023-06-14 00:50:03 buy: TP 1947.569 != expected 1947.568
+ - 2023-06-22 03:40:01 sell: TP 1931.375 != expected 1931.374
+ - 2023-06-22 12:45:00 sell: TP 1919.871 != expected 1919.872
+ - 2023-06-28 14:25:00 buy: SL 1906.979 != expected 1906.978
+ - 2023-06-30 02:05:00 buy: TP 1912.333 != expected 1912.332
+ - 2023-06-30 09:10:01 sell: TP 1899.769 != expected 1899.768
+ - 2023-07-05 12:20:00 buy: TP 1930.829 != expected 1930.828
+ - 2023-07-06 13:35:00 sell: TP 1901.499 != expected 1901.5
+ - 2023-07-07 12:50:00 buy: TP 1929.587 != expected 1929.586
+ - 2023-07-20 13:35:00 sell: TP 1969.869 != expected 1969.87
+ - 2023-07-21 07:15:00 buy: TP 1974.047 != expected 1974.046
+ - 2023-07-21 18:45:00 buy: SL 1962.937 != expected 1962.938
+ - 2023-08-07 06:20:00 sell: SL 1938.669 != expected 1938.668
+ - 2023-08-08 12:45:00 sell: TP 1919.623 != expected 1919.622
+ - 2023-08-08 13:20:00 sell: SL 1929.921 != expected 1929.92
+ - 2023-08-11 09:40:00 buy: SL 1917.179 != expected 1917.18
+ - 2023-08-15 01:35:00 sell: TP 1901.609 != expected 1901.608
+ - 2023-08-15 23:55:02 sell: SL 1902.243 != expected 1902.242
+ - 2023-08-16 07:50:00 buy: TP 1907.411 != expected 1907.41
+ - 2023-08-28 12:15:00 sell: TP 1912.185 != expected 1912.186
+ - 2023-08-31 05:05:00 sell: SL 1945.873 != expected 1945.872
+ - 2023-09-05 07:25:00 sell: SL 1937.739 != expected 1937.738
+ - 2023-09-13 05:35:00 buy: TP 1914.367 != expected 1914.366
+ - 2023-09-15 15:15:00 buy: SL 1925.253 != expected 1925.254
+ - 2023-09-18 00:00:00 sell: SL 1923.811 != expected 1923.81
+ - 2023-09-18 12:25:00 sell: TP 1923.993 != expected 1923.994
+ - 2023-09-28 10:20:07 sell: TP 1872.695 != expected 1872.694
+ - 2023-09-29 01:40:08 sell: TP 1863.009 != expected 1863.008
+ - 2023-10-06 15:05:00 buy: TP 1833.657 != expected 1833.656
+ - 2023-10-09 12:05:00 sell: SL 1848.937 != expected 1848.936
+ - 2023-10-10 14:40:00 sell: SL 1857.637 != expected 1857.636
+ - 2023-10-12 16:15:00 sell: TP 1868.909 != expected 1868.908
+ - 2023-10-12 17:35:00 sell: TP 1865.547 != expected 1865.546
+ - 2023-10-16 11:45:01 buy: SL 1914.743 != expected 1914.742
+ - 2023-10-17 02:50:01 sell: SL 1915.396 != expected 1915.395
+ - 2023-10-19 20:05:02 buy: TP 1979.099 != expected 1979.098
+ - 2023-10-20 06:55:00 buy: TP 1984.375 != expected 1984.374
+ - 2023-10-23 09:20:03 buy: TP 1985.103 != expected 1985.102
+ - 2023-10-23 11:55:00 buy: SL 1976.943 != expected 1976.942
+ - 2023-10-23 23:10:03 sell: SL 1973.933 != expected 1973.932
+ - 2023-10-26 13:45:00 sell: SL 1984.457 != expected 1984.456
+ - 2023-11-01 09:35:00 buy: SL 1979.909 != expected 1979.908
+ - 2023-11-02 11:45:00 buy: TP 1991.727 != expected 1991.726
+ - 2023-11-02 12:25:00 buy: TP 1993.918 != expected 1993.917
+ - 2023-11-03 04:05:00 buy: TP 1988.156 != expected 1988.155
+ - 2023-11-03 12:35:00 buy: TP 2006.515 != expected 2006.514
+ - 2023-11-07 06:20:12 sell: TP 1970.163 != expected 1970.164
+ - 2023-11-13 01:05:00 buy: TP 1942.548 != expected 1942.547
+ - 2023-11-14 13:35:00 buy: SL 1953.305 != expected 1953.304
+ - 2023-12-07 01:15:00 buy: TP 2032.308 != expected 2032.307
+ - 2023-12-15 13:35:00 sell: SL 2038.247 != expected 2038.246
+ - 2023-12-18 01:45:00 buy: TP 2025.319 != expected 2025.318
+ - 2023-12-19 07:20:00 buy: TP 2029.243 != expected 2029.242
+ - 2023-12-20 08:35:02 buy: TP 2044.545 != expected 2044.544
+ - 2023-12-21 14:15:00 buy: SL 2035.475 != expected 2035.474
+ - 2023-12-26 12:00:00 buy: SL 2062.878 != expected 2062.879
+ - 2023-12-27 07:05:00 buy: SL 2064.719 != expected 2064.718
+ - 2023-12-28 10:35:00 sell: SL 2079.293 != expected 2079.292
+ - signal at 2023-06-29 22:05:00 not traded and not explained
+ - signal at 2023-07-03 19:30:00 not traded and not explained
+ - signal at 2023-07-03 20:55:00 not traded and not explained
+ - signal at 2023-07-03 23:00:00 not traded and not explained
+ - signal at 2023-07-17 23:05:02 not traded and not explained
+ - signal at 2023-09-08 20:55:00 not traded and not explained
+ - signal at 2023-09-26 23:00:00 not traded and not explained

@@ -1,0 +1,336 @@
+{
+ "202111": {
+  "weekend_or_holiday": 3,
+  "daily_break": 17,
+  "other_gaps": [
+   "2021-11-25 Thu 17:58 320min",
+   "2021-11-26 Fri 18:43 3136min"
+  ]
+ },
+ "202112": {
+  "weekend_or_holiday": 3,
+  "daily_break": 17,
+  "other_gaps": [
+   "2021-12-23 Thu 21:58 4381min"
+  ]
+ },
+ "202201": {
+  "weekend_or_holiday": 5,
+  "daily_break": 16,
+  "other_gaps": [
+   "2022-01-17 Mon 17:58 301min"
+  ]
+ },
+ "202202": {
+  "weekend_or_holiday": 4,
+  "daily_break": 15,
+  "other_gaps": [
+   "2022-02-21 Mon 19:28 211min"
+  ]
+ },
+ "202203": {
+  "weekend_or_holiday": 4,
+  "daily_break": 19,
+  "other_gaps": []
+ },
+ "202204": {
+  "weekend_or_holiday": 3,
+  "daily_break": 15,
+  "other_gaps": [
+   "2022-04-14 Thu 20:58 4381min"
+  ]
+ },
+ "202205": {
+  "weekend_or_holiday": 5,
+  "daily_break": 17,
+  "other_gaps": [
+   "2022-05-30 Mon 18:28 211min"
+  ]
+ },
+ "202206": {
+  "weekend_or_holiday": 4,
+  "daily_break": 17,
+  "other_gaps": [
+   "2022-06-20 Mon 18:28 211min"
+  ]
+ },
+ "202207": {
+  "weekend_or_holiday": 5,
+  "daily_break": 15,
+  "other_gaps": [
+   "2022-07-04 Mon 18:28 211min"
+  ]
+ },
+ "202208": {
+  "weekend_or_holiday": 4,
+  "daily_break": 19,
+  "other_gaps": []
+ },
+ "202209": {
+  "weekend_or_holiday": 4,
+  "daily_break": 16,
+  "other_gaps": [
+   "2022-09-05 Mon 18:28 211min"
+  ]
+ },
+ "202210": {
+  "weekend_or_holiday": 5,
+  "daily_break": 17,
+  "other_gaps": []
+ },
+ "202211": {
+  "weekend_or_holiday": 3,
+  "daily_break": 17,
+  "other_gaps": [
+   "2022-11-24 Thu 19:28 212min",
+   "2022-11-25 Fri 18:43 3136min"
+  ]
+ },
+ "202212": {
+  "weekend_or_holiday": 4,
+  "daily_break": 16,
+  "other_gaps": []
+ },
+ "202301": {
+  "weekend_or_holiday": 5,
+  "daily_break": 16,
+  "other_gaps": [
+   "2023-01-16 Mon 17:58 301min"
+  ]
+ },
+ "202302": {
+  "weekend_or_holiday": 4,
+  "daily_break": 15,
+  "other_gaps": [
+   "2023-02-20 Mon 19:29 210min"
+  ]
+ },
+ "202303": {
+  "weekend_or_holiday": 4,
+  "daily_break": 18,
+  "other_gaps": []
+ },
+ "202304": {
+  "weekend_or_holiday": 4,
+  "daily_break": 15,
+  "other_gaps": [
+   "2023-04-06 Thu 20:58 4381min"
+  ]
+ },
+ "202305": {
+  "weekend_or_holiday": 4,
+  "daily_break": 18,
+  "other_gaps": [
+   "2023-05-29 Mon 18:28 211min"
+  ]
+ },
+ "202306": {
+  "weekend_or_holiday": 4,
+  "daily_break": 16,
+  "other_gaps": [
+   "2023-06-19 Mon 18:28 211min"
+  ]
+ },
+ "202307": {
+  "weekend_or_holiday": 5,
+  "daily_break": 16,
+  "other_gaps": [
+   "2023-07-04 Tue 18:28 211min"
+  ]
+ },
+ "202308": {
+  "weekend_or_holiday": 4,
+  "daily_break": 19,
+  "other_gaps": []
+ },
+ "202309": {
+  "weekend_or_holiday": 4,
+  "daily_break": 15,
+  "other_gaps": [
+   "2023-09-04 Mon 18:28 211min",
+   "2023-09-25 Mon 10:05 55min"
+  ]
+ },
+ "202310": {
+  "weekend_or_holiday": 5,
+  "daily_break": 18,
+  "other_gaps": []
+ },
+ "202311": {
+  "weekend_or_holiday": 3,
+  "daily_break": 17,
+  "other_gaps": [
+   "2023-11-23 Thu 18:28 271min",
+   "2023-11-24 Fri 17:43 3196min",
+   "2023-11-29 Wed 12:32 106min"
+  ]
+ },
+ "202312": {
+  "weekend_or_holiday": 4,
+  "daily_break": 15,
+  "other_gaps": []
+ },
+ "202401": {
+  "weekend_or_holiday": 5,
+  "daily_break": 17,
+  "other_gaps": [
+   "2024-01-15 Mon 19:29 210min"
+  ]
+ },
+ "202402": {
+  "weekend_or_holiday": 4,
+  "daily_break": 16,
+  "other_gaps": [
+   "2024-02-19 Mon 19:29 210min"
+  ]
+ },
+ "202403": {
+  "weekend_or_holiday": 4,
+  "daily_break": 15,
+  "other_gaps": [
+   "2024-03-28 Thu 20:58 4381min"
+  ]
+ },
+ "202404": {
+  "weekend_or_holiday": 4,
+  "daily_break": 18,
+  "other_gaps": []
+ },
+ "202405": {
+  "weekend_or_holiday": 4,
+  "daily_break": 17,
+  "other_gaps": [
+   "2024-05-27 Mon 18:28 211min"
+  ]
+ },
+ "202406": {
+  "weekend_or_holiday": 5,
+  "daily_break": 15,
+  "other_gaps": [
+   "2024-06-19 Wed 18:29 210min"
+  ]
+ },
+ "202407": {
+  "weekend_or_holiday": 4,
+  "daily_break": 18,
+  "other_gaps": [
+   "2024-07-04 Thu 18:29 210min"
+  ]
+ },
+ "202408": {
+  "weekend_or_holiday": 4,
+  "daily_break": 17,
+  "other_gaps": []
+ },
+ "202409": {
+  "weekend_or_holiday": 5,
+  "daily_break": 16,
+  "other_gaps": [
+   "2024-09-02 Mon 18:28 211min"
+  ]
+ },
+ "202410": {
+  "weekend_or_holiday": 4,
+  "daily_break": 19,
+  "other_gaps": [
+   "2024-10-09 Wed 23:05 66min"
+  ]
+ },
+ "202411": {
+  "weekend_or_holiday": 4,
+  "daily_break": 15,
+  "other_gaps": [
+   "2024-11-28 Thu 19:28 211min"
+  ]
+ },
+ "202412": {
+  "weekend_or_holiday": 5,
+  "daily_break": 15,
+  "other_gaps": [
+   "2024-12-24 Tue 18:43 1696min"
+  ]
+ },
+ "202501": {
+  "weekend_or_holiday": 4,
+  "daily_break": 16,
+  "other_gaps": [
+   "2024-12-31 Tue 21:58 1501min",
+   "2025-01-20 Mon 19:28 211min"
+  ]
+ },
+ "202502": {
+  "weekend_or_holiday": 4,
+  "daily_break": 15,
+  "other_gaps": [
+   "2025-02-17 Mon 19:28 211min"
+  ]
+ },
+ "202503": {
+  "weekend_or_holiday": 5,
+  "daily_break": 17,
+  "other_gaps": [
+   "2025-03-03 Mon 10:31 27min"
+  ]
+ },
+ "202504": {
+  "weekend_or_holiday": 3,
+  "daily_break": 17,
+  "other_gaps": [
+   "2025-04-17 Thu 20:58 4381min"
+  ]
+ },
+ "202505": {
+  "weekend_or_holiday": 4,
+  "daily_break": 16,
+  "other_gaps": [
+   "2025-05-26 Mon 18:28 211min"
+  ]
+ },
+ "202506": {
+  "weekend_or_holiday": 5,
+  "daily_break": 16,
+  "other_gaps": [
+   "2025-06-19 Thu 18:28 211min"
+  ]
+ },
+ "202507": {
+  "weekend_or_holiday": 3,
+  "daily_break": 19,
+  "other_gaps": [
+   "2025-07-04 Fri 16:58 3181min"
+  ]
+ },
+ "202508": {
+  "weekend_or_holiday": 5,
+  "daily_break": 16,
+  "other_gaps": []
+ },
+ "202509": {
+  "weekend_or_holiday": 4,
+  "daily_break": 17,
+  "other_gaps": [
+   "2025-09-01 Mon 18:28 211min"
+  ]
+ },
+ "202510": {
+  "weekend_or_holiday": 4,
+  "daily_break": 18,
+  "other_gaps": [
+   "2025-10-03 Fri 06:59 180min"
+  ]
+ },
+ "202511": {
+  "weekend_or_holiday": 5,
+  "daily_break": 15,
+  "other_gaps": [
+   "2025-11-27 Thu 19:28 211min"
+  ]
+ },
+ "202512": {
+  "weekend_or_holiday": 5,
+  "daily_break": 16,
+  "other_gaps": [
+   "2025-12-24 Wed 18:43 1700min"
+  ]
+ }
+}

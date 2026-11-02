@@ -1,0 +1,9 @@
+FastEMA=20
+SlowEMA=50
+ATRPeriod=14
+StopATR=1.5
+RewardRisk=2.0
+Lots=0.01
+Magic=2601102
+DeviationPoints=20
+MaxSpreadPoints=800

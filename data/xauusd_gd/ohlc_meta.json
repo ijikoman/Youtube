@@ -1,0 +1,20 @@
+{
+ "source": "XAUUSD_GMT+0_2020~2026.csv (provider not identified)",
+ "timezone": "GMT+0",
+ "months": [
+  "202201",
+  "202512"
+ ],
+ "files": {
+  "xauusd_gd_m5_202201_202512.parquet": {
+   "rows": 283579,
+   "bytes": 10822248,
+   "sha256": "0767d446e936233207b7615b170850a1b1a7d06b52b91f271d92291783dc7e81",
+   "first": "2022-01-02 23:00:00",
+   "last": "2025-12-31 21:55:00"
+  }
+ },
+ "note": "M5 only in git (10.8MB). M1 (44.9MB) and raw ticks stay local; ask the local MT5 operator for windows around selected trades.",
+ "columns": "time(bar open, GMT+0), bid_o/h/l/c, ask_o/h/l/c, ticks, sp_min/sp_mean/sp_max (USD)",
+ "verified": "bid OHLC identical to MT5 tester M5 bars of XAUUSD_GD for 2022-2025 (283,577 bars, max diff 0.0)"
+}

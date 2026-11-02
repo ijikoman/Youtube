@@ -1,0 +1,694 @@
+CS	0	07:58:20.076	Startup	MetaTester 5 build 6230, 25 Sep 2026
+CS	0	07:58:20.077	Startup	Windows 11 build 26200, 32 x Intel Core i9-14900K, AVX2, 32 / 63 Gb memory, 683 / 1861 Gb disk, UAC, GMT+9
+CS	0	07:58:20.077	Server	MetaTester 5 started on 127.0.0.1:3000
+CS	0	07:58:20.078	Startup	cloud network mode is off
+CS	0	07:58:20.078	Startup	initialization finished
+CS	0	07:58:20.414	127.0.0.1	login (build 6230)
+CS	0	07:58:20.427	Network	15288 bytes of account info loaded
+CS	0	07:58:20.427	Network	1478 bytes of tester parameters loaded
+CS	0	07:58:20.427	Network	2244 bytes of input parameters loaded
+CS	0	07:58:20.428	Network	9208 bytes of symbols list loaded (989 symbols)
+CS	0	07:58:20.428	Tester	expert file added: Experts\Research\BarDump.ex5. 13678 bytes loaded
+CS	0	07:58:20.431	Tester	33677 Mb available, 420 blocks set for ticks generating
+CS	0	07:58:20.431	Tester	initial deposit 10000.00 USD, leverage 1:100
+CS	0	07:58:20.431	Tester	successfully initialized
+CS	0	07:58:20.431	Network	19 Kb of total initialization data received
+CS	0	07:58:20.431	Tester	Intel Core i9-14900K, 65276 MB
+CS	0	07:58:20.434	Symbols	XAUUSD_GD: symbol to be synchronized
+CS	0	07:58:20.434	Symbols	XAUUSD_GD: symbol synchronized, 4120 bytes of symbol info received
+CS	0	07:58:20.520	History	XAUUSD_GD: load 6.43 Mb of history data to synchronize in 0:00:00.085
+CS	0	07:58:20.520	History	XAUUSD_GD: history synchronized from 2021.11.01 to 2025.12.31
+CS	0	07:58:20.521	Ticks	XAUUSD_GD: ticks synchronization started
+CS	0	07:58:27.513	Ticks	XAUUSD_GD: load 479.78 Mb of tick data to synchronize in 0:00:06.984
+CS	0	07:58:27.513	Ticks	XAUUSD_GD: history ticks synchronized from 2022.01.02 to 2025.12.31
+CS	0	07:58:27.543	History	XAUUSD_GD,M5: history cache allocated for 221410 bars and contains 70604 bars from 2023.01.02 23:00 to 2023.12.29 21:55
+CS	0	07:58:27.543	History	XAUUSD_GD,M5: history begins from 2023.01.02 23:00
+CS	0	07:58:27.554	Tester	XAUUSD_GD,M5 (Exness-MT5Trial5): generating based on real ticks
+CS	0	07:58:27.554	Tester	XAUUSD_GD,M5: testing of Experts\Research\BarDump.ex5 from 2024.01.01 00:00 to 2026.01.01 00:00 started with inputs:
+CS	0	07:58:27.554	Tester	  FastEMA=20
+CS	0	07:58:27.554	Tester	  SlowEMA=50
+CS	0	07:58:27.554	Tester	  ATRPeriod=14
+CS	0	07:58:27.554	Tester	  WarmupBars=1500
+CS	0	07:58:34.477	Ticks	XAUUSD_GD : real ticks begin from 2022.01.02 00:00:00
+CS	0	07:58:48.393	Tester	final balance 10000.00 USD
+CS	0	07:58:48.393	BarDump (XAUUSD_GD,M5)	2025.12.31 21:58:59   BarDump: digits=3 point=0.0010000000 ticksize=0.0010000000 contract=100.00 stopslevel=0 volmin=0.01 step=0.01
+CS	0	07:58:48.459	Tester	XAUUSD_GD,M5: 127556748 ticks, 142035 bars generated. Environment synchronized in 0:00:07.095. Test passed in 0:00:20.948 (including ticks preprocessing 0:00:06.922).
+CS	0	07:58:48.459	Tester	XAUUSD_GD,M5: total time from login to stop testing 0:00:28.043 (including 0:00:07.095 for history data synchronization)
+CS	0	07:58:48.459	Tester	2716 Mb memory used including 13 Mb of history data, 2560 Mb of tick data
+CS	0	07:58:48.459	Tester	log file "<USER_HOME>\MT5_EMTester\Tester\Agent-127.0.0.1-3000\logs\20261103.log" written
+CS	0	07:58:48.459	Tester	test Experts\Research\BarDump.ex5 on XAUUSD_GD,M5 thread finished
+CS	0	07:58:48.502	127.0.0.1	tester forced to close
+CS	0	07:58:48.502	127.0.0.1	prepare for shutdown
+CS	0	07:58:48.502	127.0.0.1	stop immediately
+CS	0	07:58:48.502	127.0.0.1	shutdown finished
+CS	0	07:58:48.773	Server	MetaTester 5 stopped
+CS	0	07:58:56.356	Startup	MetaTester 5 build 6230, 25 Sep 2026
+CS	0	07:58:56.356	Startup	Windows 11 build 26200, 32 x Intel Core i9-14900K, AVX2, 32 / 63 Gb memory, 682 / 1861 Gb disk, UAC, GMT+9
+CS	0	07:58:56.357	Server	MetaTester 5 started on 127.0.0.1:3000
+CS	0	07:58:56.358	Startup	cloud network mode is off
+CS	0	07:58:56.358	Startup	initialization finished
+CS	0	07:58:56.678	127.0.0.1	login (build 6230)
+CS	0	07:58:56.692	Network	15288 bytes of account info loaded
+CS	0	07:58:56.692	Network	1478 bytes of tester parameters loaded
+CS	0	07:58:56.692	Network	4804 bytes of input parameters loaded
+CS	0	07:58:56.693	Network	9208 bytes of symbols list loaded (989 symbols)
+CS	0	07:58:56.693	Tester	expert file added: Experts\Research\ResearchPullback.ex5. 40281 bytes loaded
+CS	0	07:58:56.695	Tester	33633 Mb available, 420 blocks set for ticks generating
+CS	0	07:58:56.695	Tester	initial deposit 10000.00 USD, leverage 1:100
+CS	0	07:58:56.695	Tester	successfully initialized
+CS	0	07:58:56.695	Network	45 Kb of total initialization data received
+CS	0	07:58:56.695	Tester	Intel Core i9-14900K, 65276 MB
+CS	0	07:58:56.699	Symbols	XAUUSD_GD: symbol to be synchronized
+CS	0	07:58:56.699	Symbols	XAUUSD_GD: symbol synchronized, 4120 bytes of symbol info received
+CS	0	07:58:56.701	History	XAUUSD_GD: load 33 bytes of history data to synchronize in 0:00:00.000
+CS	0	07:58:56.701	History	XAUUSD_GD: history synchronized from 2021.11.01 to 2025.12.31
+CS	0	07:58:56.702	Ticks	XAUUSD_GD: ticks synchronization started
+CS	0	07:58:56.702	Ticks	XAUUSD_GD: load 40 bytes of tick data to synchronize in 0:00:00.000
+CS	0	07:58:56.702	Ticks	XAUUSD_GD: history ticks synchronized from 2022.01.02 to 2025.12.31
+CS	0	07:58:56.719	History	XAUUSD_GD,M5: history cache allocated for 221410 bars and contains 70604 bars from 2023.01.02 23:00 to 2023.12.29 21:55
+CS	0	07:58:56.719	History	XAUUSD_GD,M5: history begins from 2023.01.02 23:00
+CS	0	07:58:56.725	Tester	XAUUSD_GD,M5 (Exness-MT5Trial5): generating based on real ticks
+CS	0	07:58:56.726	Tester	XAUUSD_GD,M5: testing of Experts\Research\ResearchPullback.ex5 from 2024.01.01 00:00 to 2026.01.01 00:00 started with inputs:
+CS	0	07:58:56.726	Tester	  FastEMA=20
+CS	0	07:58:56.726	Tester	  SlowEMA=50
+CS	0	07:58:56.726	Tester	  ATRPeriod=14
+CS	0	07:58:56.726	Tester	  StopATR=1.5
+CS	0	07:58:56.726	Tester	  RewardRisk=2.0
+CS	0	07:58:56.726	Tester	  Lots=0.01
+CS	0	07:58:56.726	Tester	  Magic=2601102
+CS	0	07:58:56.726	Tester	  DeviationPoints=20
+CS	0	07:58:56.726	Tester	  MaxSpreadPoints=800
+CS	0	07:59:01.919	Ticks	XAUUSD_GD : real ticks begin from 2022.01.02 00:00:00
+CS	0	07:59:02.041	ResearchPullback (XAUUSD_GD,M5)	2024.01.04 23:00:00   Diag spread-skip sell signal: ask-bid=1.594 (1594pt) > MaxSpreadPoints=800
+CS	0	07:59:02.168	ResearchPullback (XAUUSD_GD,M5)	2024.01.11 23:00:00   Diag spread-skip buy signal: ask-bid=1.794 (1794pt) > MaxSpreadPoints=800
+CS	0	07:59:02.606	ResearchPullback (XAUUSD_GD,M5)	2024.02.05 23:00:00   Diag spread-skip buy signal: ask-bid=1.944 (1944pt) > MaxSpreadPoints=800
+CS	0	07:59:02.780	ResearchPullback (XAUUSD_GD,M5)	2024.02.18 23:35:01   Diag spread-skip buy signal: ask-bid=1.670 (1670pt) > MaxSpreadPoints=800
+CS	0	07:59:02.890	ResearchPullback (XAUUSD_GD,M5)	2024.02.27 23:00:00   Diag spread-skip sell signal: ask-bid=1.404 (1404pt) > MaxSpreadPoints=800
+CS	0	07:59:03.219	ResearchPullback (XAUUSD_GD,M5)	2024.03.19 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:03.297	ResearchPullback (XAUUSD_GD,M5)	2024.03.24 22:40:01   Order failure: 10018 market closed
+CS	0	07:59:03.297	ResearchPullback (XAUUSD_GD,M5)	2024.03.24 22:50:01   Order failure: 10018 market closed
+CS	0	07:59:03.297	ResearchPullback (XAUUSD_GD,M5)	2024.03.24 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:03.320	ResearchPullback (XAUUSD_GD,M5)	2024.03.25 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:03.530	ResearchPullback (XAUUSD_GD,M5)	2024.04.05 12:30:00   Diag spread-skip buy signal: ask-bid=0.920 (920pt) > MaxSpreadPoints=800
+CS	0	07:59:03.548	ResearchPullback (XAUUSD_GD,M5)	2024.04.07 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:03.643	ResearchPullback (XAUUSD_GD,M5)	2024.04.09 22:30:00   Order failure: 10018 market closed
+CS	0	07:59:03.721	ResearchPullback (XAUUSD_GD,M5)	2024.04.11 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:03.722	ResearchPullback (XAUUSD_GD,M5)	2024.04.11 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:03.978	ResearchPullback (XAUUSD_GD,M5)	2024.04.18 22:45:01   Order failure: 10018 market closed
+CS	0	07:59:03.978	ResearchPullback (XAUUSD_GD,M5)	2024.04.18 22:50:06   Order failure: 10018 market closed
+CS	0	07:59:04.179	ResearchPullback (XAUUSD_GD,M5)	2024.04.24 22:35:03   Order failure: 10018 market closed
+CS	0	07:59:04.250	ResearchPullback (XAUUSD_GD,M5)	2024.04.28 22:00:03   Diag spread-skip sell signal: ask-bid=0.900 (900pt) > MaxSpreadPoints=800
+CS	0	07:59:04.518	ResearchPullback (XAUUSD_GD,M5)	2024.05.08 22:35:03   Order failure: 10018 market closed
+CS	0	07:59:04.518	ResearchPullback (XAUUSD_GD,M5)	2024.05.08 22:40:01   Order failure: 10018 market closed
+CS	0	07:59:04.518	ResearchPullback (XAUUSD_GD,M5)	2024.05.08 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:04.554	ResearchPullback (XAUUSD_GD,M5)	2024.05.09 22:10:00   Order failure: 10018 market closed
+CS	0	07:59:04.803	ResearchPullback (XAUUSD_GD,M5)	2024.05.19 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:04.803	ResearchPullback (XAUUSD_GD,M5)	2024.05.19 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:04.859	ResearchPullback (XAUUSD_GD,M5)	2024.05.20 22:40:01   Order failure: 10018 market closed
+CS	0	07:59:04.859	ResearchPullback (XAUUSD_GD,M5)	2024.05.20 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:05.011	ResearchPullback (XAUUSD_GD,M5)	2024.05.23 22:40:00   Order failure: 10018 market closed
+CS	0	07:59:05.011	ResearchPullback (XAUUSD_GD,M5)	2024.05.23 22:45:01   Order failure: 10018 market closed
+CS	0	07:59:05.080	ResearchPullback (XAUUSD_GD,M5)	2024.05.27 22:35:00   Order failure: 10018 market closed
+CS	0	07:59:05.080	ResearchPullback (XAUUSD_GD,M5)	2024.05.27 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:05.245	ResearchPullback (XAUUSD_GD,M5)	2024.06.02 22:00:01   Order failure: 10018 market closed
+CS	0	07:59:05.245	ResearchPullback (XAUUSD_GD,M5)	2024.06.02 22:10:00   Order failure: 10018 market closed
+CS	0	07:59:05.245	ResearchPullback (XAUUSD_GD,M5)	2024.06.02 22:50:02   Order failure: 10018 market closed
+CS	0	07:59:05.459	ResearchPullback (XAUUSD_GD,M5)	2024.06.09 22:05:00   Diag spread-skip sell signal: ask-bid=0.854 (854pt) > MaxSpreadPoints=800
+CS	0	07:59:05.576	ResearchPullback (XAUUSD_GD,M5)	2024.06.12 22:10:00   Order failure: 10018 market closed
+CS	0	07:59:05.576	ResearchPullback (XAUUSD_GD,M5)	2024.06.12 22:20:03   Order failure: 10018 market closed
+CS	0	07:59:05.576	ResearchPullback (XAUUSD_GD,M5)	2024.06.12 22:30:00   Order failure: 10018 market closed
+CS	0	07:59:05.576	ResearchPullback (XAUUSD_GD,M5)	2024.06.12 22:40:01   Order failure: 10018 market closed
+CS	0	07:59:05.702	ResearchPullback (XAUUSD_GD,M5)	2024.06.17 22:05:04   Order failure: 10018 market closed
+CS	0	07:59:05.760	ResearchPullback (XAUUSD_GD,M5)	2024.06.19 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:05.760	ResearchPullback (XAUUSD_GD,M5)	2024.06.19 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:06.429	ResearchPullback (XAUUSD_GD,M5)	2024.07.14 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:06.503	ResearchPullback (XAUUSD_GD,M5)	2024.07.16 22:30:00   Order failure: 10018 market closed
+CS	0	07:59:06.503	ResearchPullback (XAUUSD_GD,M5)	2024.07.16 22:40:00   Order failure: 10018 market closed
+CS	0	07:59:06.698	ResearchPullback (XAUUSD_GD,M5)	2024.07.22 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:06.879	ResearchPullback (XAUUSD_GD,M5)	2024.07.25 22:40:17   Order failure: 10018 market closed
+CS	0	07:59:06.879	ResearchPullback (XAUUSD_GD,M5)	2024.07.25 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:07.021	ResearchPullback (XAUUSD_GD,M5)	2024.07.30 22:15:00   Order failure: 10018 market closed
+CS	0	07:59:07.143	ResearchPullback (XAUUSD_GD,M5)	2024.08.01 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:07.237	ResearchPullback (XAUUSD_GD,M5)	2024.08.04 22:10:00   Order failure: 10018 market closed
+CS	0	07:59:07.237	ResearchPullback (XAUUSD_GD,M5)	2024.08.04 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:07.237	ResearchPullback (XAUUSD_GD,M5)	2024.08.04 22:35:00   Order failure: 10018 market closed
+CS	0	07:59:07.237	ResearchPullback (XAUUSD_GD,M5)	2024.08.04 22:40:03   Order failure: 10018 market closed
+CS	0	07:59:07.383	ResearchPullback (XAUUSD_GD,M5)	2024.08.06 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:07.383	ResearchPullback (XAUUSD_GD,M5)	2024.08.06 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:07.444	ResearchPullback (XAUUSD_GD,M5)	2024.08.07 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:07.495	ResearchPullback (XAUUSD_GD,M5)	2024.08.08 22:25:00   Order failure: 10018 market closed
+CS	0	07:59:07.495	ResearchPullback (XAUUSD_GD,M5)	2024.08.08 22:30:00   Order failure: 10018 market closed
+CS	0	07:59:07.495	ResearchPullback (XAUUSD_GD,M5)	2024.08.08 22:40:36   Order failure: 10018 market closed
+CS	0	07:59:07.495	ResearchPullback (XAUUSD_GD,M5)	2024.08.08 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:07.678	ResearchPullback (XAUUSD_GD,M5)	2024.08.14 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:07.678	ResearchPullback (XAUUSD_GD,M5)	2024.08.14 22:40:00   Order failure: 10018 market closed
+CS	0	07:59:07.678	ResearchPullback (XAUUSD_GD,M5)	2024.08.14 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:07.722	ResearchPullback (XAUUSD_GD,M5)	2024.08.15 22:00:01   Diag spread-skip buy signal: ask-bid=1.260 (1260pt) > MaxSpreadPoints=800
+CS	0	07:59:07.722	ResearchPullback (XAUUSD_GD,M5)	2024.08.15 22:40:06   Order failure: 10018 market closed
+CS	0	07:59:07.880	ResearchPullback (XAUUSD_GD,M5)	2024.08.20 22:20:06   Order failure: 10018 market closed
+CS	0	07:59:07.880	ResearchPullback (XAUUSD_GD,M5)	2024.08.20 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:07.880	ResearchPullback (XAUUSD_GD,M5)	2024.08.20 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:07.919	ResearchPullback (XAUUSD_GD,M5)	2024.08.21 22:00:00   Diag spread-skip buy signal: ask-bid=1.414 (1414pt) > MaxSpreadPoints=800
+CS	0	07:59:07.919	ResearchPullback (XAUUSD_GD,M5)	2024.08.21 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:07.920	ResearchPullback (XAUUSD_GD,M5)	2024.08.21 22:10:00   Order failure: 10018 market closed
+CS	0	07:59:08.132	ResearchPullback (XAUUSD_GD,M5)	2024.08.27 22:00:01   Order failure: 10018 market closed
+CS	0	07:59:08.132	ResearchPullback (XAUUSD_GD,M5)	2024.08.27 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:08.163	ResearchPullback (XAUUSD_GD,M5)	2024.08.28 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:08.163	ResearchPullback (XAUUSD_GD,M5)	2024.08.28 22:25:00   Order failure: 10018 market closed
+CS	0	07:59:08.312	ResearchPullback (XAUUSD_GD,M5)	2024.09.03 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:08.312	ResearchPullback (XAUUSD_GD,M5)	2024.09.03 22:25:00   Order failure: 10018 market closed
+CS	0	07:59:08.426	ResearchPullback (XAUUSD_GD,M5)	2024.09.06 12:30:00   Diag spread-skip sell signal: ask-bid=1.937 (1937pt) > MaxSpreadPoints=800
+CS	0	07:59:08.730	ResearchPullback (XAUUSD_GD,M5)	2024.09.17 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:08.778	ResearchPullback (XAUUSD_GD,M5)	2024.09.18 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:08.817	ResearchPullback (XAUUSD_GD,M5)	2024.09.19 22:40:02   Order failure: 10018 market closed
+CS	0	07:59:08.980	ResearchPullback (XAUUSD_GD,M5)	2024.09.24 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:08.980	ResearchPullback (XAUUSD_GD,M5)	2024.09.24 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:09.072	ResearchPullback (XAUUSD_GD,M5)	2024.09.26 22:30:00   Order failure: 10018 market closed
+CS	0	07:59:09.313	ResearchPullback (XAUUSD_GD,M5)	2024.10.02 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:09.393	ResearchPullback (XAUUSD_GD,M5)	2024.10.06 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:09.393	ResearchPullback (XAUUSD_GD,M5)	2024.10.06 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:09.393	ResearchPullback (XAUUSD_GD,M5)	2024.10.06 22:35:00   Order failure: 10018 market closed
+CS	0	07:59:09.603	ResearchPullback (XAUUSD_GD,M5)	2024.10.13 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:09.631	ResearchPullback (XAUUSD_GD,M5)	2024.10.14 22:40:11   Order failure: 10018 market closed
+CS	0	07:59:09.665	ResearchPullback (XAUUSD_GD,M5)	2024.10.15 22:40:00   Order failure: 10018 market closed
+CS	0	07:59:09.665	ResearchPullback (XAUUSD_GD,M5)	2024.10.15 22:56:43   Order failure: 10018 market closed
+CS	0	07:59:10.087	ResearchPullback (XAUUSD_GD,M5)	2024.10.29 13:00:00   Diag spread-skip sell signal: ask-bid=0.951 (951pt) > MaxSpreadPoints=800
+CS	0	07:59:10.205	ResearchPullback (XAUUSD_GD,M5)	2024.10.31 22:35:02   Order failure: 10018 market closed
+CS	0	07:59:10.205	ResearchPullback (XAUUSD_GD,M5)	2024.10.31 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:10.205	ResearchPullback (XAUUSD_GD,M5)	2024.10.31 22:50:01   Order failure: 10018 market closed
+CS	0	07:59:10.265	ResearchPullback (XAUUSD_GD,M5)	2024.11.03 23:05:00   Diag spread-skip sell signal: ask-bid=1.131 (1131pt) > MaxSpreadPoints=800
+CS	0	07:59:11.644	ResearchPullback (XAUUSD_GD,M5)	2024.12.06 13:30:00   Diag spread-skip sell signal: ask-bid=1.617 (1617pt) > MaxSpreadPoints=800
+CS	0	07:59:11.846	ResearchPullback (XAUUSD_GD,M5)	2024.12.11 07:20:01   Diag spread-skip buy signal: ask-bid=1.440 (1440pt) > MaxSpreadPoints=800
+CS	0	07:59:11.846	ResearchPullback (XAUUSD_GD,M5)	2024.12.11 07:45:00   Diag spread-skip sell signal: ask-bid=1.168 (1168pt) > MaxSpreadPoints=800
+CS	0	07:59:11.849	ResearchPullback (XAUUSD_GD,M5)	2024.12.11 09:25:00   Diag spread-skip sell signal: ask-bid=1.211 (1211pt) > MaxSpreadPoints=800
+CS	0	07:59:11.858	ResearchPullback (XAUUSD_GD,M5)	2024.12.11 13:35:00   Diag spread-skip buy signal: ask-bid=0.952 (952pt) > MaxSpreadPoints=800
+CS	0	07:59:11.894	ResearchPullback (XAUUSD_GD,M5)	2024.12.12 08:05:00   Diag spread-skip buy signal: ask-bid=0.884 (884pt) > MaxSpreadPoints=800
+CS	0	07:59:12.071	ResearchPullback (XAUUSD_GD,M5)	2024.12.17 13:30:00   Diag spread-skip sell signal: ask-bid=1.737 (1737pt) > MaxSpreadPoints=800
+CS	0	07:59:12.226	ResearchPullback (XAUUSD_GD,M5)	2024.12.22 23:05:00   Diag spread-skip sell signal: ask-bid=1.262 (1262pt) > MaxSpreadPoints=800
+CS	0	07:59:12.293	ResearchPullback (XAUUSD_GD,M5)	2024.12.24 18:30:00   Diag spread-skip buy signal: ask-bid=1.040 (1040pt) > MaxSpreadPoints=800
+CS	0	07:59:12.293	ResearchPullback (XAUUSD_GD,M5)	2024.12.24 18:40:00   Diag spread-skip buy signal: ask-bid=0.937 (937pt) > MaxSpreadPoints=800
+CS	0	07:59:12.293	ResearchPullback (XAUUSD_GD,M5)	2024.12.25 23:10:00   Diag spread-skip buy signal: ask-bid=1.687 (1687pt) > MaxSpreadPoints=800
+CS	0	07:59:12.550	ResearchPullback (XAUUSD_GD,M5)	2025.01.06 23:00:00   Diag spread-skip buy signal: ask-bid=1.814 (1814pt) > MaxSpreadPoints=800
+CS	0	07:59:12.632	ResearchPullback (XAUUSD_GD,M5)	2025.01.08 23:05:04   Diag spread-skip buy signal: ask-bid=0.808 (808pt) > MaxSpreadPoints=800
+CS	0	07:59:12.700	ResearchPullback (XAUUSD_GD,M5)	2025.01.10 14:50:00   Diag spread-skip buy signal: ask-bid=0.832 (832pt) > MaxSpreadPoints=800
+CS	0	07:59:12.700	ResearchPullback (XAUUSD_GD,M5)	2025.01.10 15:05:00   Diag spread-skip buy signal: ask-bid=0.980 (980pt) > MaxSpreadPoints=800
+CS	0	07:59:12.717	ResearchPullback (XAUUSD_GD,M5)	2025.01.12 23:00:01   Diag spread-skip buy signal: ask-bid=1.590 (1590pt) > MaxSpreadPoints=800
+CS	0	07:59:12.717	ResearchPullback (XAUUSD_GD,M5)	2025.01.12 23:10:00   Diag spread-skip buy signal: ask-bid=0.940 (940pt) > MaxSpreadPoints=800
+CS	0	07:59:12.838	ResearchPullback (XAUUSD_GD,M5)	2025.01.15 13:30:00   Diag spread-skip sell signal: ask-bid=2.237 (2237pt) > MaxSpreadPoints=800
+CS	0	07:59:12.907	ResearchPullback (XAUUSD_GD,M5)	2025.01.16 23:00:01   Diag spread-skip sell signal: ask-bid=1.886 (1886pt) > MaxSpreadPoints=800
+CS	0	07:59:12.969	ResearchPullback (XAUUSD_GD,M5)	2025.01.20 14:40:00   Diag spread-skip buy signal: ask-bid=0.837 (837pt) > MaxSpreadPoints=800
+CS	0	07:59:12.975	ResearchPullback (XAUUSD_GD,M5)	2025.01.20 16:55:00   Diag spread-skip sell signal: ask-bid=1.167 (1167pt) > MaxSpreadPoints=800
+CS	0	07:59:12.975	ResearchPullback (XAUUSD_GD,M5)	2025.01.20 17:15:03   Diag spread-skip sell signal: ask-bid=1.120 (1120pt) > MaxSpreadPoints=800
+CS	0	07:59:12.976	ResearchPullback (XAUUSD_GD,M5)	2025.01.20 17:50:02   Diag spread-skip sell signal: ask-bid=1.190 (1190pt) > MaxSpreadPoints=800
+CS	0	07:59:12.977	ResearchPullback (XAUUSD_GD,M5)	2025.01.20 19:15:00   Diag spread-skip buy signal: ask-bid=1.187 (1187pt) > MaxSpreadPoints=800
+CS	0	07:59:12.977	ResearchPullback (XAUUSD_GD,M5)	2025.01.20 19:20:00   Diag spread-skip buy signal: ask-bid=1.080 (1080pt) > MaxSpreadPoints=800
+CS	0	07:59:13.045	ResearchPullback (XAUUSD_GD,M5)	2025.01.22 11:00:00   Diag spread-skip buy signal: ask-bid=0.857 (857pt) > MaxSpreadPoints=800
+CS	0	07:59:13.066	ResearchPullback (XAUUSD_GD,M5)	2025.01.22 23:00:01   Diag spread-skip sell signal: ask-bid=1.390 (1390pt) > MaxSpreadPoints=800
+CS	0	07:59:13.066	ResearchPullback (XAUUSD_GD,M5)	2025.01.22 23:25:00   Diag spread-skip sell signal: ask-bid=0.984 (984pt) > MaxSpreadPoints=800
+CS	0	07:59:13.254	ResearchPullback (XAUUSD_GD,M5)	2025.01.28 23:10:00   Diag spread-skip buy signal: ask-bid=1.217 (1217pt) > MaxSpreadPoints=800
+CS	0	07:59:13.368	ResearchPullback (XAUUSD_GD,M5)	2025.01.30 21:15:00   Diag spread-skip buy signal: ask-bid=0.960 (960pt) > MaxSpreadPoints=800
+CS	0	07:59:13.459	ResearchPullback (XAUUSD_GD,M5)	2025.02.02 23:20:00   Diag spread-skip sell signal: ask-bid=2.810 (2810pt) > MaxSpreadPoints=800
+CS	0	07:59:13.459	ResearchPullback (XAUUSD_GD,M5)	2025.02.02 23:25:00   Diag spread-skip sell signal: ask-bid=2.847 (2847pt) > MaxSpreadPoints=800
+CS	0	07:59:13.467	ResearchPullback (XAUUSD_GD,M5)	2025.02.03 00:25:00   Diag spread-skip sell signal: ask-bid=0.857 (857pt) > MaxSpreadPoints=800
+CS	0	07:59:13.506	ResearchPullback (XAUUSD_GD,M5)	2025.02.03 15:50:00   Diag spread-skip buy signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:13.507	ResearchPullback (XAUUSD_GD,M5)	2025.02.03 16:10:00   Diag spread-skip buy signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:13.522	ResearchPullback (XAUUSD_GD,M5)	2025.02.03 23:40:00   Diag spread-skip sell signal: ask-bid=1.537 (1537pt) > MaxSpreadPoints=800
+CS	0	07:59:13.529	ResearchPullback (XAUUSD_GD,M5)	2025.02.04 00:00:00   Diag spread-skip sell signal: ask-bid=0.940 (940pt) > MaxSpreadPoints=800
+CS	0	07:59:13.541	ResearchPullback (XAUUSD_GD,M5)	2025.02.04 07:20:00   Diag spread-skip sell signal: ask-bid=0.847 (847pt) > MaxSpreadPoints=800
+CS	0	07:59:13.849	ResearchPullback (XAUUSD_GD,M5)	2025.02.11 15:00:00   Diag spread-skip sell signal: ask-bid=1.110 (1110pt) > MaxSpreadPoints=800
+CS	0	07:59:13.866	ResearchPullback (XAUUSD_GD,M5)	2025.02.11 23:00:07   Diag spread-skip sell signal: ask-bid=1.924 (1924pt) > MaxSpreadPoints=800
+CS	0	07:59:13.866	ResearchPullback (XAUUSD_GD,M5)	2025.02.11 23:10:00   Diag spread-skip sell signal: ask-bid=1.184 (1184pt) > MaxSpreadPoints=800
+CS	0	07:59:13.962	ResearchPullback (XAUUSD_GD,M5)	2025.02.13 23:15:00   Diag spread-skip buy signal: ask-bid=1.194 (1194pt) > MaxSpreadPoints=800
+CS	0	07:59:14.062	ResearchPullback (XAUUSD_GD,M5)	2025.02.16 23:00:07   Diag spread-skip sell signal: ask-bid=1.920 (1920pt) > MaxSpreadPoints=800
+CS	0	07:59:14.063	ResearchPullback (XAUUSD_GD,M5)	2025.02.16 23:30:00   Diag spread-skip sell signal: ask-bid=1.060 (1060pt) > MaxSpreadPoints=800
+CS	0	07:59:14.067	ResearchPullback (XAUUSD_GD,M5)	2025.02.17 00:30:00   Diag spread-skip sell signal: ask-bid=0.997 (997pt) > MaxSpreadPoints=800
+CS	0	07:59:14.068	ResearchPullback (XAUUSD_GD,M5)	2025.02.17 00:55:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:14.215	ResearchPullback (XAUUSD_GD,M5)	2025.02.20 23:10:04   Diag spread-skip sell signal: ask-bid=0.947 (947pt) > MaxSpreadPoints=800
+CS	0	07:59:14.259	ResearchPullback (XAUUSD_GD,M5)	2025.02.21 21:50:00   Diag spread-skip sell signal: ask-bid=0.920 (920pt) > MaxSpreadPoints=800
+CS	0	07:59:14.259	ResearchPullback (XAUUSD_GD,M5)	2025.02.23 23:00:02   Diag spread-skip sell signal: ask-bid=1.920 (1920pt) > MaxSpreadPoints=800
+CS	0	07:59:14.260	ResearchPullback (XAUUSD_GD,M5)	2025.02.23 23:35:00   Diag spread-skip buy signal: ask-bid=0.857 (857pt) > MaxSpreadPoints=800
+CS	0	07:59:14.260	ResearchPullback (XAUUSD_GD,M5)	2025.02.23 23:50:00   Diag spread-skip buy signal: ask-bid=0.937 (937pt) > MaxSpreadPoints=800
+CS	0	07:59:14.268	ResearchPullback (XAUUSD_GD,M5)	2025.02.24 01:45:00   Diag spread-skip sell signal: ask-bid=1.057 (1057pt) > MaxSpreadPoints=800
+CS	0	07:59:14.394	ResearchPullback (XAUUSD_GD,M5)	2025.02.26 15:00:00   Diag spread-skip sell signal: ask-bid=1.407 (1407pt) > MaxSpreadPoints=800
+CS	0	07:59:14.467	ResearchPullback (XAUUSD_GD,M5)	2025.02.27 23:05:01   Diag spread-skip sell signal: ask-bid=1.037 (1037pt) > MaxSpreadPoints=800
+CS	0	07:59:14.515	ResearchPullback (XAUUSD_GD,M5)	2025.03.02 23:05:00   Diag spread-skip buy signal: ask-bid=1.860 (1860pt) > MaxSpreadPoints=800
+CS	0	07:59:14.559	ResearchPullback (XAUUSD_GD,M5)	2025.03.03 23:05:01   Diag spread-skip buy signal: ask-bid=1.034 (1034pt) > MaxSpreadPoints=800
+CS	0	07:59:14.760	ResearchPullback (XAUUSD_GD,M5)	2025.03.09 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:14.761	ResearchPullback (XAUUSD_GD,M5)	2025.03.09 22:25:03   Order failure: 10018 market closed
+CS	0	07:59:14.761	ResearchPullback (XAUUSD_GD,M5)	2025.03.09 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:14.855	ResearchPullback (XAUUSD_GD,M5)	2025.03.10 22:10:01   Order failure: 10018 market closed
+CS	0	07:59:14.855	ResearchPullback (XAUUSD_GD,M5)	2025.03.10 22:15:07   Diag spread-skip sell signal: ask-bid=0.807 (807pt) > MaxSpreadPoints=800
+CS	0	07:59:14.855	ResearchPullback (XAUUSD_GD,M5)	2025.03.10 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:14.855	ResearchPullback (XAUUSD_GD,M5)	2025.03.10 22:25:00   Order failure: 10018 market closed
+CS	0	07:59:14.966	ResearchPullback (XAUUSD_GD,M5)	2025.03.12 22:05:01   Order failure: 10018 market closed
+CS	0	07:59:14.966	ResearchPullback (XAUUSD_GD,M5)	2025.03.12 22:40:02   Order failure: 10018 market closed
+CS	0	07:59:14.966	ResearchPullback (XAUUSD_GD,M5)	2025.03.12 22:45:01   Order failure: 10018 market closed
+CS	0	07:59:15.013	ResearchPullback (XAUUSD_GD,M5)	2025.03.13 22:25:00   Order failure: 10018 market closed
+CS	0	07:59:15.013	ResearchPullback (XAUUSD_GD,M5)	2025.03.13 23:10:00   Diag spread-skip buy signal: ask-bid=0.804 (804pt) > MaxSpreadPoints=800
+CS	0	07:59:15.411	ResearchPullback (XAUUSD_GD,M5)	2025.03.24 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:15.471	ResearchPullback (XAUUSD_GD,M5)	2025.03.25 22:35:12   Order failure: 10018 market closed
+CS	0	07:59:15.503	ResearchPullback (XAUUSD_GD,M5)	2025.03.26 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:15.503	ResearchPullback (XAUUSD_GD,M5)	2025.03.26 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:15.503	ResearchPullback (XAUUSD_GD,M5)	2025.03.26 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:15.623	ResearchPullback (XAUUSD_GD,M5)	2025.03.31 22:05:01   Order failure: 10018 market closed
+CS	0	07:59:15.623	ResearchPullback (XAUUSD_GD,M5)	2025.03.31 22:50:01   Order failure: 10018 market closed
+CS	0	07:59:15.720	ResearchPullback (XAUUSD_GD,M5)	2025.04.02 20:00:00   Diag spread-skip sell signal: ask-bid=0.904 (904pt) > MaxSpreadPoints=800
+CS	0	07:59:15.720	ResearchPullback (XAUUSD_GD,M5)	2025.04.02 20:15:00   Diag spread-skip sell signal: ask-bid=0.967 (967pt) > MaxSpreadPoints=800
+CS	0	07:59:15.721	ResearchPullback (XAUUSD_GD,M5)	2025.04.02 20:55:00   Diag spread-skip buy signal: ask-bid=3.347 (3347pt) > MaxSpreadPoints=800
+CS	0	07:59:15.722	ResearchPullback (XAUUSD_GD,M5)	2025.04.02 22:10:00   Diag spread-skip buy signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:15.836	ResearchPullback (XAUUSD_GD,M5)	2025.04.06 22:20:00   Diag spread-skip sell signal: ask-bid=1.624 (1624pt) > MaxSpreadPoints=800
+CS	0	07:59:15.866	ResearchPullback (XAUUSD_GD,M5)	2025.04.07 00:05:00   Diag spread-skip sell signal: ask-bid=0.977 (977pt) > MaxSpreadPoints=800
+CS	0	07:59:15.866	ResearchPullback (XAUUSD_GD,M5)	2025.04.07 00:10:00   Diag spread-skip sell signal: ask-bid=1.507 (1507pt) > MaxSpreadPoints=800
+CS	0	07:59:15.874	ResearchPullback (XAUUSD_GD,M5)	2025.04.07 03:20:01   Diag spread-skip buy signal: ask-bid=1.104 (1104pt) > MaxSpreadPoints=800
+CS	0	07:59:15.876	ResearchPullback (XAUUSD_GD,M5)	2025.04.07 04:10:00   Diag spread-skip buy signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:15.876	ResearchPullback (XAUUSD_GD,M5)	2025.04.07 04:25:00   Diag spread-skip buy signal: ask-bid=0.904 (904pt) > MaxSpreadPoints=800
+CS	0	07:59:15.876	ResearchPullback (XAUUSD_GD,M5)	2025.04.07 04:35:00   Diag spread-skip buy signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:15.876	ResearchPullback (XAUUSD_GD,M5)	2025.04.07 04:40:00   Diag spread-skip buy signal: ask-bid=0.987 (987pt) > MaxSpreadPoints=800
+CS	0	07:59:15.942	ResearchPullback (XAUUSD_GD,M5)	2025.04.07 22:10:00   Order failure: 10018 market closed
+CS	0	07:59:15.950	ResearchPullback (XAUUSD_GD,M5)	2025.04.08 01:05:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:15.954	ResearchPullback (XAUUSD_GD,M5)	2025.04.08 03:45:00   Diag spread-skip buy signal: ask-bid=0.900 (900pt) > MaxSpreadPoints=800
+CS	0	07:59:16.017	ResearchPullback (XAUUSD_GD,M5)	2025.04.09 04:05:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.017	ResearchPullback (XAUUSD_GD,M5)	2025.04.09 04:10:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.025	ResearchPullback (XAUUSD_GD,M5)	2025.04.09 08:05:00   Diag spread-skip buy signal: ask-bid=0.963 (963pt) > MaxSpreadPoints=800
+CS	0	07:59:16.026	ResearchPullback (XAUUSD_GD,M5)	2025.04.09 08:10:00   Diag spread-skip buy signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:16.088	ResearchPullback (XAUUSD_GD,M5)	2025.04.09 22:35:00   Diag spread-skip buy signal: ask-bid=1.390 (1390pt) > MaxSpreadPoints=800
+CS	0	07:59:16.089	ResearchPullback (XAUUSD_GD,M5)	2025.04.09 23:15:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.119	ResearchPullback (XAUUSD_GD,M5)	2025.04.10 01:50:00   Diag spread-skip buy signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:16.119	ResearchPullback (XAUUSD_GD,M5)	2025.04.10 01:55:00   Diag spread-skip buy signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:16.242	ResearchPullback (XAUUSD_GD,M5)	2025.04.11 20:35:00   Diag spread-skip buy signal: ask-bid=1.690 (1690pt) > MaxSpreadPoints=800
+CS	0	07:59:16.242	ResearchPullback (XAUUSD_GD,M5)	2025.04.11 20:55:00   Diag spread-skip buy signal: ask-bid=1.570 (1570pt) > MaxSpreadPoints=800
+CS	0	07:59:16.253	ResearchPullback (XAUUSD_GD,M5)	2025.04.14 02:40:00   Diag spread-skip buy signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:16.389	ResearchPullback (XAUUSD_GD,M5)	2025.04.17 08:05:00   Diag spread-skip sell signal: ask-bid=0.900 (900pt) > MaxSpreadPoints=800
+CS	0	07:59:16.462	ResearchPullback (XAUUSD_GD,M5)	2025.04.21 20:00:00   Diag spread-skip buy signal: ask-bid=0.810 (810pt) > MaxSpreadPoints=800
+CS	0	07:59:16.478	ResearchPullback (XAUUSD_GD,M5)	2025.04.22 04:55:00   Diag spread-skip buy signal: ask-bid=0.800 (800pt) > MaxSpreadPoints=800
+CS	0	07:59:16.496	ResearchPullback (XAUUSD_GD,M5)	2025.04.22 14:10:00   Diag spread-skip sell signal: ask-bid=1.010 (1010pt) > MaxSpreadPoints=800
+CS	0	07:59:16.513	ResearchPullback (XAUUSD_GD,M5)	2025.04.22 20:35:00   Diag spread-skip sell signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:16.513	ResearchPullback (XAUUSD_GD,M5)	2025.04.22 22:00:05   Diag spread-skip sell signal: ask-bid=1.980 (1980pt) > MaxSpreadPoints=800
+CS	0	07:59:16.527	ResearchPullback (XAUUSD_GD,M5)	2025.04.23 05:30:00   Diag spread-skip sell signal: ask-bid=0.930 (930pt) > MaxSpreadPoints=800
+CS	0	07:59:16.527	ResearchPullback (XAUUSD_GD,M5)	2025.04.23 05:40:00   Diag spread-skip sell signal: ask-bid=1.240 (1240pt) > MaxSpreadPoints=800
+CS	0	07:59:16.542	ResearchPullback (XAUUSD_GD,M5)	2025.04.23 15:00:00   Diag spread-skip sell signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:16.542	ResearchPullback (XAUUSD_GD,M5)	2025.04.23 15:05:00   Diag spread-skip sell signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:16.543	ResearchPullback (XAUUSD_GD,M5)	2025.04.23 15:15:00   Diag spread-skip sell signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:16.543	ResearchPullback (XAUUSD_GD,M5)	2025.04.23 16:00:00   Diag spread-skip sell signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:16.554	ResearchPullback (XAUUSD_GD,M5)	2025.04.23 22:05:01   Order failure: 10018 market closed
+CS	0	07:59:16.603	ResearchPullback (XAUUSD_GD,M5)	2025.04.24 22:30:00   Order failure: 10018 market closed
+CS	0	07:59:16.613	ResearchPullback (XAUUSD_GD,M5)	2025.04.25 02:15:00   Diag spread-skip buy signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:16.648	ResearchPullback (XAUUSD_GD,M5)	2025.04.27 23:10:00   Diag spread-skip buy signal: ask-bid=1.390 (1390pt) > MaxSpreadPoints=800
+CS	0	07:59:16.652	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 00:05:00   Diag spread-skip buy signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:16.652	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 00:10:00   Diag spread-skip buy signal: ask-bid=0.800 (800pt) > MaxSpreadPoints=800
+CS	0	07:59:16.653	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 00:30:00   Diag spread-skip buy signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:16.656	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 02:55:00   Diag spread-skip sell signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:16.656	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 03:15:00   Diag spread-skip sell signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:16.657	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 05:35:00   Diag spread-skip buy signal: ask-bid=1.080 (1080pt) > MaxSpreadPoints=800
+CS	0	07:59:16.658	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 06:20:00   Diag spread-skip buy signal: ask-bid=1.290 (1290pt) > MaxSpreadPoints=800
+CS	0	07:59:16.660	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 08:05:02   Diag spread-skip sell signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:16.665	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 11:25:03   Diag spread-skip buy signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:16.669	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 14:05:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:16.672	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 15:45:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:16.674	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 18:10:00   Diag spread-skip buy signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:16.677	ResearchPullback (XAUUSD_GD,M5)	2025.04.28 23:10:00   Diag spread-skip sell signal: ask-bid=1.290 (1290pt) > MaxSpreadPoints=800
+CS	0	07:59:16.712	ResearchPullback (XAUUSD_GD,M5)	2025.04.29 23:05:00   Diag spread-skip sell signal: ask-bid=1.000 (1000pt) > MaxSpreadPoints=800
+CS	0	07:59:16.712	ResearchPullback (XAUUSD_GD,M5)	2025.04.29 23:40:02   Diag spread-skip sell signal: ask-bid=0.800 (800pt) > MaxSpreadPoints=800
+CS	0	07:59:16.718	ResearchPullback (XAUUSD_GD,M5)	2025.04.30 01:50:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.732	ResearchPullback (XAUUSD_GD,M5)	2025.04.30 11:50:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.733	ResearchPullback (XAUUSD_GD,M5)	2025.04.30 12:15:00   Diag spread-skip sell signal: ask-bid=3.990 (3990pt) > MaxSpreadPoints=800
+CS	0	07:59:16.737	ResearchPullback (XAUUSD_GD,M5)	2025.04.30 14:10:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:16.739	ResearchPullback (XAUUSD_GD,M5)	2025.04.30 14:55:00   Diag spread-skip buy signal: ask-bid=1.120 (1120pt) > MaxSpreadPoints=800
+CS	0	07:59:16.740	ResearchPullback (XAUUSD_GD,M5)	2025.04.30 15:15:00   Diag spread-skip buy signal: ask-bid=0.910 (910pt) > MaxSpreadPoints=800
+CS	0	07:59:16.740	ResearchPullback (XAUUSD_GD,M5)	2025.04.30 15:40:00   Diag spread-skip buy signal: ask-bid=1.000 (1000pt) > MaxSpreadPoints=800
+CS	0	07:59:16.750	ResearchPullback (XAUUSD_GD,M5)	2025.04.30 23:30:01   Diag spread-skip sell signal: ask-bid=1.180 (1180pt) > MaxSpreadPoints=800
+CS	0	07:59:16.754	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 00:20:00   Diag spread-skip sell signal: ask-bid=1.180 (1180pt) > MaxSpreadPoints=800
+CS	0	07:59:16.757	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 02:30:00   Diag spread-skip sell signal: ask-bid=1.150 (1150pt) > MaxSpreadPoints=800
+CS	0	07:59:16.757	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 02:35:01   Diag spread-skip sell signal: ask-bid=1.050 (1050pt) > MaxSpreadPoints=800
+CS	0	07:59:16.757	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 02:50:00   Diag spread-skip sell signal: ask-bid=1.180 (1180pt) > MaxSpreadPoints=800
+CS	0	07:59:16.758	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 04:55:02   Diag spread-skip sell signal: ask-bid=1.180 (1180pt) > MaxSpreadPoints=800
+CS	0	07:59:16.758	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 05:20:00   Diag spread-skip sell signal: ask-bid=0.970 (970pt) > MaxSpreadPoints=800
+CS	0	07:59:16.766	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 11:30:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:16.771	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 14:00:00   Diag spread-skip buy signal: ask-bid=4.440 (4440pt) > MaxSpreadPoints=800
+CS	0	07:59:16.772	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 14:15:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.784	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 22:40:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.784	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 22:45:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.784	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 23:20:01   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.784	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 23:35:04   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.785	ResearchPullback (XAUUSD_GD,M5)	2025.05.01 23:55:00   Diag spread-skip buy signal: ask-bid=0.800 (800pt) > MaxSpreadPoints=800
+CS	0	07:59:16.790	ResearchPullback (XAUUSD_GD,M5)	2025.05.02 00:05:00   Diag spread-skip buy signal: ask-bid=0.910 (910pt) > MaxSpreadPoints=800
+CS	0	07:59:16.792	ResearchPullback (XAUUSD_GD,M5)	2025.05.02 01:50:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.792	ResearchPullback (XAUUSD_GD,M5)	2025.05.02 02:00:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.805	ResearchPullback (XAUUSD_GD,M5)	2025.05.02 11:20:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.807	ResearchPullback (XAUUSD_GD,M5)	2025.05.02 12:55:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.808	ResearchPullback (XAUUSD_GD,M5)	2025.05.02 13:35:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.808	ResearchPullback (XAUUSD_GD,M5)	2025.05.02 13:45:00   Diag spread-skip sell signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:16.821	ResearchPullback (XAUUSD_GD,M5)	2025.05.04 22:15:00   Order failure: 10018 market closed
+CS	0	07:59:16.822	ResearchPullback (XAUUSD_GD,M5)	2025.05.04 23:05:00   Diag spread-skip buy signal: ask-bid=1.060 (1060pt) > MaxSpreadPoints=800
+CS	0	07:59:16.822	ResearchPullback (XAUUSD_GD,M5)	2025.05.04 23:10:01   Diag spread-skip buy signal: ask-bid=0.906 (906pt) > MaxSpreadPoints=800
+CS	0	07:59:16.829	ResearchPullback (XAUUSD_GD,M5)	2025.05.05 02:20:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.849	ResearchPullback (XAUUSD_GD,M5)	2025.05.05 15:35:00   Diag spread-skip buy signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:16.849	ResearchPullback (XAUUSD_GD,M5)	2025.05.05 15:40:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:16.851	ResearchPullback (XAUUSD_GD,M5)	2025.05.05 16:40:00   Diag spread-skip sell signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:16.851	ResearchPullback (XAUUSD_GD,M5)	2025.05.05 16:55:01   Diag spread-skip sell signal: ask-bid=0.900 (900pt) > MaxSpreadPoints=800
+CS	0	07:59:16.855	ResearchPullback (XAUUSD_GD,M5)	2025.05.05 22:40:00   Order failure: 10018 market closed
+CS	0	07:59:16.855	ResearchPullback (XAUUSD_GD,M5)	2025.05.05 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:16.855	ResearchPullback (XAUUSD_GD,M5)	2025.05.05 23:05:02   Diag spread-skip buy signal: ask-bid=1.120 (1120pt) > MaxSpreadPoints=800
+CS	0	07:59:16.863	ResearchPullback (XAUUSD_GD,M5)	2025.05.06 01:05:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:16.867	ResearchPullback (XAUUSD_GD,M5)	2025.05.06 03:20:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.868	ResearchPullback (XAUUSD_GD,M5)	2025.05.06 04:45:00   Diag spread-skip buy signal: ask-bid=1.070 (1070pt) > MaxSpreadPoints=800
+CS	0	07:59:16.868	ResearchPullback (XAUUSD_GD,M5)	2025.05.06 04:50:01   Diag spread-skip buy signal: ask-bid=0.990 (990pt) > MaxSpreadPoints=800
+CS	0	07:59:16.868	ResearchPullback (XAUUSD_GD,M5)	2025.05.06 04:55:00   Diag spread-skip buy signal: ask-bid=0.916 (916pt) > MaxSpreadPoints=800
+CS	0	07:59:16.869	ResearchPullback (XAUUSD_GD,M5)	2025.05.06 05:55:00   Diag spread-skip buy signal: ask-bid=1.180 (1180pt) > MaxSpreadPoints=800
+CS	0	07:59:16.869	ResearchPullback (XAUUSD_GD,M5)	2025.05.06 06:00:00   Diag spread-skip buy signal: ask-bid=1.070 (1070pt) > MaxSpreadPoints=800
+CS	0	07:59:16.895	ResearchPullback (XAUUSD_GD,M5)	2025.05.06 18:10:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.905	ResearchPullback (XAUUSD_GD,M5)	2025.05.07 00:10:00   Diag spread-skip sell signal: ask-bid=1.170 (1170pt) > MaxSpreadPoints=800
+CS	0	07:59:16.913	ResearchPullback (XAUUSD_GD,M5)	2025.05.07 03:20:00   Diag spread-skip sell signal: ask-bid=0.940 (940pt) > MaxSpreadPoints=800
+CS	0	07:59:16.944	ResearchPullback (XAUUSD_GD,M5)	2025.05.07 18:25:00   Diag spread-skip buy signal: ask-bid=0.832 (832pt) > MaxSpreadPoints=800
+CS	0	07:59:16.945	ResearchPullback (XAUUSD_GD,M5)	2025.05.07 19:00:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:16.962	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 03:10:00   Diag spread-skip buy signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:16.982	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 14:10:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:16.985	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 15:15:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:16.991	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 18:15:02   Diag spread-skip sell signal: ask-bid=0.960 (960pt) > MaxSpreadPoints=800
+CS	0	07:59:16.992	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 18:40:00   Diag spread-skip sell signal: ask-bid=0.960 (960pt) > MaxSpreadPoints=800
+CS	0	07:59:16.992	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 19:00:00   Diag spread-skip sell signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:16.993	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 20:45:00   Diag spread-skip sell signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:16.993	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 20:55:00   Diag spread-skip sell signal: ask-bid=0.890 (890pt) > MaxSpreadPoints=800
+CS	0	07:59:16.994	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 23:25:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:16.994	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 23:30:00   Diag spread-skip buy signal: ask-bid=1.010 (1010pt) > MaxSpreadPoints=800
+CS	0	07:59:16.994	ResearchPullback (XAUUSD_GD,M5)	2025.05.08 23:45:00   Diag spread-skip buy signal: ask-bid=1.010 (1010pt) > MaxSpreadPoints=800
+CS	0	07:59:17.002	ResearchPullback (XAUUSD_GD,M5)	2025.05.09 00:40:00   Diag spread-skip buy signal: ask-bid=0.846 (846pt) > MaxSpreadPoints=800
+CS	0	07:59:17.002	ResearchPullback (XAUUSD_GD,M5)	2025.05.09 00:45:00   Diag spread-skip buy signal: ask-bid=1.010 (1010pt) > MaxSpreadPoints=800
+CS	0	07:59:17.045	ResearchPullback (XAUUSD_GD,M5)	2025.05.12 00:20:01   Diag spread-skip sell signal: ask-bid=0.810 (810pt) > MaxSpreadPoints=800
+CS	0	07:59:17.045	ResearchPullback (XAUUSD_GD,M5)	2025.05.12 00:35:00   Diag spread-skip sell signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:17.048	ResearchPullback (XAUUSD_GD,M5)	2025.05.12 01:55:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.057	ResearchPullback (XAUUSD_GD,M5)	2025.05.12 07:05:00   Diag spread-skip sell signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:17.084	ResearchPullback (XAUUSD_GD,M5)	2025.05.12 22:00:01   Diag spread-skip buy signal: ask-bid=1.320 (1320pt) > MaxSpreadPoints=800
+CS	0	07:59:17.085	ResearchPullback (XAUUSD_GD,M5)	2025.05.12 22:15:00   Order failure: 10018 market closed
+CS	0	07:59:17.085	ResearchPullback (XAUUSD_GD,M5)	2025.05.12 23:10:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:17.124	ResearchPullback (XAUUSD_GD,M5)	2025.05.13 23:45:00   Diag spread-skip buy signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:17.130	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 01:45:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:17.130	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 01:50:00   Diag spread-skip sell signal: ask-bid=0.980 (980pt) > MaxSpreadPoints=800
+CS	0	07:59:17.133	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 04:40:01   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.133	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 05:15:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.133	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 05:30:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.134	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 06:30:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:17.134	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 06:35:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.138	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 09:10:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.138	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 10:10:00   Diag spread-skip buy signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:17.144	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 14:00:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.147	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 14:55:00   Diag spread-skip sell signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:17.162	ResearchPullback (XAUUSD_GD,M5)	2025.05.14 23:00:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:17.169	ResearchPullback (XAUUSD_GD,M5)	2025.05.15 01:30:00   Diag spread-skip buy signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:17.177	ResearchPullback (XAUUSD_GD,M5)	2025.05.15 07:35:00   Diag spread-skip sell signal: ask-bid=0.890 (890pt) > MaxSpreadPoints=800
+CS	0	07:59:17.177	ResearchPullback (XAUUSD_GD,M5)	2025.05.15 07:40:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:17.184	ResearchPullback (XAUUSD_GD,M5)	2025.05.15 12:55:00   Diag spread-skip buy signal: ask-bid=0.890 (890pt) > MaxSpreadPoints=800
+CS	0	07:59:17.185	ResearchPullback (XAUUSD_GD,M5)	2025.05.15 13:50:00   Diag spread-skip buy signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:17.195	ResearchPullback (XAUUSD_GD,M5)	2025.05.15 23:10:00   Diag spread-skip buy signal: ask-bid=0.940 (940pt) > MaxSpreadPoints=800
+CS	0	07:59:17.195	ResearchPullback (XAUUSD_GD,M5)	2025.05.15 23:15:01   Diag spread-skip buy signal: ask-bid=0.890 (890pt) > MaxSpreadPoints=800
+CS	0	07:59:17.195	ResearchPullback (XAUUSD_GD,M5)	2025.05.15 23:35:00   Diag spread-skip buy signal: ask-bid=0.890 (890pt) > MaxSpreadPoints=800
+CS	0	07:59:17.205	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 04:30:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.206	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 05:25:00   Diag spread-skip sell signal: ask-bid=0.970 (970pt) > MaxSpreadPoints=800
+CS	0	07:59:17.206	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 05:40:01   Diag spread-skip sell signal: ask-bid=0.890 (890pt) > MaxSpreadPoints=800
+CS	0	07:59:17.206	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 06:35:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:17.208	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 07:15:00   Diag spread-skip sell signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:17.210	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 08:55:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:17.210	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 10:10:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.210	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 10:20:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:17.213	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 12:35:00   Diag spread-skip sell signal: ask-bid=1.060 (1060pt) > MaxSpreadPoints=800
+CS	0	07:59:17.214	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 13:15:00   Diag spread-skip sell signal: ask-bid=1.010 (1010pt) > MaxSpreadPoints=800
+CS	0	07:59:17.214	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 13:20:00   Diag spread-skip sell signal: ask-bid=1.070 (1070pt) > MaxSpreadPoints=800
+CS	0	07:59:17.215	ResearchPullback (XAUUSD_GD,M5)	2025.05.16 13:30:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:17.227	ResearchPullback (XAUUSD_GD,M5)	2025.05.18 23:55:00   Diag spread-skip buy signal: ask-bid=1.110 (1110pt) > MaxSpreadPoints=800
+CS	0	07:59:17.231	ResearchPullback (XAUUSD_GD,M5)	2025.05.19 00:05:00   Diag spread-skip buy signal: ask-bid=1.040 (1040pt) > MaxSpreadPoints=800
+CS	0	07:59:17.232	ResearchPullback (XAUUSD_GD,M5)	2025.05.19 00:55:00   Diag spread-skip buy signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:17.259	ResearchPullback (XAUUSD_GD,M5)	2025.05.19 16:00:00   Diag spread-skip sell signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:17.278	ResearchPullback (XAUUSD_GD,M5)	2025.05.20 04:00:00   Diag spread-skip sell signal: ask-bid=0.810 (810pt) > MaxSpreadPoints=800
+CS	0	07:59:17.307	ResearchPullback (XAUUSD_GD,M5)	2025.05.20 22:05:00   Diag spread-skip buy signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:17.308	ResearchPullback (XAUUSD_GD,M5)	2025.05.20 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:17.358	ResearchPullback (XAUUSD_GD,M5)	2025.05.21 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:17.358	ResearchPullback (XAUUSD_GD,M5)	2025.05.21 22:45:00   Diag spread-skip buy signal: ask-bid=0.810 (810pt) > MaxSpreadPoints=800
+CS	0	07:59:17.358	ResearchPullback (XAUUSD_GD,M5)	2025.05.21 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:17.428	ResearchPullback (XAUUSD_GD,M5)	2025.05.23 11:50:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:17.458	ResearchPullback (XAUUSD_GD,M5)	2025.05.26 01:05:00   Diag spread-skip sell signal: ask-bid=0.877 (877pt) > MaxSpreadPoints=800
+CS	0	07:59:17.467	ResearchPullback (XAUUSD_GD,M5)	2025.05.26 08:10:00   Diag spread-skip sell signal: ask-bid=0.890 (890pt) > MaxSpreadPoints=800
+CS	0	07:59:17.512	ResearchPullback (XAUUSD_GD,M5)	2025.05.27 22:05:00   Diag spread-skip buy signal: ask-bid=0.930 (930pt) > MaxSpreadPoints=800
+CS	0	07:59:17.512	ResearchPullback (XAUUSD_GD,M5)	2025.05.27 22:20:03   Order failure: 10018 market closed
+CS	0	07:59:17.512	ResearchPullback (XAUUSD_GD,M5)	2025.05.27 22:25:01   Order failure: 10018 market closed
+CS	0	07:59:17.512	ResearchPullback (XAUUSD_GD,M5)	2025.05.27 22:50:02   Order failure: 10018 market closed
+CS	0	07:59:17.519	ResearchPullback (XAUUSD_GD,M5)	2025.05.28 02:45:00   Diag spread-skip sell signal: ask-bid=0.810 (810pt) > MaxSpreadPoints=800
+CS	0	07:59:17.537	ResearchPullback (XAUUSD_GD,M5)	2025.05.28 14:10:00   Diag spread-skip sell signal: ask-bid=0.814 (814pt) > MaxSpreadPoints=800
+CS	0	07:59:17.548	ResearchPullback (XAUUSD_GD,M5)	2025.05.28 22:15:00   Diag spread-skip sell signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:17.621	ResearchPullback (XAUUSD_GD,M5)	2025.05.30 16:35:00   Diag spread-skip sell signal: ask-bid=0.800 (800pt) > MaxSpreadPoints=800
+CS	0	07:59:17.640	ResearchPullback (XAUUSD_GD,M5)	2025.06.02 04:00:00   Diag spread-skip buy signal: ask-bid=0.810 (810pt) > MaxSpreadPoints=800
+CS	0	07:59:17.826	ResearchPullback (XAUUSD_GD,M5)	2025.06.06 12:35:00   Diag spread-skip sell signal: ask-bid=0.804 (804pt) > MaxSpreadPoints=800
+CS	0	07:59:17.827	ResearchPullback (XAUUSD_GD,M5)	2025.06.06 12:40:00   Diag spread-skip sell signal: ask-bid=0.867 (867pt) > MaxSpreadPoints=800
+CS	0	07:59:17.845	ResearchPullback (XAUUSD_GD,M5)	2025.06.08 22:00:06   Diag spread-skip sell signal: ask-bid=1.907 (1907pt) > MaxSpreadPoints=800
+CS	0	07:59:17.845	ResearchPullback (XAUUSD_GD,M5)	2025.06.08 22:45:00   Order failure: 10018 market closed
+CS	0	07:59:17.885	ResearchPullback (XAUUSD_GD,M5)	2025.06.09 22:35:00   Order failure: 10018 market closed
+CS	0	07:59:17.941	ResearchPullback (XAUUSD_GD,M5)	2025.06.11 12:05:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:18.002	ResearchPullback (XAUUSD_GD,M5)	2025.06.12 23:00:00   Diag spread-skip sell signal: ask-bid=1.090 (1090pt) > MaxSpreadPoints=800
+CS	0	07:59:18.112	ResearchPullback (XAUUSD_GD,M5)	2025.06.17 13:45:00   Diag spread-skip buy signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:18.124	ResearchPullback (XAUUSD_GD,M5)	2025.06.17 22:45:02   Order failure: 10018 market closed
+CS	0	07:59:18.164	ResearchPullback (XAUUSD_GD,M5)	2025.06.19 01:05:00   Diag spread-skip buy signal: ask-bid=0.960 (960pt) > MaxSpreadPoints=800
+CS	0	07:59:18.278	ResearchPullback (XAUUSD_GD,M5)	2025.06.24 13:00:00   Diag spread-skip sell signal: ask-bid=1.230 (1230pt) > MaxSpreadPoints=800
+CS	0	07:59:18.290	ResearchPullback (XAUUSD_GD,M5)	2025.06.24 22:25:00   Order failure: 10018 market closed
+CS	0	07:59:18.290	ResearchPullback (XAUUSD_GD,M5)	2025.06.24 22:50:01   Order failure: 10018 market closed
+CS	0	07:59:18.317	ResearchPullback (XAUUSD_GD,M5)	2025.06.25 23:10:00   Diag spread-skip buy signal: ask-bid=0.847 (847pt) > MaxSpreadPoints=800
+CS	0	07:59:18.335	ResearchPullback (XAUUSD_GD,M5)	2025.06.26 14:00:00   Diag spread-skip sell signal: ask-bid=0.944 (944pt) > MaxSpreadPoints=800
+CS	0	07:59:18.336	ResearchPullback (XAUUSD_GD,M5)	2025.06.26 14:20:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:18.413	ResearchPullback (XAUUSD_GD,M5)	2025.06.30 22:15:00   Order failure: 10018 market closed
+CS	0	07:59:18.413	ResearchPullback (XAUUSD_GD,M5)	2025.06.30 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:18.683	ResearchPullback (XAUUSD_GD,M5)	2025.07.11 20:40:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:18.685	ResearchPullback (XAUUSD_GD,M5)	2025.07.13 23:30:01   Diag spread-skip buy signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:18.685	ResearchPullback (XAUUSD_GD,M5)	2025.07.13 23:40:00   Diag spread-skip buy signal: ask-bid=0.920 (920pt) > MaxSpreadPoints=800
+CS	0	07:59:18.744	ResearchPullback (XAUUSD_GD,M5)	2025.07.15 22:15:00   Order failure: 10018 market closed
+CS	0	07:59:18.744	ResearchPullback (XAUUSD_GD,M5)	2025.07.15 22:25:02   Order failure: 10018 market closed
+CS	0	07:59:18.865	ResearchPullback (XAUUSD_GD,M5)	2025.07.21 22:05:00   Diag spread-skip buy signal: ask-bid=0.847 (847pt) > MaxSpreadPoints=800
+CS	0	07:59:18.866	ResearchPullback (XAUUSD_GD,M5)	2025.07.21 23:00:00   Diag spread-skip buy signal: ask-bid=1.057 (1057pt) > MaxSpreadPoints=800
+CS	0	07:59:18.931	ResearchPullback (XAUUSD_GD,M5)	2025.07.23 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:18.964	ResearchPullback (XAUUSD_GD,M5)	2025.07.24 22:10:00   Order failure: 10018 market closed
+CS	0	07:59:19.020	ResearchPullback (XAUUSD_GD,M5)	2025.07.28 22:30:00   Order failure: 10018 market closed
+CS	0	07:59:19.020	ResearchPullback (XAUUSD_GD,M5)	2025.07.28 22:55:06   Order failure: 10018 market closed
+CS	0	07:59:19.066	ResearchPullback (XAUUSD_GD,M5)	2025.07.30 12:15:00   Diag spread-skip sell signal: ask-bid=0.990 (990pt) > MaxSpreadPoints=800
+CS	0	07:59:19.066	ResearchPullback (XAUUSD_GD,M5)	2025.07.30 12:30:00   Diag spread-skip sell signal: ask-bid=1.440 (1440pt) > MaxSpreadPoints=800
+CS	0	07:59:19.081	ResearchPullback (XAUUSD_GD,M5)	2025.07.30 22:00:01   Diag spread-skip sell signal: ask-bid=1.837 (1837pt) > MaxSpreadPoints=800
+CS	0	07:59:19.157	ResearchPullback (XAUUSD_GD,M5)	2025.08.03 22:25:01   Order failure: 10018 market closed
+CS	0	07:59:19.157	ResearchPullback (XAUUSD_GD,M5)	2025.08.03 22:40:01   Order failure: 10018 market closed
+CS	0	07:59:19.240	ResearchPullback (XAUUSD_GD,M5)	2025.08.06 22:35:00   Order failure: 10018 market closed
+CS	0	07:59:19.241	ResearchPullback (XAUUSD_GD,M5)	2025.08.06 22:50:01   Order failure: 10018 market closed
+CS	0	07:59:19.241	ResearchPullback (XAUUSD_GD,M5)	2025.08.06 23:05:00   Diag spread-skip sell signal: ask-bid=1.150 (1150pt) > MaxSpreadPoints=800
+CS	0	07:59:19.254	ResearchPullback (XAUUSD_GD,M5)	2025.08.07 05:05:00   Diag spread-skip buy signal: ask-bid=0.990 (990pt) > MaxSpreadPoints=800
+CS	0	07:59:19.418	ResearchPullback (XAUUSD_GD,M5)	2025.08.08 18:05:00   Diag spread-skip buy signal: ask-bid=1.171 (1171pt) > MaxSpreadPoints=800
+CS	0	07:59:19.418	ResearchPullback (XAUUSD_GD,M5)	2025.08.08 18:10:00   Diag spread-skip buy signal: ask-bid=0.983 (983pt) > MaxSpreadPoints=800
+CS	0	07:59:19.586	ResearchPullback (XAUUSD_GD,M5)	2025.08.14 22:15:00   Order failure: 10018 market closed
+CS	0	07:59:19.776	ResearchPullback (XAUUSD_GD,M5)	2025.08.25 22:00:00   Diag spread-skip sell signal: ask-bid=1.857 (1857pt) > MaxSpreadPoints=800
+CS	0	07:59:19.776	ResearchPullback (XAUUSD_GD,M5)	2025.08.25 22:10:00   Order failure: 10018 market closed
+CS	0	07:59:19.810	ResearchPullback (XAUUSD_GD,M5)	2025.08.26 22:10:00   Diag spread-skip buy signal: ask-bid=0.817 (817pt) > MaxSpreadPoints=800
+CS	0	07:59:19.810	ResearchPullback (XAUUSD_GD,M5)	2025.08.26 22:25:00   Order failure: 10018 market closed
+CS	0	07:59:19.810	ResearchPullback (XAUUSD_GD,M5)	2025.08.26 22:35:00   Order failure: 10018 market closed
+CS	0	07:59:19.810	ResearchPullback (XAUUSD_GD,M5)	2025.08.26 22:55:27   Order failure: 10018 market closed
+CS	0	07:59:19.888	ResearchPullback (XAUUSD_GD,M5)	2025.08.29 12:30:00   Diag spread-skip sell signal: ask-bid=1.854 (1854pt) > MaxSpreadPoints=800
+CS	0	07:59:19.927	ResearchPullback (XAUUSD_GD,M5)	2025.09.01 10:15:00   Diag spread-skip sell signal: ask-bid=0.920 (920pt) > MaxSpreadPoints=800
+CS	0	07:59:20.093	ResearchPullback (XAUUSD_GD,M5)	2025.09.04 04:15:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:20.157	ResearchPullback (XAUUSD_GD,M5)	2025.09.05 12:35:00   Diag spread-skip buy signal: ask-bid=1.000 (1000pt) > MaxSpreadPoints=800
+CS	0	07:59:20.392	ResearchPullback (XAUUSD_GD,M5)	2025.09.14 22:15:00   Order failure: 10018 market closed
+CS	0	07:59:20.392	ResearchPullback (XAUUSD_GD,M5)	2025.09.14 22:20:05   Order failure: 10018 market closed
+CS	0	07:59:20.475	ResearchPullback (XAUUSD_GD,M5)	2025.09.16 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:20.475	ResearchPullback (XAUUSD_GD,M5)	2025.09.16 22:15:10   Order failure: 10018 market closed
+CS	0	07:59:20.475	ResearchPullback (XAUUSD_GD,M5)	2025.09.16 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:20.475	ResearchPullback (XAUUSD_GD,M5)	2025.09.16 22:35:00   Order failure: 10018 market closed
+CS	0	07:59:20.475	ResearchPullback (XAUUSD_GD,M5)	2025.09.16 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:20.475	ResearchPullback (XAUUSD_GD,M5)	2025.09.16 23:05:00   Diag spread-skip buy signal: ask-bid=0.974 (974pt) > MaxSpreadPoints=800
+CS	0	07:59:20.509	ResearchPullback (XAUUSD_GD,M5)	2025.09.17 18:05:00   Diag spread-skip buy signal: ask-bid=1.514 (1514pt) > MaxSpreadPoints=800
+CS	0	07:59:20.510	ResearchPullback (XAUUSD_GD,M5)	2025.09.17 18:20:00   Diag spread-skip buy signal: ask-bid=1.087 (1087pt) > MaxSpreadPoints=800
+CS	0	07:59:20.516	ResearchPullback (XAUUSD_GD,M5)	2025.09.17 22:05:00   Diag spread-skip sell signal: ask-bid=1.047 (1047pt) > MaxSpreadPoints=800
+CS	0	07:59:20.523	ResearchPullback (XAUUSD_GD,M5)	2025.09.18 01:05:00   Diag spread-skip sell signal: ask-bid=1.030 (1030pt) > MaxSpreadPoints=800
+CS	0	07:59:20.594	ResearchPullback (XAUUSD_GD,M5)	2025.09.21 23:05:01   Diag spread-skip buy signal: ask-bid=0.894 (894pt) > MaxSpreadPoints=800
+CS	0	07:59:20.849	ResearchPullback (XAUUSD_GD,M5)	2025.09.28 22:25:00   Order failure: 10018 market closed
+CS	0	07:59:20.849	ResearchPullback (XAUUSD_GD,M5)	2025.09.28 23:05:01   Diag spread-skip sell signal: ask-bid=0.804 (804pt) > MaxSpreadPoints=800
+CS	0	07:59:20.994	ResearchPullback (XAUUSD_GD,M5)	2025.10.01 12:15:00   Diag spread-skip buy signal: ask-bid=1.324 (1324pt) > MaxSpreadPoints=800
+CS	0	07:59:21.065	ResearchPullback (XAUUSD_GD,M5)	2025.10.02 22:00:01   Diag spread-skip buy signal: ask-bid=1.420 (1420pt) > MaxSpreadPoints=800
+CS	0	07:59:21.065	ResearchPullback (XAUUSD_GD,M5)	2025.10.02 22:05:00   Order failure: 10018 market closed
+CS	0	07:59:21.065	ResearchPullback (XAUUSD_GD,M5)	2025.10.02 22:40:00   Order failure: 10018 market closed
+CS	0	07:59:21.329	ResearchPullback (XAUUSD_GD,M5)	2025.10.08 19:30:00   Diag spread-skip sell signal: ask-bid=1.000 (1000pt) > MaxSpreadPoints=800
+CS	0	07:59:21.401	ResearchPullback (XAUUSD_GD,M5)	2025.10.09 22:15:00   Diag spread-skip sell signal: ask-bid=1.037 (1037pt) > MaxSpreadPoints=800
+CS	0	07:59:21.401	ResearchPullback (XAUUSD_GD,M5)	2025.10.09 22:30:00   Diag spread-skip sell signal: ask-bid=1.167 (1167pt) > MaxSpreadPoints=800
+CS	0	07:59:21.401	ResearchPullback (XAUUSD_GD,M5)	2025.10.09 22:55:05   Diag spread-skip sell signal: ask-bid=0.940 (940pt) > MaxSpreadPoints=800
+CS	0	07:59:21.422	ResearchPullback (XAUUSD_GD,M5)	2025.10.10 05:40:00   Diag spread-skip sell signal: ask-bid=0.927 (927pt) > MaxSpreadPoints=800
+CS	0	07:59:21.475	ResearchPullback (XAUUSD_GD,M5)	2025.10.12 23:50:00   Diag spread-skip buy signal: ask-bid=0.916 (916pt) > MaxSpreadPoints=800
+CS	0	07:59:21.484	ResearchPullback (XAUUSD_GD,M5)	2025.10.13 00:30:00   Diag spread-skip buy signal: ask-bid=0.997 (997pt) > MaxSpreadPoints=800
+CS	0	07:59:21.500	ResearchPullback (XAUUSD_GD,M5)	2025.10.13 06:15:00   Diag spread-skip buy signal: ask-bid=0.847 (847pt) > MaxSpreadPoints=800
+CS	0	07:59:21.604	ResearchPullback (XAUUSD_GD,M5)	2025.10.14 13:20:00   Diag spread-skip sell signal: ask-bid=0.807 (807pt) > MaxSpreadPoints=800
+CS	0	07:59:21.689	ResearchPullback (XAUUSD_GD,M5)	2025.10.15 18:25:00   Diag spread-skip buy signal: ask-bid=0.807 (807pt) > MaxSpreadPoints=800
+CS	0	07:59:21.705	ResearchPullback (XAUUSD_GD,M5)	2025.10.16 01:10:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:21.705	ResearchPullback (XAUUSD_GD,M5)	2025.10.16 01:15:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:21.758	ResearchPullback (XAUUSD_GD,M5)	2025.10.16 23:05:01   Diag spread-skip buy signal: ask-bid=1.540 (1540pt) > MaxSpreadPoints=800
+CS	0	07:59:21.759	ResearchPullback (XAUUSD_GD,M5)	2025.10.16 23:40:00   Diag spread-skip buy signal: ask-bid=0.937 (937pt) > MaxSpreadPoints=800
+CS	0	07:59:21.873	ResearchPullback (XAUUSD_GD,M5)	2025.10.17 12:20:00   Diag spread-skip sell signal: ask-bid=0.917 (917pt) > MaxSpreadPoints=800
+CS	0	07:59:21.917	ResearchPullback (XAUUSD_GD,M5)	2025.10.19 22:05:00   Diag spread-skip buy signal: ask-bid=1.387 (1387pt) > MaxSpreadPoints=800
+CS	0	07:59:21.917	ResearchPullback (XAUUSD_GD,M5)	2025.10.19 22:40:00   Diag spread-skip buy signal: ask-bid=1.337 (1337pt) > MaxSpreadPoints=800
+CS	0	07:59:21.929	ResearchPullback (XAUUSD_GD,M5)	2025.10.20 01:05:00   Diag spread-skip sell signal: ask-bid=1.300 (1300pt) > MaxSpreadPoints=800
+CS	0	07:59:21.935	ResearchPullback (XAUUSD_GD,M5)	2025.10.20 03:50:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:21.977	ResearchPullback (XAUUSD_GD,M5)	2025.10.20 22:05:00   Diag spread-skip buy signal: ask-bid=1.407 (1407pt) > MaxSpreadPoints=800
+CS	0	07:59:21.978	ResearchPullback (XAUUSD_GD,M5)	2025.10.20 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:22.071	ResearchPullback (XAUUSD_GD,M5)	2025.10.21 15:50:00   Diag spread-skip sell signal: ask-bid=1.026 (1026pt) > MaxSpreadPoints=800
+CS	0	07:59:22.111	ResearchPullback (XAUUSD_GD,M5)	2025.10.21 22:10:00   Diag spread-skip sell signal: ask-bid=1.337 (1337pt) > MaxSpreadPoints=800
+CS	0	07:59:22.112	ResearchPullback (XAUUSD_GD,M5)	2025.10.21 23:05:00   Diag spread-skip sell signal: ask-bid=1.454 (1454pt) > MaxSpreadPoints=800
+CS	0	07:59:22.112	ResearchPullback (XAUUSD_GD,M5)	2025.10.21 23:15:00   Diag spread-skip sell signal: ask-bid=0.980 (980pt) > MaxSpreadPoints=800
+CS	0	07:59:22.113	ResearchPullback (XAUUSD_GD,M5)	2025.10.21 23:50:00   Diag spread-skip sell signal: ask-bid=0.950 (950pt) > MaxSpreadPoints=800
+CS	0	07:59:22.125	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 00:55:00   Diag spread-skip sell signal: ask-bid=1.420 (1420pt) > MaxSpreadPoints=800
+CS	0	07:59:22.127	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 01:40:00   Diag spread-skip sell signal: ask-bid=1.007 (1007pt) > MaxSpreadPoints=800
+CS	0	07:59:22.128	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 01:55:00   Diag spread-skip sell signal: ask-bid=1.127 (1127pt) > MaxSpreadPoints=800
+CS	0	07:59:22.132	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 04:55:03   Diag spread-skip buy signal: ask-bid=1.010 (1010pt) > MaxSpreadPoints=800
+CS	0	07:59:22.133	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 05:05:00   Diag spread-skip buy signal: ask-bid=1.077 (1077pt) > MaxSpreadPoints=800
+CS	0	07:59:22.133	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 05:45:00   Diag spread-skip buy signal: ask-bid=1.000 (1000pt) > MaxSpreadPoints=800
+CS	0	07:59:22.148	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 10:40:00   Diag spread-skip sell signal: ask-bid=1.043 (1043pt) > MaxSpreadPoints=800
+CS	0	07:59:22.152	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 12:10:00   Diag spread-skip sell signal: ask-bid=1.026 (1026pt) > MaxSpreadPoints=800
+CS	0	07:59:22.152	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 12:25:00   Diag spread-skip sell signal: ask-bid=1.026 (1026pt) > MaxSpreadPoints=800
+CS	0	07:59:22.153	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 12:55:00   Diag spread-skip sell signal: ask-bid=0.910 (910pt) > MaxSpreadPoints=800
+CS	0	07:59:22.160	ResearchPullback (XAUUSD_GD,M5)	2025.10.22 14:35:00   Diag spread-skip sell signal: ask-bid=0.900 (900pt) > MaxSpreadPoints=800
+CS	0	07:59:22.192	ResearchPullback (XAUUSD_GD,M5)	2025.10.23 00:05:00   Diag spread-skip buy signal: ask-bid=1.017 (1017pt) > MaxSpreadPoints=800
+CS	0	07:59:22.213	ResearchPullback (XAUUSD_GD,M5)	2025.10.23 08:05:00   Diag spread-skip buy signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:22.252	ResearchPullback (XAUUSD_GD,M5)	2025.10.23 22:20:00   Order failure: 10018 market closed
+CS	0	07:59:22.252	ResearchPullback (XAUUSD_GD,M5)	2025.10.23 22:35:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:22.252	ResearchPullback (XAUUSD_GD,M5)	2025.10.23 22:40:01   Diag spread-skip sell signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:22.311	ResearchPullback (XAUUSD_GD,M5)	2025.10.26 22:25:00   Diag spread-skip sell signal: ask-bid=1.007 (1007pt) > MaxSpreadPoints=800
+CS	0	07:59:22.369	ResearchPullback (XAUUSD_GD,M5)	2025.10.27 17:20:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:22.381	ResearchPullback (XAUUSD_GD,M5)	2025.10.27 22:10:00   Diag spread-skip sell signal: ask-bid=1.260 (1260pt) > MaxSpreadPoints=800
+CS	0	07:59:22.381	ResearchPullback (XAUUSD_GD,M5)	2025.10.27 22:50:00   Order failure: 10018 market closed
+CS	0	07:59:22.381	ResearchPullback (XAUUSD_GD,M5)	2025.10.27 22:55:00   Order failure: 10018 market closed
+CS	0	07:59:22.381	ResearchPullback (XAUUSD_GD,M5)	2025.10.27 23:05:00   Diag spread-skip sell signal: ask-bid=0.834 (834pt) > MaxSpreadPoints=800
+CS	0	07:59:22.395	ResearchPullback (XAUUSD_GD,M5)	2025.10.28 03:30:00   Diag spread-skip sell signal: ask-bid=0.990 (990pt) > MaxSpreadPoints=800
+CS	0	07:59:22.398	ResearchPullback (XAUUSD_GD,M5)	2025.10.28 05:20:00   Diag spread-skip sell signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:22.446	ResearchPullback (XAUUSD_GD,M5)	2025.10.29 01:50:00   Diag spread-skip buy signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:22.448	ResearchPullback (XAUUSD_GD,M5)	2025.10.29 03:25:00   Diag spread-skip buy signal: ask-bid=0.970 (970pt) > MaxSpreadPoints=800
+CS	0	07:59:22.448	ResearchPullback (XAUUSD_GD,M5)	2025.10.29 03:35:01   Diag spread-skip buy signal: ask-bid=0.970 (970pt) > MaxSpreadPoints=800
+CS	0	07:59:22.481	ResearchPullback (XAUUSD_GD,M5)	2025.10.29 19:05:00   Diag spread-skip sell signal: ask-bid=1.170 (1170pt) > MaxSpreadPoints=800
+CS	0	07:59:22.483	ResearchPullback (XAUUSD_GD,M5)	2025.10.29 19:25:00   Diag spread-skip sell signal: ask-bid=0.880 (880pt) > MaxSpreadPoints=800
+CS	0	07:59:22.485	ResearchPullback (XAUUSD_GD,M5)	2025.10.29 20:30:00   Diag spread-skip sell signal: ask-bid=0.980 (980pt) > MaxSpreadPoints=800
+CS	0	07:59:22.486	ResearchPullback (XAUUSD_GD,M5)	2025.10.29 22:20:00   Diag spread-skip sell signal: ask-bid=1.310 (1310pt) > MaxSpreadPoints=800
+CS	0	07:59:22.494	ResearchPullback (XAUUSD_GD,M5)	2025.10.30 00:40:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:22.495	ResearchPullback (XAUUSD_GD,M5)	2025.10.30 01:15:00   Diag spread-skip sell signal: ask-bid=0.997 (997pt) > MaxSpreadPoints=800
+CS	0	07:59:22.503	ResearchPullback (XAUUSD_GD,M5)	2025.10.30 03:45:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:22.614	ResearchPullback (XAUUSD_GD,M5)	2025.11.02 23:20:02   Diag spread-skip sell signal: ask-bid=1.250 (1250pt) > MaxSpreadPoints=800
+CS	0	07:59:22.674	ResearchPullback (XAUUSD_GD,M5)	2025.11.03 23:10:00   Diag spread-skip sell signal: ask-bid=1.437 (1437pt) > MaxSpreadPoints=800
+CS	0	07:59:22.674	ResearchPullback (XAUUSD_GD,M5)	2025.11.03 23:50:00   Diag spread-skip sell signal: ask-bid=0.890 (890pt) > MaxSpreadPoints=800
+CS	0	07:59:23.191	ResearchPullback (XAUUSD_GD,M5)	2025.11.16 23:55:00   Diag spread-skip buy signal: ask-bid=0.810 (810pt) > MaxSpreadPoints=800
+CS	0	07:59:23.425	ResearchPullback (XAUUSD_GD,M5)	2025.11.20 13:40:00   Diag spread-skip buy signal: ask-bid=0.866 (866pt) > MaxSpreadPoints=800
+CS	0	07:59:23.479	ResearchPullback (XAUUSD_GD,M5)	2025.11.21 06:15:00   Diag spread-skip sell signal: ask-bid=0.850 (850pt) > MaxSpreadPoints=800
+CS	0	07:59:23.528	ResearchPullback (XAUUSD_GD,M5)	2025.11.23 23:00:00   Diag spread-skip sell signal: ask-bid=2.804 (2804pt) > MaxSpreadPoints=800
+CS	0	07:59:23.528	ResearchPullback (XAUUSD_GD,M5)	2025.11.23 23:05:00   Diag spread-skip sell signal: ask-bid=1.904 (1904pt) > MaxSpreadPoints=800
+CS	0	07:59:23.719	ResearchPullback (XAUUSD_GD,M5)	2025.11.28 04:40:11   Diag spread-skip buy signal: ask-bid=1.150 (1150pt) > MaxSpreadPoints=800
+CS	0	07:59:23.724	ResearchPullback (XAUUSD_GD,M5)	2025.11.28 10:35:00   Diag spread-skip sell signal: ask-bid=1.930 (1930pt) > MaxSpreadPoints=800
+CS	0	07:59:23.724	ResearchPullback (XAUUSD_GD,M5)	2025.11.28 10:50:03   Diag spread-skip sell signal: ask-bid=2.150 (2150pt) > MaxSpreadPoints=800
+CS	0	07:59:23.724	ResearchPullback (XAUUSD_GD,M5)	2025.11.28 10:55:09   Diag spread-skip sell signal: ask-bid=2.550 (2550pt) > MaxSpreadPoints=800
+CS	0	07:59:23.725	ResearchPullback (XAUUSD_GD,M5)	2025.11.28 11:55:00   Diag spread-skip buy signal: ask-bid=2.346 (2346pt) > MaxSpreadPoints=800
+CS	0	07:59:23.726	ResearchPullback (XAUUSD_GD,M5)	2025.11.28 12:15:02   Diag spread-skip buy signal: ask-bid=2.150 (2150pt) > MaxSpreadPoints=800
+CS	0	07:59:23.727	ResearchPullback (XAUUSD_GD,M5)	2025.11.28 13:35:00   Diag spread-skip buy signal: ask-bid=1.860 (1860pt) > MaxSpreadPoints=800
+CS	0	07:59:23.727	ResearchPullback (XAUUSD_GD,M5)	2025.11.28 13:50:00   Diag spread-skip buy signal: ask-bid=1.227 (1227pt) > MaxSpreadPoints=800
+CS	0	07:59:23.744	ResearchPullback (XAUUSD_GD,M5)	2025.11.30 23:25:00   Diag spread-skip buy signal: ask-bid=1.040 (1040pt) > MaxSpreadPoints=800
+CS	0	07:59:23.880	ResearchPullback (XAUUSD_GD,M5)	2025.12.02 23:10:00   Diag spread-skip buy signal: ask-bid=1.137 (1137pt) > MaxSpreadPoints=800
+CS	0	07:59:23.880	ResearchPullback (XAUUSD_GD,M5)	2025.12.02 23:45:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:23.888	ResearchPullback (XAUUSD_GD,M5)	2025.12.03 01:00:00   Diag spread-skip buy signal: ask-bid=0.967 (967pt) > MaxSpreadPoints=800
+CS	0	07:59:23.915	ResearchPullback (XAUUSD_GD,M5)	2025.12.03 14:15:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:24.055	ResearchPullback (XAUUSD_GD,M5)	2025.12.07 23:05:08   Diag spread-skip sell signal: ask-bid=5.970 (5970pt) > MaxSpreadPoints=800
+CS	0	07:59:24.055	ResearchPullback (XAUUSD_GD,M5)	2025.12.07 23:14:41   Diag spread-skip sell signal: ask-bid=3.730 (3730pt) > MaxSpreadPoints=800
+CS	0	07:59:24.055	ResearchPullback (XAUUSD_GD,M5)	2025.12.07 23:46:37   Diag spread-skip sell signal: ask-bid=2.537 (2537pt) > MaxSpreadPoints=800
+CS	0	07:59:24.201	ResearchPullback (XAUUSD_GD,M5)	2025.12.10 19:55:00   Diag spread-skip buy signal: ask-bid=0.900 (900pt) > MaxSpreadPoints=800
+CS	0	07:59:24.331	ResearchPullback (XAUUSD_GD,M5)	2025.12.14 23:05:02   Diag spread-skip buy signal: ask-bid=1.757 (1757pt) > MaxSpreadPoints=800
+CS	0	07:59:24.390	ResearchPullback (XAUUSD_GD,M5)	2025.12.15 23:00:00   Diag spread-skip sell signal: ask-bid=2.604 (2604pt) > MaxSpreadPoints=800
+CS	0	07:59:24.397	ResearchPullback (XAUUSD_GD,M5)	2025.12.16 00:00:00   Diag spread-skip sell signal: ask-bid=0.800 (800pt) > MaxSpreadPoints=800
+CS	0	07:59:24.636	ResearchPullback (XAUUSD_GD,M5)	2025.12.19 15:00:00   Diag spread-skip buy signal: ask-bid=1.937 (1937pt) > MaxSpreadPoints=800
+CS	0	07:59:24.658	ResearchPullback (XAUUSD_GD,M5)	2025.12.22 06:05:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.662	ResearchPullback (XAUUSD_GD,M5)	2025.12.22 08:30:00   Diag spread-skip buy signal: ask-bid=0.817 (817pt) > MaxSpreadPoints=800
+CS	0	07:59:24.662	ResearchPullback (XAUUSD_GD,M5)	2025.12.22 09:10:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.714	ResearchPullback (XAUUSD_GD,M5)	2025.12.23 06:45:00   Diag spread-skip sell signal: ask-bid=0.827 (827pt) > MaxSpreadPoints=800
+CS	0	07:59:24.717	ResearchPullback (XAUUSD_GD,M5)	2025.12.23 08:35:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:24.719	ResearchPullback (XAUUSD_GD,M5)	2025.12.23 10:05:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.749	ResearchPullback (XAUUSD_GD,M5)	2025.12.23 23:10:00   Diag spread-skip buy signal: ask-bid=1.204 (1204pt) > MaxSpreadPoints=800
+CS	0	07:59:24.756	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 01:05:00   Diag spread-skip buy signal: ask-bid=0.960 (960pt) > MaxSpreadPoints=800
+CS	0	07:59:24.763	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 05:05:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.767	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 07:10:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.767	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 07:30:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:24.771	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 09:35:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:24.772	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 10:20:01   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.772	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 11:00:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:24.773	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 11:30:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.774	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 12:30:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:24.774	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 12:40:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.774	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 12:55:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.775	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 13:05:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.776	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 13:50:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.785	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 16:15:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:24.789	ResearchPullback (XAUUSD_GD,M5)	2025.12.24 18:20:00   Diag spread-skip buy signal: ask-bid=0.956 (956pt) > MaxSpreadPoints=800
+CS	0	07:59:24.806	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 04:10:00   Diag spread-skip buy signal: ask-bid=0.960 (960pt) > MaxSpreadPoints=800
+CS	0	07:59:24.808	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 04:45:01   Diag spread-skip buy signal: ask-bid=0.870 (870pt) > MaxSpreadPoints=800
+CS	0	07:59:24.808	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 04:50:01   Diag spread-skip buy signal: ask-bid=1.010 (1010pt) > MaxSpreadPoints=800
+CS	0	07:59:24.821	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 07:10:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:59:24.823	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 08:05:00   Diag spread-skip buy signal: ask-bid=1.137 (1137pt) > MaxSpreadPoints=800
+CS	0	07:59:24.823	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 08:15:00   Diag spread-skip buy signal: ask-bid=0.916 (916pt) > MaxSpreadPoints=800
+CS	0	07:59:24.825	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 09:00:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.826	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 09:20:00   Diag spread-skip buy signal: ask-bid=1.150 (1150pt) > MaxSpreadPoints=800
+CS	0	07:59:24.828	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 10:10:00   Diag spread-skip buy signal: ask-bid=1.077 (1077pt) > MaxSpreadPoints=800
+CS	0	07:59:24.833	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 12:05:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:24.833	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 12:20:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.834	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 13:00:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.837	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 13:25:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.839	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 13:55:00   Diag spread-skip buy signal: ask-bid=0.816 (816pt) > MaxSpreadPoints=800
+CS	0	07:59:24.845	ResearchPullback (XAUUSD_GD,M5)	2025.12.26 15:05:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.886	ResearchPullback (XAUUSD_GD,M5)	2025.12.28 23:20:00   Diag spread-skip buy signal: ask-bid=1.604 (1604pt) > MaxSpreadPoints=800
+CS	0	07:59:24.886	ResearchPullback (XAUUSD_GD,M5)	2025.12.28 23:35:00   Diag spread-skip buy signal: ask-bid=1.467 (1467pt) > MaxSpreadPoints=800
+CS	0	07:59:24.942	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 08:30:00   Diag spread-skip sell signal: ask-bid=1.096 (1096pt) > MaxSpreadPoints=800
+CS	0	07:59:24.942	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 08:35:00   Diag spread-skip sell signal: ask-bid=1.093 (1093pt) > MaxSpreadPoints=800
+CS	0	07:59:24.945	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 10:25:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.948	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 11:25:00   Diag spread-skip sell signal: ask-bid=0.957 (957pt) > MaxSpreadPoints=800
+CS	0	07:59:24.948	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 11:35:05   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:24.952	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 12:25:00   Diag spread-skip sell signal: ask-bid=0.896 (896pt) > MaxSpreadPoints=800
+CS	0	07:59:24.953	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 13:15:00   Diag spread-skip sell signal: ask-bid=1.037 (1037pt) > MaxSpreadPoints=800
+CS	0	07:59:24.953	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 13:20:00   Diag spread-skip sell signal: ask-bid=1.113 (1113pt) > MaxSpreadPoints=800
+CS	0	07:59:24.967	ResearchPullback (XAUUSD_GD,M5)	2025.12.29 16:45:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:25.024	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 07:15:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.024	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 07:30:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.025	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 08:10:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.027	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 09:40:00   Diag spread-skip buy signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.028	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 09:50:00   Diag spread-skip buy signal: ask-bid=0.860 (860pt) > MaxSpreadPoints=800
+CS	0	07:59:25.028	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 10:10:01   Diag spread-skip buy signal: ask-bid=0.807 (807pt) > MaxSpreadPoints=800
+CS	0	07:59:25.035	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 13:25:00   Diag spread-skip buy signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:25.042	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 15:25:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:25.043	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 15:45:00   Diag spread-skip sell signal: ask-bid=0.827 (827pt) > MaxSpreadPoints=800
+CS	0	07:59:25.045	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 16:35:00   Diag spread-skip sell signal: ask-bid=0.820 (820pt) > MaxSpreadPoints=800
+CS	0	07:59:25.048	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 17:45:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.048	ResearchPullback (XAUUSD_GD,M5)	2025.12.30 18:15:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.082	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 03:15:00   Diag spread-skip buy signal: ask-bid=1.080 (1080pt) > MaxSpreadPoints=800
+CS	0	07:59:25.094	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 08:10:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.095	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 08:30:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.095	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 08:35:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.102	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 10:30:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:25.103	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 11:20:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.104	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 11:55:00   Diag spread-skip sell signal: ask-bid=0.830 (830pt) > MaxSpreadPoints=800
+CS	0	07:59:25.104	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 12:00:00   Diag spread-skip sell signal: ask-bid=0.840 (840pt) > MaxSpreadPoints=800
+CS	0	07:59:25.105	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 13:10:00   Diag spread-skip sell signal: ask-bid=0.827 (827pt) > MaxSpreadPoints=800
+CS	0	07:59:25.108	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 14:35:00   Diag spread-skip buy signal: ask-bid=0.824 (824pt) > MaxSpreadPoints=800
+CS	0	07:59:25.112	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 15:30:00   Diag spread-skip buy signal: ask-bid=1.087 (1087pt) > MaxSpreadPoints=800
+CS	0	07:59:25.112	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 15:35:00   Diag spread-skip buy signal: ask-bid=0.857 (857pt) > MaxSpreadPoints=800
+CS	0	07:59:25.118	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 17:50:00   Diag spread-skip sell signal: ask-bid=0.977 (977pt) > MaxSpreadPoints=800
+CS	0	07:59:25.118	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 18:00:00   Diag spread-skip sell signal: ask-bid=1.047 (1047pt) > MaxSpreadPoints=800
+CS	0	07:59:25.118	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 18:10:00   Diag spread-skip sell signal: ask-bid=1.007 (1007pt) > MaxSpreadPoints=800
+CS	0	07:59:25.124	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 18:35:00   Diag spread-skip sell signal: ask-bid=0.967 (967pt) > MaxSpreadPoints=800
+CS	0	07:59:25.125	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 18:45:00   Diag spread-skip sell signal: ask-bid=1.107 (1107pt) > MaxSpreadPoints=800
+CS	0	07:59:25.127	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 20:25:00   Diag spread-skip sell signal: ask-bid=1.134 (1134pt) > MaxSpreadPoints=800
+CS	0	07:59:25.127	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 20:30:00   Diag spread-skip sell signal: ask-bid=1.160 (1160pt) > MaxSpreadPoints=800
+CS	0	07:59:25.128	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 20:50:00   Diag spread-skip sell signal: ask-bid=1.170 (1170pt) > MaxSpreadPoints=800
+CS	0	07:59:25.128	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 20:55:00   Diag spread-skip sell signal: ask-bid=1.170 (1170pt) > MaxSpreadPoints=800
+CS	0	07:59:25.130	Tester	final balance 8145.01 USD
+CS	0	07:59:25.130	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 21:58:59   Diag symbol: name=XAUUSD_GD description="Gold vs US Dollar" path="Custom\GoldDesk\XAUUSD_GD" digits=3 point=0.0010000000 ticksize=0.0010000000 contract=100.00 spread_float=true stopslevel=0
+CS	0	07:59:25.130	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 21:58:59   Diag spread all ticks (ask-bid): n=127556748 min=1pt(0.001) median=491pt(0.491) max=14990pt(14.990) share<=800pt=93.43%  [price min=0.001 max=14.990]
+CS	0	07:59:25.130	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 21:58:59   Diag spread at checked new-bar ticks: n=74858 min=1pt(0.001) median=470pt(0.470) max=14299pt(14.299) share<=800pt=93.36%
+CS	0	07:59:25.130	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 21:58:59   Diag counts: new_bars=142035 skip_position=67177 skip_tick_or_atr=0 signals=5808 (buy=3253 sell=2555) spread_blocked_bars=5034 spread_blocked_signals=446 stops_level_skip=0 orders_sent=5362 order_failures=151
+CS	0	07:59:25.155	ResearchPullback (XAUUSD_GD,M5)	2025.12.31 21:58:59   Export: research_deals_28409482.csv rows=10422 positions=5211 history_deals_total=10423 duplicates_skipped=0 own_positions_open_at_export=0
+CS	0	07:59:25.192	Tester	XAUUSD_GD,M5: 127556748 ticks, 142035 bars generated. Environment synchronized in 0:00:00.019. Test passed in 0:00:28.496 (including ticks preprocessing 0:00:05.187).
+CS	0	07:59:25.192	Tester	XAUUSD_GD,M5: total time from login to stop testing 0:00:28.515 (including 0:00:00.019 for history data synchronization)
+CS	0	07:59:25.192	Tester	2742 Mb memory used including 13 Mb of history data, 2560 Mb of tick data
+CS	0	07:59:25.192	Tester	log file "<USER_HOME>\MT5_EMTester\Tester\Agent-127.0.0.1-3000\logs\20261103.log" written
+CS	0	07:59:25.216	Tester	test Experts\Research\ResearchPullback.ex5 on XAUUSD_GD,M5 thread finished
+CS	0	07:59:25.457	127.0.0.1	tester forced to close
+CS	0	07:59:25.457	127.0.0.1	prepare for shutdown
+CS	0	07:59:25.457	127.0.0.1	stop immediately
+CS	0	07:59:25.457	127.0.0.1	shutdown finished
+CS	0	07:59:25.758	Server	MetaTester 5 stopped

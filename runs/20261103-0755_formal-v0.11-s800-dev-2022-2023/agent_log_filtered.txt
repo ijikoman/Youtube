@@ -1,0 +1,293 @@
+CS	0	07:57:23.941	Ticks	XAUUSD_GD: load 355.31 Mb of tick data to synchronize in 0:00:05.953
+CS	0	07:57:23.941	Ticks	XAUUSD_GD: history ticks synchronized from 2022.01.02 to 2023.12.29
+CS	0	07:57:23.947	History	XAUUSD_GD,M5: history cache allocated for 162219 bars and contains 12030 bars from 2021.11.01 00:00 to 2021.12.31 21:55
+CS	0	07:57:23.947	History	XAUUSD_GD,M5: history begins from 2021.11.01 00:00
+CS	0	07:57:23.948	Tester	XAUUSD_GD,M5 (Exness-MT5Trial5): generating based on real ticks
+CS	0	07:57:23.948	Tester	XAUUSD_GD,M5: testing of Experts\Research\BarDump.ex5 from 2022.01.01 00:00 to 2024.01.01 00:00 started with inputs:
+CS	0	07:57:23.948	Tester	  FastEMA=20
+CS	0	07:57:23.948	Tester	  SlowEMA=50
+CS	0	07:57:23.948	Tester	  ATRPeriod=14
+CS	0	07:57:23.948	Tester	  WarmupBars=1500
+CS	0	07:57:29.429	Ticks	XAUUSD_GD : real ticks begin from 2022.01.02 00:00:00
+CS	0	07:57:40.557	Tester	final balance 10000.00 USD
+CS	0	07:57:40.557	BarDump (XAUUSD_GD,M5)	2023.12.29 21:58:59   BarDump: digits=3 point=0.0010000000 ticksize=0.0010000000 contract=100.00 stopslevel=0 volmin=0.01 step=0.01
+CS	0	07:57:40.608	Tester	XAUUSD_GD,M5: 90076035 ticks, 141544 bars generated. Environment synchronized in 0:00:06.056. Test passed in 0:00:16.670 (including ticks preprocessing 0:00:05.469).
+CS	0	07:57:40.608	Tester	XAUUSD_GD,M5: total time from login to stop testing 0:00:22.726 (including 0:00:06.056 for history data synchronization)
+CS	0	07:57:40.608	Tester	1951 Mb memory used including 9 Mb of history data, 1856 Mb of tick data
+CS	0	07:57:40.608	Tester	log file "<USER_HOME>\MT5_EMTester\Tester\Agent-127.0.0.1-3000\logs\20261103.log" written
+CS	0	07:57:40.608	Tester	test Experts\Research\BarDump.ex5 on XAUUSD_GD,M5 thread finished
+CS	0	07:57:40.726	127.0.0.1	tester forced to close
+CS	0	07:57:40.726	127.0.0.1	prepare for shutdown
+CS	0	07:57:40.726	127.0.0.1	stop immediately
+CS	0	07:57:40.726	127.0.0.1	shutdown finished
+CS	0	07:57:41.000	Server	MetaTester 5 stopped
+CS	0	07:57:49.467	Startup	MetaTester 5 build 6230, 25 Sep 2026
+CS	0	07:57:49.469	Startup	Windows 11 build 26200, 32 x Intel Core i9-14900K, AVX2, 32 / 63 Gb memory, 683 / 1861 Gb disk, UAC, GMT+9
+CS	0	07:57:49.469	Server	MetaTester 5 started on 127.0.0.1:3000
+CS	0	07:57:49.470	Startup	cloud network mode is off
+CS	0	07:57:49.470	Startup	initialization finished
+CS	0	07:57:49.807	127.0.0.1	login (build 6230)
+CS	0	07:57:49.822	Network	15288 bytes of account info loaded
+CS	0	07:57:49.822	Network	1478 bytes of tester parameters loaded
+CS	0	07:57:49.822	Network	4804 bytes of input parameters loaded
+CS	0	07:57:49.822	Network	9208 bytes of symbols list loaded (989 symbols)
+CS	0	07:57:49.822	Tester	expert file added: Experts\Research\ResearchPullback.ex5. 40281 bytes loaded
+CS	0	07:57:49.825	Tester	33624 Mb available, 420 blocks set for ticks generating
+CS	0	07:57:49.825	Tester	initial deposit 10000.00 USD, leverage 1:100
+CS	0	07:57:49.825	Tester	successfully initialized
+CS	0	07:57:49.825	Network	45 Kb of total initialization data received
+CS	0	07:57:49.825	Tester	Intel Core i9-14900K, 65276 MB
+CS	0	07:57:49.827	Symbols	XAUUSD_GD: symbol to be synchronized
+CS	0	07:57:49.828	Symbols	XAUUSD_GD: symbol synchronized, 4120 bytes of symbol info received
+CS	0	07:57:49.829	History	XAUUSD_GD: load 33 bytes of history data to synchronize in 0:00:00.000
+CS	0	07:57:49.829	History	XAUUSD_GD: history synchronized from 2021.11.01 to 2024.01.01
+CS	0	07:57:49.830	Ticks	XAUUSD_GD: ticks synchronization started
+CS	0	07:57:49.830	Ticks	XAUUSD_GD: load 40 bytes of tick data to synchronize in 0:00:00.000
+CS	0	07:57:49.830	Ticks	XAUUSD_GD: history ticks synchronized from 2022.01.02 to 2023.12.29
+CS	0	07:57:49.834	History	XAUUSD_GD,M5: history cache allocated for 162219 bars and contains 12030 bars from 2021.11.01 00:00 to 2021.12.31 21:55
+CS	0	07:57:49.834	History	XAUUSD_GD,M5: history begins from 2021.11.01 00:00
+CS	0	07:57:49.834	Tester	XAUUSD_GD,M5 (Exness-MT5Trial5): generating based on real ticks
+CS	0	07:57:49.834	Tester	XAUUSD_GD,M5: testing of Experts\Research\ResearchPullback.ex5 from 2022.01.01 00:00 to 2024.01.01 00:00 started with inputs:
+CS	0	07:57:49.834	Tester	  FastEMA=20
+CS	0	07:57:49.834	Tester	  SlowEMA=50
+CS	0	07:57:49.834	Tester	  ATRPeriod=14
+CS	0	07:57:49.834	Tester	  StopATR=1.5
+CS	0	07:57:49.834	Tester	  RewardRisk=2.0
+CS	0	07:57:49.834	Tester	  Lots=0.01
+CS	0	07:57:49.834	Tester	  Magic=2601102
+CS	0	07:57:49.834	Tester	  DeviationPoints=20
+CS	0	07:57:49.834	Tester	  MaxSpreadPoints=800
+CS	0	07:57:53.106	Ticks	XAUUSD_GD : real ticks begin from 2022.01.02 00:00:00
+CS	0	07:57:53.107	ResearchPullback (XAUUSD_GD,M5)	2022.01.02 23:00:00   Diag spread-skip buy signal: ask-bid=1.052 (1052pt) > MaxSpreadPoints=800
+CS	0	07:57:55.174	ResearchPullback (XAUUSD_GD,M5)	2022.03.08 23:00:00   Diag spread-skip buy signal: ask-bid=1.200 (1200pt) > MaxSpreadPoints=800
+CS	0	07:57:55.386	ResearchPullback (XAUUSD_GD,M5)	2022.03.15 22:20:02   Order failure: 10018 market closed
+CS	0	07:57:55.386	ResearchPullback (XAUUSD_GD,M5)	2022.03.15 22:25:00   Order failure: 10018 market closed
+CS	0	07:57:55.386	ResearchPullback (XAUUSD_GD,M5)	2022.03.15 22:50:00   Order failure: 10018 market closed
+CS	0	07:57:55.465	ResearchPullback (XAUUSD_GD,M5)	2022.03.17 22:35:07   Order failure: 10018 market closed
+CS	0	07:57:55.465	ResearchPullback (XAUUSD_GD,M5)	2022.03.17 22:45:02   Order failure: 10018 market closed
+CS	0	07:57:55.493	ResearchPullback (XAUUSD_GD,M5)	2022.03.20 22:15:00   Order failure: 10018 market closed
+CS	0	07:57:55.493	ResearchPullback (XAUUSD_GD,M5)	2022.03.20 23:00:00   Order failure: 10018 market closed
+CS	0	07:57:55.564	ResearchPullback (XAUUSD_GD,M5)	2022.03.23 22:05:00   Order failure: 10018 market closed
+CS	0	07:57:55.564	ResearchPullback (XAUUSD_GD,M5)	2022.03.23 22:10:03   Order failure: 10018 market closed
+CS	0	07:57:55.564	ResearchPullback (XAUUSD_GD,M5)	2022.03.23 22:20:00   Order failure: 10018 market closed
+CS	0	07:57:55.564	ResearchPullback (XAUUSD_GD,M5)	2022.03.23 22:40:01   Order failure: 10018 market closed
+CS	0	07:57:55.564	ResearchPullback (XAUUSD_GD,M5)	2022.03.23 22:50:01   Order failure: 10018 market closed
+CS	0	07:57:55.634	ResearchPullback (XAUUSD_GD,M5)	2022.03.27 22:15:00   Order failure: 10018 market closed
+CS	0	07:57:55.763	ResearchPullback (XAUUSD_GD,M5)	2022.03.30 22:25:00   Order failure: 10018 market closed
+CS	0	07:57:55.835	ResearchPullback (XAUUSD_GD,M5)	2022.04.03 22:10:01   Order failure: 10018 market closed
+CS	0	07:57:55.835	ResearchPullback (XAUUSD_GD,M5)	2022.04.03 22:15:00   Order failure: 10018 market closed
+CS	0	07:57:55.835	ResearchPullback (XAUUSD_GD,M5)	2022.04.03 22:55:00   Order failure: 10018 market closed
+CS	0	07:57:55.910	ResearchPullback (XAUUSD_GD,M5)	2022.04.05 22:20:09   Order failure: 10018 market closed
+CS	0	07:57:55.910	ResearchPullback (XAUUSD_GD,M5)	2022.04.05 22:45:03   Order failure: 10018 market closed
+CS	0	07:57:56.085	ResearchPullback (XAUUSD_GD,M5)	2022.04.10 23:00:00   Order failure: 10018 market closed
+CS	0	07:57:56.125	ResearchPullback (XAUUSD_GD,M5)	2022.04.11 22:35:02   Order failure: 10018 market closed
+CS	0	07:57:56.294	ResearchPullback (XAUUSD_GD,M5)	2022.04.19 22:20:00   Order failure: 10018 market closed
+CS	0	07:57:56.294	ResearchPullback (XAUUSD_GD,M5)	2022.04.19 22:25:00   Order failure: 10018 market closed
+CS	0	07:57:56.294	ResearchPullback (XAUUSD_GD,M5)	2022.04.19 22:35:01   Order failure: 10018 market closed
+CS	0	07:57:56.502	ResearchPullback (XAUUSD_GD,M5)	2022.04.26 22:45:00   Order failure: 10018 market closed
+CS	0	07:57:56.502	ResearchPullback (XAUUSD_GD,M5)	2022.04.26 22:50:00   Order failure: 10018 market closed
+CS	0	07:57:56.577	ResearchPullback (XAUUSD_GD,M5)	2022.04.28 22:05:00   Order failure: 10018 market closed
+CS	0	07:57:56.637	ResearchPullback (XAUUSD_GD,M5)	2022.05.01 22:10:00   Order failure: 10018 market closed
+CS	0	07:57:56.637	ResearchPullback (XAUUSD_GD,M5)	2022.05.01 22:20:00   Order failure: 10018 market closed
+CS	0	07:57:56.637	ResearchPullback (XAUUSD_GD,M5)	2022.05.01 22:55:01   Order failure: 10018 market closed
+CS	0	07:57:56.755	ResearchPullback (XAUUSD_GD,M5)	2022.05.04 22:10:00   Order failure: 10018 market closed
+CS	0	07:57:56.755	ResearchPullback (XAUUSD_GD,M5)	2022.05.04 22:15:00   Order failure: 10018 market closed
+CS	0	07:57:56.755	ResearchPullback (XAUUSD_GD,M5)	2022.05.04 22:20:00   Order failure: 10018 market closed
+CS	0	07:57:56.755	ResearchPullback (XAUUSD_GD,M5)	2022.05.04 22:55:02   Order failure: 10018 market closed
+CS	0	07:57:56.843	ResearchPullback (XAUUSD_GD,M5)	2022.05.08 22:35:00   Order failure: 10018 market closed
+CS	0	07:57:57.213	ResearchPullback (XAUUSD_GD,M5)	2022.05.18 22:00:00   Diag spread-skip sell signal: ask-bid=1.084 (1084pt) > MaxSpreadPoints=800
+CS	0	07:57:57.280	ResearchPullback (XAUUSD_GD,M5)	2022.05.22 22:05:00   Order failure: 10018 market closed
+CS	0	07:57:57.281	ResearchPullback (XAUUSD_GD,M5)	2022.05.22 22:20:01   Order failure: 10018 market closed
+CS	0	07:57:57.310	ResearchPullback (XAUUSD_GD,M5)	2022.05.23 22:00:00   Order failure: 10018 market closed
+CS	0	07:57:57.311	ResearchPullback (XAUUSD_GD,M5)	2022.05.23 22:15:00   Order failure: 10018 market closed
+CS	0	07:57:57.311	ResearchPullback (XAUUSD_GD,M5)	2022.05.23 22:50:05   Order failure: 10018 market closed
+CS	0	07:57:57.362	ResearchPullback (XAUUSD_GD,M5)	2022.05.25 22:25:00   Order failure: 10018 market closed
+CS	0	07:57:57.393	ResearchPullback (XAUUSD_GD,M5)	2022.05.26 22:45:00   Order failure: 10018 market closed
+CS	0	07:57:57.393	ResearchPullback (XAUUSD_GD,M5)	2022.05.26 22:50:00   Order failure: 10018 market closed
+CS	0	07:57:57.434	ResearchPullback (XAUUSD_GD,M5)	2022.05.30 22:35:00   Order failure: 10018 market closed
+CS	0	07:57:57.568	ResearchPullback (XAUUSD_GD,M5)	2022.06.05 22:00:00   Diag spread-skip sell signal: ask-bid=1.946 (1946pt) > MaxSpreadPoints=800
+CS	0	07:57:57.568	ResearchPullback (XAUUSD_GD,M5)	2022.06.05 22:20:18   Order failure: 10018 market closed
+CS	0	07:57:57.640	ResearchPullback (XAUUSD_GD,M5)	2022.06.08 22:10:01   Order failure: 10018 market closed
+CS	0	07:57:57.845	ResearchPullback (XAUUSD_GD,M5)	2022.06.15 18:05:00   Diag spread-skip sell signal: ask-bid=0.904 (904pt) > MaxSpreadPoints=800
+CS	0	07:57:57.981	ResearchPullback (XAUUSD_GD,M5)	2022.06.21 22:10:01   Order failure: 10018 market closed
+CS	0	07:57:57.981	ResearchPullback (XAUUSD_GD,M5)	2022.06.21 22:40:01   Order failure: 10018 market closed
+CS	0	07:57:57.981	ResearchPullback (XAUUSD_GD,M5)	2022.06.21 22:50:03   Order failure: 10018 market closed
+CS	0	07:57:58.352	ResearchPullback (XAUUSD_GD,M5)	2022.07.04 22:10:11   Order failure: 10018 market closed
+CS	0	07:57:58.515	ResearchPullback (XAUUSD_GD,M5)	2022.07.10 22:00:00   Order failure: 10018 market closed
+CS	0	07:57:58.515	ResearchPullback (XAUUSD_GD,M5)	2022.07.10 22:05:00   Order failure: 10018 market closed
+CS	0	07:57:58.553	ResearchPullback (XAUUSD_GD,M5)	2022.07.11 22:10:05   Order failure: 10018 market closed
+CS	0	07:57:58.553	ResearchPullback (XAUUSD_GD,M5)	2022.07.11 22:50:00   Order failure: 10018 market closed
+CS	0	07:57:58.798	ResearchPullback (XAUUSD_GD,M5)	2022.07.18 22:35:00   Order failure: 10018 market closed
+CS	0	07:57:58.857	ResearchPullback (XAUUSD_GD,M5)	2022.07.20 22:15:05   Order failure: 10018 market closed
+CS	0	07:57:58.919	ResearchPullback (XAUUSD_GD,M5)	2022.07.24 22:35:00   Order failure: 10018 market closed
+CS	0	07:57:58.919	ResearchPullback (XAUUSD_GD,M5)	2022.07.24 22:45:00   Order failure: 10018 market closed
+CS	0	07:57:58.919	ResearchPullback (XAUUSD_GD,M5)	2022.07.24 22:55:00   Order failure: 10018 market closed
+CS	0	07:57:58.919	ResearchPullback (XAUUSD_GD,M5)	2022.07.24 23:00:00   Order failure: 10018 market closed
+CS	0	07:57:58.945	ResearchPullback (XAUUSD_GD,M5)	2022.07.25 22:40:02   Order failure: 10018 market closed
+CS	0	07:57:59.046	ResearchPullback (XAUUSD_GD,M5)	2022.07.28 22:55:00   Order failure: 10018 market closed
+CS	0	07:57:59.083	ResearchPullback (XAUUSD_GD,M5)	2022.07.31 22:05:01   Order failure: 10018 market closed
+CS	0	07:57:59.119	ResearchPullback (XAUUSD_GD,M5)	2022.08.01 22:05:00   Order failure: 10018 market closed
+CS	0	07:57:59.119	ResearchPullback (XAUUSD_GD,M5)	2022.08.01 22:15:00   Order failure: 10018 market closed
+CS	0	07:57:59.119	ResearchPullback (XAUUSD_GD,M5)	2022.08.01 22:20:00   Order failure: 10018 market closed
+CS	0	07:57:59.119	ResearchPullback (XAUUSD_GD,M5)	2022.08.01 22:40:03   Order failure: 10018 market closed
+CS	0	07:57:59.119	ResearchPullback (XAUUSD_GD,M5)	2022.08.01 22:50:00   Order failure: 10018 market closed
+CS	0	07:57:59.387	ResearchPullback (XAUUSD_GD,M5)	2022.08.10 22:30:00   Order failure: 10018 market closed
+CS	0	07:57:59.387	ResearchPullback (XAUUSD_GD,M5)	2022.08.10 22:35:05   Order failure: 10018 market closed
+CS	0	07:57:59.475	ResearchPullback (XAUUSD_GD,M5)	2022.08.11 22:20:02   Order failure: 10018 market closed
+CS	0	07:57:59.476	ResearchPullback (XAUUSD_GD,M5)	2022.08.11 22:35:01   Order failure: 10018 market closed
+CS	0	07:57:59.476	ResearchPullback (XAUUSD_GD,M5)	2022.08.11 22:40:02   Order failure: 10018 market closed
+CS	0	07:57:59.476	ResearchPullback (XAUUSD_GD,M5)	2022.08.11 22:55:00   Order failure: 10018 market closed
+CS	0	07:57:59.586	ResearchPullback (XAUUSD_GD,M5)	2022.08.16 22:00:00   Diag spread-skip sell signal: ask-bid=0.864 (864pt) > MaxSpreadPoints=800
+CS	0	07:57:59.586	ResearchPullback (XAUUSD_GD,M5)	2022.08.16 22:10:00   Order failure: 10018 market closed
+CS	0	07:57:59.586	ResearchPullback (XAUUSD_GD,M5)	2022.08.16 22:20:02   Order failure: 10018 market closed
+CS	0	07:57:59.586	ResearchPullback (XAUUSD_GD,M5)	2022.08.16 22:35:00   Order failure: 10018 market closed
+CS	0	07:57:59.620	ResearchPullback (XAUUSD_GD,M5)	2022.08.17 22:45:00   Order failure: 10018 market closed
+CS	0	07:57:59.728	ResearchPullback (XAUUSD_GD,M5)	2022.08.22 22:15:42   Order failure: 10018 market closed
+CS	0	07:57:59.728	ResearchPullback (XAUUSD_GD,M5)	2022.08.22 22:20:05   Order failure: 10018 market closed
+CS	0	07:57:59.728	ResearchPullback (XAUUSD_GD,M5)	2022.08.22 22:40:01   Order failure: 10018 market closed
+CS	0	07:57:59.728	ResearchPullback (XAUUSD_GD,M5)	2022.08.22 22:50:01   Order failure: 10018 market closed
+CS	0	07:57:59.758	ResearchPullback (XAUUSD_GD,M5)	2022.08.23 22:10:01   Order failure: 10018 market closed
+CS	0	07:57:59.758	ResearchPullback (XAUUSD_GD,M5)	2022.08.23 22:20:00   Order failure: 10018 market closed
+CS	0	07:57:59.812	ResearchPullback (XAUUSD_GD,M5)	2022.08.25 22:20:02   Order failure: 10018 market closed
+CS	0	07:57:59.835	ResearchPullback (XAUUSD_GD,M5)	2022.08.28 22:00:00   Order failure: 10018 market closed
+CS	0	07:57:59.835	ResearchPullback (XAUUSD_GD,M5)	2022.08.28 22:20:00   Order failure: 10018 market closed
+CS	0	07:57:59.835	ResearchPullback (XAUUSD_GD,M5)	2022.08.28 22:30:02   Order failure: 10018 market closed
+CS	0	07:57:59.835	ResearchPullback (XAUUSD_GD,M5)	2022.08.28 22:35:00   Order failure: 10018 market closed
+CS	0	07:57:59.885	ResearchPullback (XAUUSD_GD,M5)	2022.08.29 22:00:00   Order failure: 10018 market closed
+CS	0	07:57:59.885	ResearchPullback (XAUUSD_GD,M5)	2022.08.29 22:15:00   Order failure: 10018 market closed
+CS	0	07:57:59.885	ResearchPullback (XAUUSD_GD,M5)	2022.08.29 22:20:04   Order failure: 10018 market closed
+CS	0	07:57:59.885	ResearchPullback (XAUUSD_GD,M5)	2022.08.29 22:25:12   Order failure: 10018 market closed
+CS	0	07:57:59.953	ResearchPullback (XAUUSD_GD,M5)	2022.08.31 22:10:00   Order failure: 10018 market closed
+CS	0	07:57:59.953	ResearchPullback (XAUUSD_GD,M5)	2022.08.31 22:50:02   Order failure: 10018 market closed
+CS	0	07:57:59.985	ResearchPullback (XAUUSD_GD,M5)	2022.09.01 22:15:00   Order failure: 10018 market closed
+CS	0	07:57:59.985	ResearchPullback (XAUUSD_GD,M5)	2022.09.01 22:35:02   Order failure: 10018 market closed
+CS	0	07:58:00.017	ResearchPullback (XAUUSD_GD,M5)	2022.09.04 22:10:00   Order failure: 10018 market closed
+CS	0	07:58:00.017	ResearchPullback (XAUUSD_GD,M5)	2022.09.04 22:20:00   Order failure: 10018 market closed
+CS	0	07:58:00.017	ResearchPullback (XAUUSD_GD,M5)	2022.09.04 22:40:00   Order failure: 10018 market closed
+CS	0	07:58:00.112	ResearchPullback (XAUUSD_GD,M5)	2022.09.07 22:35:00   Order failure: 10018 market closed
+CS	0	07:58:00.112	ResearchPullback (XAUUSD_GD,M5)	2022.09.07 22:55:02   Order failure: 10018 market closed
+CS	0	07:58:00.181	ResearchPullback (XAUUSD_GD,M5)	2022.09.11 22:00:00   Diag spread-skip sell signal: ask-bid=1.184 (1184pt) > MaxSpreadPoints=800
+CS	0	07:58:00.329	ResearchPullback (XAUUSD_GD,M5)	2022.09.14 22:35:00   Order failure: 10018 market closed
+CS	0	07:58:00.368	ResearchPullback (XAUUSD_GD,M5)	2022.09.15 22:20:04   Order failure: 10018 market closed
+CS	0	07:58:00.396	ResearchPullback (XAUUSD_GD,M5)	2022.09.18 22:10:07   Order failure: 10018 market closed
+CS	0	07:58:00.623	ResearchPullback (XAUUSD_GD,M5)	2022.09.25 22:00:00   Diag spread-skip sell signal: ask-bid=1.514 (1514pt) > MaxSpreadPoints=800
+CS	0	07:58:00.623	ResearchPullback (XAUUSD_GD,M5)	2022.09.25 22:05:00   Order failure: 10018 market closed
+CS	0	07:58:00.623	ResearchPullback (XAUUSD_GD,M5)	2022.09.25 22:45:04   Order failure: 10018 market closed
+CS	0	07:58:00.623	ResearchPullback (XAUUSD_GD,M5)	2022.09.25 23:00:00   Order failure: 10018 market closed
+CS	0	07:58:01.435	ResearchPullback (XAUUSD_GD,M5)	2022.10.17 22:40:14   Order failure: 10018 market closed
+CS	0	07:58:01.477	ResearchPullback (XAUUSD_GD,M5)	2022.10.18 22:00:00   Diag spread-skip buy signal: ask-bid=1.366 (1366pt) > MaxSpreadPoints=800
+CS	0	07:58:01.617	ResearchPullback (XAUUSD_GD,M5)	2022.10.20 22:00:00   Diag spread-skip sell signal: ask-bid=1.246 (1246pt) > MaxSpreadPoints=800
+CS	0	07:58:01.617	ResearchPullback (XAUUSD_GD,M5)	2022.10.20 22:10:00   Order failure: 10018 market closed
+CS	0	07:58:01.617	ResearchPullback (XAUUSD_GD,M5)	2022.10.20 22:25:00   Order failure: 10018 market closed
+CS	0	07:58:01.696	ResearchPullback (XAUUSD_GD,M5)	2022.10.24 22:00:00   Diag spread-skip sell signal: ask-bid=1.586 (1586pt) > MaxSpreadPoints=800
+CS	0	07:58:01.749	ResearchPullback (XAUUSD_GD,M5)	2022.10.25 22:05:02   Order failure: 10018 market closed
+CS	0	07:58:01.749	ResearchPullback (XAUUSD_GD,M5)	2022.10.25 22:40:03   Order failure: 10018 market closed
+CS	0	07:58:01.860	ResearchPullback (XAUUSD_GD,M5)	2022.10.31 22:00:00   Diag spread-skip sell signal: ask-bid=1.246 (1246pt) > MaxSpreadPoints=800
+CS	0	07:58:01.860	ResearchPullback (XAUUSD_GD,M5)	2022.10.31 22:50:22   Order failure: 10018 market closed
+CS	0	07:58:01.886	ResearchPullback (XAUUSD_GD,M5)	2022.11.01 22:05:00   Order failure: 10018 market closed
+CS	0	07:58:02.458	ResearchPullback (XAUUSD_GD,M5)	2022.11.23 23:10:00   Diag spread-skip buy signal: ask-bid=0.905 (905pt) > MaxSpreadPoints=800
+CS	0	07:58:02.844	ResearchPullback (XAUUSD_GD,M5)	2022.12.11 23:00:00   Order failure: 10018 market closed
+CS	0	07:58:02.954	ResearchPullback (XAUUSD_GD,M5)	2022.12.13 13:30:00   Diag spread-skip buy signal: ask-bid=1.020 (1020pt) > MaxSpreadPoints=800
+CS	0	07:58:03.320	ResearchPullback (XAUUSD_GD,M5)	2023.01.02 23:25:00   Diag spread-skip buy signal: ask-bid=1.227 (1227pt) > MaxSpreadPoints=800
+CS	0	07:58:03.681	ResearchPullback (XAUUSD_GD,M5)	2023.01.17 23:00:00   Diag spread-skip sell signal: ask-bid=1.626 (1626pt) > MaxSpreadPoints=800
+CS	0	07:58:03.936	ResearchPullback (XAUUSD_GD,M5)	2023.01.29 23:00:00   Diag spread-skip sell signal: ask-bid=0.984 (984pt) > MaxSpreadPoints=800
+CS	0	07:58:04.282	ResearchPullback (XAUUSD_GD,M5)	2023.02.08 23:00:00   Diag spread-skip sell signal: ask-bid=1.686 (1686pt) > MaxSpreadPoints=800
+CS	0	07:58:04.282	ResearchPullback (XAUUSD_GD,M5)	2023.02.08 23:05:36   Diag spread-skip sell signal: ask-bid=0.986 (986pt) > MaxSpreadPoints=800
+CS	0	07:58:04.834	ResearchPullback (XAUUSD_GD,M5)	2023.03.06 23:00:00   Diag spread-skip sell signal: ask-bid=1.684 (1684pt) > MaxSpreadPoints=800
+CS	0	07:58:04.947	ResearchPullback (XAUUSD_GD,M5)	2023.03.12 22:00:00   Diag spread-skip buy signal: ask-bid=1.602 (1602pt) > MaxSpreadPoints=800
+CS	0	07:58:04.948	ResearchPullback (XAUUSD_GD,M5)	2023.03.12 22:55:00   Order failure: 10018 market closed
+CS	0	07:58:05.043	ResearchPullback (XAUUSD_GD,M5)	2023.03.14 22:45:07   Order failure: 10018 market closed
+CS	0	07:58:05.043	ResearchPullback (XAUUSD_GD,M5)	2023.03.14 22:50:00   Order failure: 10018 market closed
+CS	0	07:58:05.179	ResearchPullback (XAUUSD_GD,M5)	2023.03.19 22:15:00   Order failure: 10018 market closed
+CS	0	07:58:05.403	ResearchPullback (XAUUSD_GD,M5)	2023.03.27 22:05:00   Order failure: 10018 market closed
+CS	0	07:58:05.403	ResearchPullback (XAUUSD_GD,M5)	2023.03.27 22:20:00   Order failure: 10018 market closed
+CS	0	07:58:05.403	ResearchPullback (XAUUSD_GD,M5)	2023.03.27 22:45:00   Order failure: 10018 market closed
+CS	0	07:58:05.448	ResearchPullback (XAUUSD_GD,M5)	2023.03.29 22:00:00   Diag spread-skip sell signal: ask-bid=1.992 (1992pt) > MaxSpreadPoints=800
+CS	0	07:58:05.448	ResearchPullback (XAUUSD_GD,M5)	2023.03.29 22:15:00   Order failure: 10018 market closed
+CS	0	07:58:05.679	ResearchPullback (XAUUSD_GD,M5)	2023.04.09 22:00:00   Order failure: 10018 market closed
+CS	0	07:58:05.820	ResearchPullback (XAUUSD_GD,M5)	2023.04.16 22:00:10   Diag spread-skip sell signal: ask-bid=0.904 (904pt) > MaxSpreadPoints=800
+CS	0	07:58:05.820	ResearchPullback (XAUUSD_GD,M5)	2023.04.16 22:15:00   Order failure: 10018 market closed
+CS	0	07:58:05.892	ResearchPullback (XAUUSD_GD,M5)	2023.04.18 22:10:00   Order failure: 10018 market closed
+CS	0	07:58:05.892	ResearchPullback (XAUUSD_GD,M5)	2023.04.18 22:25:02   Order failure: 10018 market closed
+CS	0	07:58:05.892	ResearchPullback (XAUUSD_GD,M5)	2023.04.18 22:30:00   Order failure: 10018 market closed
+CS	0	07:58:06.470	ResearchPullback (XAUUSD_GD,M5)	2023.05.09 22:10:01   Order failure: 10018 market closed
+CS	0	07:58:06.470	ResearchPullback (XAUUSD_GD,M5)	2023.05.09 22:15:00   Order failure: 10018 market closed
+CS	0	07:58:06.501	ResearchPullback (XAUUSD_GD,M5)	2023.05.10 22:20:00   Order failure: 10018 market closed
+CS	0	07:58:06.501	ResearchPullback (XAUUSD_GD,M5)	2023.05.10 22:25:01   Order failure: 10018 market closed
+CS	0	07:58:06.502	ResearchPullback (XAUUSD_GD,M5)	2023.05.10 22:45:00   Order failure: 10018 market closed
+CS	0	07:58:06.502	ResearchPullback (XAUUSD_GD,M5)	2023.05.10 22:55:00   Order failure: 10018 market closed
+CS	0	07:58:06.570	ResearchPullback (XAUUSD_GD,M5)	2023.05.14 22:50:00   Order failure: 10018 market closed
+CS	0	07:58:06.570	ResearchPullback (XAUUSD_GD,M5)	2023.05.14 23:00:00   Order failure: 10018 market closed
+CS	0	07:58:06.596	ResearchPullback (XAUUSD_GD,M5)	2023.05.15 22:00:00   Diag spread-skip sell signal: ask-bid=1.792 (1792pt) > MaxSpreadPoints=800
+CS	0	07:58:06.596	ResearchPullback (XAUUSD_GD,M5)	2023.05.15 22:40:05   Order failure: 10018 market closed
+CS	0	07:58:06.596	ResearchPullback (XAUUSD_GD,M5)	2023.05.15 22:45:00   Order failure: 10018 market closed
+CS	0	07:58:06.910	ResearchPullback (XAUUSD_GD,M5)	2023.05.29 22:05:00   Order failure: 10018 market closed
+CS	0	07:58:06.910	ResearchPullback (XAUUSD_GD,M5)	2023.05.29 22:20:00   Order failure: 10018 market closed
+CS	0	07:58:06.910	ResearchPullback (XAUUSD_GD,M5)	2023.05.29 22:45:00   Order failure: 10018 market closed
+CS	0	07:58:07.011	ResearchPullback (XAUUSD_GD,M5)	2023.06.04 22:50:00   Order failure: 10018 market closed
+CS	0	07:58:07.011	ResearchPullback (XAUUSD_GD,M5)	2023.06.04 23:00:01   Order failure: 10018 market closed
+CS	0	07:58:07.155	ResearchPullback (XAUUSD_GD,M5)	2023.06.13 12:30:00   Diag spread-skip sell signal: ask-bid=1.492 (1492pt) > MaxSpreadPoints=800
+CS	0	07:58:07.317	ResearchPullback (XAUUSD_GD,M5)	2023.06.21 22:10:00   Order failure: 10018 market closed
+CS	0	07:58:07.453	ResearchPullback (XAUUSD_GD,M5)	2023.06.29 22:45:00   Order failure: 10018 market closed
+CS	0	07:58:07.478	ResearchPullback (XAUUSD_GD,M5)	2023.06.30 20:55:00   Diag spread-skip buy signal: ask-bid=1.182 (1182pt) > MaxSpreadPoints=800
+CS	0	07:58:07.478	ResearchPullback (XAUUSD_GD,M5)	2023.07.02 22:00:00   Diag spread-skip buy signal: ask-bid=1.654 (1654pt) > MaxSpreadPoints=800
+CS	0	07:58:07.478	ResearchPullback (XAUUSD_GD,M5)	2023.07.02 22:15:00   Order failure: 10018 market closed
+CS	0	07:58:07.478	ResearchPullback (XAUUSD_GD,M5)	2023.07.02 22:40:00   Order failure: 10018 market closed
+CS	0	07:58:07.509	ResearchPullback (XAUUSD_GD,M5)	2023.07.04 22:15:20   Diag spread-skip sell signal: ask-bid=1.357 (1357pt) > MaxSpreadPoints=800
+CS	0	07:58:07.684	ResearchPullback (XAUUSD_GD,M5)	2023.07.13 12:30:00   Diag spread-skip sell signal: ask-bid=0.927 (927pt) > MaxSpreadPoints=800
+CS	0	07:58:07.736	ResearchPullback (XAUUSD_GD,M5)	2023.07.17 22:00:00   Diag spread-skip buy signal: ask-bid=1.692 (1692pt) > MaxSpreadPoints=800
+CS	0	07:58:07.736	ResearchPullback (XAUUSD_GD,M5)	2023.07.17 22:35:04   Order failure: 10018 market closed
+CS	0	07:58:07.736	ResearchPullback (XAUUSD_GD,M5)	2023.07.17 22:45:00   Order failure: 10018 market closed
+CS	0	07:58:07.736	ResearchPullback (XAUUSD_GD,M5)	2023.07.17 22:50:02   Order failure: 10018 market closed
+CS	0	07:58:07.934	ResearchPullback (XAUUSD_GD,M5)	2023.07.30 22:00:00   Diag spread-skip sell signal: ask-bid=1.897 (1897pt) > MaxSpreadPoints=800
+CS	0	07:58:07.956	ResearchPullback (XAUUSD_GD,M5)	2023.07.31 22:10:04   Order failure: 10018 market closed
+CS	0	07:58:07.956	ResearchPullback (XAUUSD_GD,M5)	2023.07.31 22:20:00   Order failure: 10018 market closed
+CS	0	07:58:07.956	ResearchPullback (XAUUSD_GD,M5)	2023.07.31 22:50:10   Order failure: 10018 market closed
+CS	0	07:58:08.145	ResearchPullback (XAUUSD_GD,M5)	2023.08.14 22:20:01   Order failure: 10018 market closed
+CS	0	07:58:08.145	ResearchPullback (XAUUSD_GD,M5)	2023.08.14 22:35:02   Order failure: 10018 market closed
+CS	0	07:58:08.145	ResearchPullback (XAUUSD_GD,M5)	2023.08.14 22:40:10   Order failure: 10018 market closed
+CS	0	07:58:08.169	ResearchPullback (XAUUSD_GD,M5)	2023.08.15 22:15:02   Order failure: 10018 market closed
+CS	0	07:58:08.169	ResearchPullback (XAUUSD_GD,M5)	2023.08.15 22:30:00   Order failure: 10018 market closed
+CS	0	07:58:08.169	ResearchPullback (XAUUSD_GD,M5)	2023.08.15 22:35:00   Order failure: 10018 market closed
+CS	0	07:58:08.219	ResearchPullback (XAUUSD_GD,M5)	2023.08.17 22:00:00   Diag spread-skip sell signal: ask-bid=1.327 (1327pt) > MaxSpreadPoints=800
+CS	0	07:58:08.264	ResearchPullback (XAUUSD_GD,M5)	2023.08.22 22:05:00   Order failure: 10018 market closed
+CS	0	07:58:08.327	ResearchPullback (XAUUSD_GD,M5)	2023.08.28 22:00:00   Diag spread-skip sell signal: ask-bid=1.304 (1304pt) > MaxSpreadPoints=800
+CS	0	07:58:08.389	ResearchPullback (XAUUSD_GD,M5)	2023.09.03 22:00:00   Diag spread-skip sell signal: ask-bid=1.007 (1007pt) > MaxSpreadPoints=800
+CS	0	07:58:08.389	ResearchPullback (XAUUSD_GD,M5)	2023.09.03 22:10:26   Order failure: 10018 market closed
+CS	0	07:58:08.389	ResearchPullback (XAUUSD_GD,M5)	2023.09.03 22:15:00   Order failure: 10018 market closed
+CS	0	07:58:08.389	ResearchPullback (XAUUSD_GD,M5)	2023.09.03 22:45:00   Order failure: 10018 market closed
+CS	0	07:58:08.467	ResearchPullback (XAUUSD_GD,M5)	2023.09.10 22:20:00   Order failure: 10018 market closed
+CS	0	07:58:08.546	ResearchPullback (XAUUSD_GD,M5)	2023.09.17 22:00:00   Diag spread-skip sell signal: ask-bid=1.704 (1704pt) > MaxSpreadPoints=800
+CS	0	07:58:08.546	ResearchPullback (XAUUSD_GD,M5)	2023.09.17 22:50:08   Order failure: 10018 market closed
+CS	0	07:58:08.546	ResearchPullback (XAUUSD_GD,M5)	2023.09.17 23:00:00   Order failure: 10018 market closed
+CS	0	07:58:08.558	ResearchPullback (XAUUSD_GD,M5)	2023.09.18 22:05:00   Order failure: 10018 market closed
+CS	0	07:58:08.558	ResearchPullback (XAUUSD_GD,M5)	2023.09.18 22:55:10   Order failure: 10018 market closed
+CS	0	07:58:08.694	ResearchPullback (XAUUSD_GD,M5)	2023.09.28 22:20:45   Order failure: 10018 market closed
+CS	0	07:58:08.694	ResearchPullback (XAUUSD_GD,M5)	2023.09.28 22:30:00   Order failure: 10018 market closed
+CS	0	07:58:08.694	ResearchPullback (XAUUSD_GD,M5)	2023.09.28 22:35:01   Order failure: 10018 market closed
+CS	0	07:58:08.716	ResearchPullback (XAUUSD_GD,M5)	2023.10.01 22:00:00   Diag spread-skip sell signal: ask-bid=1.944 (1944pt) > MaxSpreadPoints=800
+CS	0	07:58:08.716	ResearchPullback (XAUUSD_GD,M5)	2023.10.01 22:30:00   Order failure: 10018 market closed
+CS	0	07:58:08.779	ResearchPullback (XAUUSD_GD,M5)	2023.10.04 22:00:00   Diag spread-skip buy signal: ask-bid=1.434 (1434pt) > MaxSpreadPoints=800
+CS	0	07:58:08.779	ResearchPullback (XAUUSD_GD,M5)	2023.10.04 22:05:00   Order failure: 10018 market closed
+CS	0	07:58:08.936	ResearchPullback (XAUUSD_GD,M5)	2023.10.15 22:00:00   Diag spread-skip buy signal: ask-bid=1.804 (1804pt) > MaxSpreadPoints=800
+CS	0	07:58:08.937	ResearchPullback (XAUUSD_GD,M5)	2023.10.15 22:55:07   Order failure: 10018 market closed
+CS	0	07:58:09.019	ResearchPullback (XAUUSD_GD,M5)	2023.10.18 22:50:02   Order failure: 10018 market closed
+CS	0	07:58:09.087	ResearchPullback (XAUUSD_GD,M5)	2023.10.23 22:35:00   Order failure: 10018 market closed
+CS	0	07:58:09.087	ResearchPullback (XAUUSD_GD,M5)	2023.10.23 22:40:07   Order failure: 10018 market closed
+CS	0	07:58:09.239	ResearchPullback (XAUUSD_GD,M5)	2023.10.30 22:00:01   Diag spread-skip sell signal: ask-bid=1.890 (1890pt) > MaxSpreadPoints=800
+CS	0	07:58:10.196	Tester	final balance 7502.35 USD
+CS	0	07:58:10.196	ResearchPullback (XAUUSD_GD,M5)	2023.12.29 21:58:59   Diag symbol: name=XAUUSD_GD description="Gold vs US Dollar" path="Custom\GoldDesk\XAUUSD_GD" digits=3 point=0.0010000000 ticksize=0.0010000000 contract=100.00 spread_float=true stopslevel=0
+CS	0	07:58:10.196	ResearchPullback (XAUUSD_GD,M5)	2023.12.29 21:58:59   Diag spread all ticks (ask-bid): n=90076035 min=1pt(0.001) median=344pt(0.344) max=5990pt(5.990) share<=800pt=99.92%  [price min=0.001 max=5.990]
+CS	0	07:58:10.196	ResearchPullback (XAUUSD_GD,M5)	2023.12.29 21:58:59   Diag spread at checked new-bar ticks: n=71691 min=1pt(0.001) median=340pt(0.340) max=3661pt(3.661) share<=800pt=99.64%
+CS	0	07:58:10.196	ResearchPullback (XAUUSD_GD,M5)	2023.12.29 21:58:59   Diag counts: new_bars=141544 skip_position=69853 skip_tick_or_atr=0 signals=5780 (buy=2904 sell=2876) spread_blocked_bars=262 spread_blocked_signals=39 stops_level_skip=7 orders_sent=5734 order_failures=178
+CS	0	07:58:10.223	ResearchPullback (XAUUSD_GD,M5)	2023.12.29 21:58:59   Export: research_deals_20370238.csv rows=11112 positions=5556 history_deals_total=11113 duplicates_skipped=0 own_positions_open_at_export=0
+CS	0	07:58:10.253	Tester	XAUUSD_GD,M5: 90076035 ticks, 141544 bars generated. Environment synchronized in 0:00:00.019. Test passed in 0:00:20.427 (including ticks preprocessing 0:00:03.266).
+CS	0	07:58:10.253	Tester	XAUUSD_GD,M5: total time from login to stop testing 0:00:20.446 (including 0:00:00.019 for history data synchronization)
+CS	0	07:58:10.253	Tester	1972 Mb memory used including 9 Mb of history data, 1856 Mb of tick data
+CS	0	07:58:10.253	Tester	log file "<USER_HOME>\MT5_EMTester\Tester\Agent-127.0.0.1-3000\logs\20261103.log" written
+CS	0	07:58:10.277	Tester	test Experts\Research\ResearchPullback.ex5 on XAUUSD_GD,M5 thread finished
+CS	0	07:58:10.389	127.0.0.1	tester forced to close
+CS	0	07:58:10.389	127.0.0.1	prepare for shutdown
+CS	0	07:58:10.389	127.0.0.1	stop immediately
+CS	0	07:58:10.389	127.0.0.1	shutdown finished
+CS	0	07:58:10.594	Server	MetaTester 5 stopped
